@@ -1,2 +1,2 @@
 # BungeeCord
-FlameCord / MihaiSecuirty / IlieScure / KutzuCord
+FlameCord / MHASecuirty / IlieScure / KutzuCord
