@@ -22,42 +22,8 @@
 # - Templates cannot be removed or re-ordered in this configuration without resetting all active templates (renaming existing templates or adding new templates at any time is fine).
 # - Template names cannot contain dots or spaces.
 # If you wish to start from scratch, clearing all templates from existing punishments, use "/litebans reset-templates".
-ban-templates:
-  # A simple example ban template with a mute action.
-  Example-Ban-Template:
-    reason: 'Example'
-    message: 'Ban message'
-    permission: litebans.group.example
-    ladder:
-      third:
-        duration: 30d
-        actions: ['/mute $playerName 60d']
-      second:
-        duration: 10d
-      first:
-        duration: 5d
-    expire_ladder: 90d
-    ip_template: false
-
-mute-templates:
-  Example-Spam:
-    reason: 'Spamming'
-    message: 'You have been muted for spamming!'
-    permission: litebans.group.example
-    ladder:
-      fourth:
-        duration: 2 weeks
-      third:
-        duration: 5 days
-      second:
-        duration: 12 hours
-      first:
-        message: '&cPlease stop spamming!\nThis is your first and only warning. If you do this again, you will be muted for 12 hours.'
-        duration: 5s
-    expire_ladder: 30d
-    ip_template: false
-
+ban-templates: {}
+mute-templates: {}
 warn-templates: {}
 kick-templates: {}
-
 template-groups: {}

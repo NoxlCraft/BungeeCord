@@ -65,7 +65,7 @@ joinRequireSecurityLoginStay: 1200
 joinRequireSecurityLoginFadeOut: 30
 joinRequireSecurityLoginChat: ''
 joinRequireRegisterTitle: '&e&lYou need to use'
-joinRequireRegisterSubTitle: '&6/register <password> <captcha>'
+joinRequireRegisterSubTitle: '&6/register <password> <password>'
 joinRequireRegisterFadeIn: 30
 joinRequireRegisterStay: 1200
 joinRequireRegisterFadeOut: 30

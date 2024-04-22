@@ -32,35 +32,23 @@
 Default:
   Description:
   - |-
-    &aA Minecraft Server.
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
+    &7                 &c&lNoxl&f&lCraft &4☁ &c&lNEW UPDATE
+    &8            &7play.noxlcraft.fun &c&lϟ &7[ &c1.8.x - 1.20.x &7]
   - |-
-    &aA Minecraft Server.
-    &cNow running the latest &lMinecraft &cversion!
-  - |-
-    &a&#45bf55A Minecraft &#0288d1Server.
-    &c%gradient#ffbe00#f4511e%Now with RGB colors. Nice!%gradient%
+    &7               &c&lNoxl&f&lCraft &4☁ &c&lNEW UPDATE
+    &8                 &7⇸ &7Server online! Join Now!  
   Players:
     Hover:
     - |-
-      &aWelcome to &lA Minecraft Server&a!
-      &aCurrently &c&l%online%/%max% &aplayers are playing on our server!
-Personalized:
-  Description:
-  - |-
-    &aA Minecraft Server. &7|  &cHello, &l%player%!
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
-  - |-
-    &aA Minecraft Server. &7|  &cHello, &l%player%!
-    &cNow running the latest &lMinecraft &cversion!
-  - |-
-    &a&#45bf55A Minecraft &#0288d1Server.
-    &c%gradient#ffbe00#f4511e%Now with RGB colors. Hello %player%!%gradient%
-  Players:
-    Hover:
-    - |-
-      &aWelcome back, &l%player%&a!
-      &aCurrently &c&l%online%/%max% &aplayers are playing on our server!
+      &7
+      &7       ✸&c✸&4✸ &c&lNoxl&f&lCraft  &4✸&c✸&7✸
+      &7
+      &4&lPANEL &cpanel.noxlcraft.fun
+      &4&lDISCORD &cnoxlcraft.fun/discord
+      &4&lVOTE &cnoxlcraft.fun/vote
+      &7
+      &4&m✸&c&m✸&7&m✸--------------------&7&m✸&c&m✸&4&m✸
+
 
 # PlayerTracking: Enable/disable tracking of player names to their IP-Addresses.
 #   - Persistence can be disabled with the toggle in the Storage section.

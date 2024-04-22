@@ -134,7 +134,7 @@ server-commands:
 auto-messages: true
 
 custom-brand:
-  enabled: true
+  enabled: false
   brand: "&c&lIlie&f&lGuard"
 
 domains-whitelist:

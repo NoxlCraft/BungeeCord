@@ -5,7 +5,7 @@
 # Log all broadcasts to your Discord server?
 # To enable, copy your integrations webhook URL and paste it within the quotes provided. Example:
 # default_webhook: 'https://discord.com/api/webhooks/12345'
-default_webhook: ''
+default_webhook: 'https://discord.com/api/webhooks/1232093903679914107/zDBefPgLAnG2zxXbucE-NKl-a9IQVIxA0_TYOgi4x_KstjpP8KqO_Q5zK7X64bMm8wnl'
 
 webhooks:
   alts: 'off'

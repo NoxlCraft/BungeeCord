@@ -89,11 +89,11 @@ multiProxySupport: false
 
 # Should JPremium verify captcha codes which are entered by cracked players.
 # If you set disable it, please also set 'captchaMapSlot' to '-1' in your JPremium configuration files on all your Spigot servers.
-verifyCaptchaCode: true
+verifyCaptchaCode: false
 
 # Should JPremium require to confirm a password in the register, change password and create password commands?
 # If you enable it, please do not forget to change the usage messages in the message file.
-confirmPassword: false
+confirmPassword: true
 
 # Should JPremium require to execute /confirm command when a player executes a risky command (/unregister, /premium, /cracked).
 riskyCommandsConfirmation: true
@@ -109,7 +109,7 @@ passwordRecoverySubject: The password recovery
 
 # A server name which is used for generating a TOTP auth link.
 # The server name is shown in a TOTP application.
-serverName: Your server name
+serverName: NoxlCraft
 
 # The maximum attempts of login tries before a cracked player will be disconnected.
 # Set to 0 to disable.
@@ -138,7 +138,7 @@ automaticUnregisterTime: 0
 # The hashing algorithm which is used to hash cracked player passwords.
 # There are two options: SHA256, SHA512, BCRYPT.
 # All the algorithms are salted.
-passwordHashingAlgorithm: SHA256
+passwordHashingAlgorithm: BCRYPT
 
 # The safe password pattern (in regular expression). Cracked player passwords have to match to it.
 safePasswordPattern: '[\S]{6,25}'
