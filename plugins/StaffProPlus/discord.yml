@@ -1,0 +1,13 @@
+token: "MTE5NjUzODM5NTU0ODIwMTEyMA.GBQv6t.DR3Br2TaBxgNVSNHfU-FNs2fLI_gGRWGlJQe9A"
+status: "online"
+bot-owner: "964966303385387108"
+
+activity:
+  type: "PLAYING"
+  name: "Minecraft"
+
+guild: "1228972579537027156" # Discord Guild ID
+
+channels:
+  staffchat: "1228972579570843677"
+  staffannouncements: "1228972579570843673"

@@ -1,0 +1,165 @@
+minecraft:
+  join-leave-staff: true
+
+  commands:
+    staffannouncement:
+      enabled: true
+      name: staffannouncement
+      permission: staffproplus.staffannouncement
+      aliases:
+        - sa
+
+    staffchat:
+      enabled: true
+      name: staffchat
+      permission: staffproplus.staffchat
+      aliases:
+        - sc
+
+    stafflist:
+      enabled: true
+      name: stafflist
+      permission: staffproplus.stafflist
+      aliases:
+        - staff
+        - staffonline
+
+    player:
+      enabled: true
+      name: player
+      permission: staffproplus.player
+      aliases:
+        - p
+        - whois
+        - who
+
+    spp:
+      enabled: true
+      name: spp
+      permission: staffproplus.spp
+      aliases:
+        - staffproplus
+
+    alert:
+      enabled: true
+      name: alert
+      permission: staffproplus.alert
+      aliases:
+        - announce
+        - a
+
+    sav:
+      enabled: false
+      name: sav
+      permission: staffproplus.isstaff
+      aliases: []
+
+    maintenance:
+      enabled: true
+      name: maintenance
+      permission: staffproplus.maintenance
+      aliases:
+        - m
+
+    msg:
+      enabled: true
+      name: msg
+      permission: staffproplus.msg
+      aliases:
+        - m
+        - tell
+        - whisper
+        - w
+        - t
+
+    reply:
+      enabled: true
+      name: reply
+      permission: staffproplus.reply
+      aliases:
+          - r
+
+    spy:
+      enabled: true
+      name: spy
+      permission: staffproplus.spy
+      aliases: []
+
+    report:
+      enabled: true
+      name: report
+      permission: staffproplus.report
+      aliases: []
+
+    faq:
+      enabled: true
+      name: faq
+      permission: staffproplus.faq
+      aliases: []
+
+overrides:
+  servers:
+    lobby: "Lobby01"
+
+server-commands:
+  lobby:
+    permission: staffproplus.servere
+    server: lobby
+    message: ""
+  hub:
+    permission: staffproplus.servere
+    server: lobby
+    message: ""
+  skycoon:
+    permission: staffproplus.servere
+    server: skyccon
+    message: ""
+  bedwars:
+    permission: staffproplus.servere
+    server: bedwars
+    message: ""
+  survival:
+    permission: staffproplus.servere
+    server: survival
+    message: ""
+  thepit:
+    permission: staffproplus.servere
+    server: thepit
+    message: ""
+  boxpvp:
+    permission: staffproplus.servere
+    server: boxpvp
+    message: ""
+
+auto-messages: true
+
+custom-brand:
+  enabled: true
+  brand: "&c&lIlie&f&lGuard"
+
+domains-whitelist:
+    enabled: true
+    domains:
+        - "play.noxlcraft.fun"
+        - "mc.noxlcraft.fun"
+        - "join.noxlcraft.fun"
+    message:
+      - "&7Asta nu este ip-ul nostru principal!"
+      - "&7Te rog sa intri de pe &cplay.noxlcraft.fun&7!"
+
+discord:
+  enabled: true
+
+  features:
+    staffchat:
+      enabled: true
+
+  commands:
+    staffannouncement:
+      enabled: true
+    stafflist:
+      enabled: true
+    debug:
+      enabled: true
+    player:
+      enabled: true

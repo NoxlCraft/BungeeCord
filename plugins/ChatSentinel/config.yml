@@ -1,0 +1,71 @@
+whitelist:
+  enabled: true
+
+general:
+  sanitize: true
+  sanitize-names: true
+  filter-other: false
+  commands:
+    - /broadcast
+    - /ebroadcast
+    - /bc
+    - /ebc
+    - /tell
+    - /etell
+    - /msg
+    - /emsg
+    - /reply
+    - /ereply
+    - /r
+    - /er
+    - /global
+    - /g
+blacklist:
+  enabled: true
+  fake_message: false
+  hide_words: false
+
+  warn:
+    max: 3
+    notification: "&c&lNoxl&f&lCraft &7» &4%player%&7 a incercat sa zica: &c%message%&7 (&cLBJ&7)."
+
+  punishments:
+    - ""
+
+caps:
+  enabled: true
+  replace: true
+  max: 8
+
+  warn:
+    max: -1
+    notification: "&c&lNoxl&f&lCraft &7» &4%player%&7 a incercat sa zica: &c%message%&7 (&cCAPS&7)."
+  punishments: []
+cooldown:
+  enabled: true
+  time:
+    repeat-global: 1000
+    repeat: 10000
+    normal: 1000
+    command: 400
+flood:
+  enabled: true
+  replace: true
+  pattern: (\w)\1{5,}|(\w{28,})|([^\wñ]{20,})|(^.{220,}$)
+
+  warn:
+    max: -1
+    notification: "&c&lNoxl&f&lCraft &7» &4%player%&7 a incercat sa zica: &c%message%&7. (&cPrel&7)"
+  punishments: []
+
+syntax:
+  enabled: true
+
+  whitelist:
+    - "/strikepractice:"
+
+  warn:
+    max: -1
+    notification: "&c&lNoxl&f&lCraft &7» &4%player%&7 a incercat sa foloseasca: &c%message%&7 (Syntax)."
+
+  punishments: []

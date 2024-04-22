@@ -1,0 +1,54 @@
+groups:
+  owner:
+    stafflist: "  &c&m&l|&r  &8(&c%server%&8) &4&lOwner &f%player%"
+    staffchat: "&4&lOwner &f%player%&7: &f%message%"
+    stafflist-discord: "**`->`** (`%server%`) **Owner** %player%"
+    stafflist-vanished: "  &c&m&l|&r  &8(&c%server%&8) &4&lOwner &f%player% &7(Vanish)"
+
+  admin:
+    stafflist: "  &c&m&l|&r  &8(&c%server%&8) &c&lAdmin &f%player%"
+    staffchat: "&c&lAdmin &f%player%&7: &f%message%"
+    stafflist-discord: "**`->`** (`%server%`) **Admin** %player%"
+    stafflist-vanished: "  &c&m&l|&r  &8(&c%server%&8) &c&lAdmin &f%player% &7(Vanish)"
+
+  moderator:
+    stafflist: "  &c&m&l|&r  &8(&c%server%&8) &9&lMod &f%player%"
+    staffchat: "&9&lMod &f%player%&7: &f%message%"
+    stafflist-discord: "**`->`** (`%server%`) **Mod** %player%"
+    stafflist-vanished: "  &c&m&l|&r  &8(&c%server%&8) &9&lMod &f%player% &7(Vanish)"
+
+  default:
+    stafflist: "  &c&m&l|&r  &8(&c%server%&8) &7%player%"
+    staffchat: "&7%player%&7: &f%message%"
+    stafflist-discord: "**`->`** (`%server%`) %player%"
+    stafflist-vanished: "  &c&m&l|&r  &8(&c%server%&8) &7%player% &7(Vanish)"
+
+discord:
+  staffchat: " &c&lStaffChat &7(&9Discord&7) &r&7» &f%name%&7: &f%message%"
+
+staffchat: " &c&lStaffChat &7(&c%server%&7) &r&7» &r%format%"
+stafflist:
+  - "&8&m------------------&r &c&lSTAFF &8&m------------------"
+  - "   &cStaff Online: &f%online%"
+  - " &7"
+  - "%stafflist%"
+  - "&8&m-------------------------------------------"
+
+announcement:
+  - "&8&m----------&r &c&lSTAFF ANNOUNCEMENT &8&m----------"
+  - " &r"
+  - " &r%announcement%"
+  - "   &c&m&l|&r &7Trimis de &r%prefix% &r%sender%"
+  - "&8&m-------------------------------------------"
+
+secret-announcement:
+  enabled: false
+  message:
+    content:
+      - "&8&m----------&r &c&lSTAFF ANNOUNCEMENT &8&m----------"
+      - " &f"
+      - " &c(&7Click pentru a vedea&c)"
+      - "   &c&m&l|&r &7Trimis de: &r%prefix% &r%sender%"
+      - "&8&m-------------------------------------------"
+    hover: "&7Click pentru a vedea"
+    command: "/sav %id%"

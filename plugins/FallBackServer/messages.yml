@@ -1,0 +1,99 @@
+MESSAGES:
+  prefix: "&c&lNoxl&f&lCraft &7» "
+  syntax: "%prefix% &7Sintaxa corecta: &c/fs <reload:add:remove:status:servers>"
+  no_permission: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
+  reloaded: "%prefix% &7Configuratia a fost reîncarcata cu succes!"
+  only_player: "%prefix% &7Aceasta comanda poate fi folosita doar de jucatori."
+  already_in_hub: "%prefix% &7Esti deja în &clobby"
+  moved: "&7Ai fost mutat pe &c%server%"
+  disabled_command: "&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!"
+  no_server: "%prefix% &7Nu exista un server cu acest nume."
+  empty_server: "%prefix% &7Te rog sa specifici un nume de server."
+  server_is_added: "%prefix% &c%server% &7este deja adaugat la lista serverelor fallback."
+  server_removed: "%prefix% &c%server% &7a fost eliminat din configuratie."
+  server_not_added: "%prefix% &c%server% &7nu exista în configuratie."
+  server_not_available: "%prefix% &c%server% &7nu este inclus în configuratia BungeeCord."
+  server_added: "%prefix% &c%server% &7a fost adaugat la configuratie."
+  connection_failed: "%prefix% &7Re-conectarea &c&la esuat&7! Se revine la serverul fallback."
+  exiting_reconnect: "%prefix% &7Iesire din modul de re-conectare."
+
+  moved_to_lobby:
+    - ""
+    - "&7&m---------------------------------"
+    - ""
+    - "&7Ai fost mutat pe &c%server%"
+    - "&7Motivul: &c%reason%"
+    - ""
+    - "&7&m---------------------------------"
+
+  new_update:
+    - ""
+
+  fallback_command:
+    - "&8&m-----&8[&cServer Fallback&8]&m-----"
+    - ""
+    - "&c/fs reload &7| Comanda pentru reîncarcarea configuratiei."
+    - "&c/fs add <server> &7| Adauga un server fallback în configuratie."
+    - "&c/fs remove <server> &7| Elimina un server fallback din configuratie."
+    - "&c/fs status &7| Afiseaza starea instantei proxy."
+    - ""
+    - "&7Versiunea curenta: &c%version%"
+    - "&8&m---------------------------"
+
+  stats_command:
+    - "&8&m-----&8[&cSTATUS&8]&m-----"
+    - ""
+    - "&7Versiunea curenta: &c%version%"
+    - "&7Versiunea proxy-ului: &c%proxy_version%"
+    - "&7Nuclee CPU: &c%cores%"
+    - "&7Memorie utilizata: &c%used_memory% MB"
+    - "&7Jucatori totali: &c%total_players%"
+    - ""
+    - "&7Ruleaza &c/fs servers &7pentru a obtine"
+    - "&7starea lobby-urilor tale."
+    - ""
+    - "&8&m---------------------------"
+
+  servers_command:
+    online: "&aONLINE"
+    offline: "&cOFFLINE"
+    servers: "&7%server% &8| &c%status%"
+    header:
+      - "&8&m-----&8[&cSERVERE&8]&m-----"
+      - ""
+    footer:
+      - ""
+      - "&8&m------------------"
+
+TITLES: # Totul în secunde.
+  fallback:
+    enabled: true
+    delay: 2
+    fade_in: 1 # Timpul de afisare a titlului
+    fade_out: 1  # Timpul de disparitie a titlului
+    stay: 3 # Timpul de mentinere a titlului
+    fallback_title: "&cServerul a cazut!"
+    fallback_sub_title: "&7Ai fost mutat în lobby."
+
+  # Valorile titlului de reconectare sunt automatice.
+  # Poti activa/dezactiva aceasta optiune în config.yml
+  reconnect:
+    reconnect_title: "&c&lReconectare&7%dots%"
+    reconnect_sub_title: "&7Te rog sa astepti!"
+    connecting_title: "&4&lConectare&7%dots%"
+    connecting_sub_title: "&7Asteptare raspuns de la server."
+    connected:
+      delay: 2
+      fade_in: 1
+      fade_out: 1
+      stay: 2
+      title: "&c&lConectat!"
+      sub_title: "&7Ai fost conectat la &c%server%"
+
+  lobby:
+    enabled: true
+    fade_in: 1
+    fade_out: 1
+    stay: 3
+    lobby_title: "&c&lConectat la lobby."
+    lobby_sub_title: "&7Bun venit înapoi!"

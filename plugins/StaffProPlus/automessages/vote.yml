@@ -1,0 +1,10 @@
+random: false # If true, the messages will be sent in random order. If false, the messages will be sent in order.
+interval: 120 # In seconds.
+messages:
+  - - "&7 "
+    - "  &7Doresti să votezi pentru server-ul"
+    - "  &7nostru pentru a primi recompense?"
+    - "  &7 "
+    - "  &7Votează acum si obține recompense speciale!"
+    - "  &c&nhttps://vote.noxlcraft.fun"
+    - "&7 "

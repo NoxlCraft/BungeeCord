@@ -1,0 +1,14 @@
+{
+  "content": "# Staff Announcement",
+  "embeds": [
+    {
+      "description": "%announcement%",
+      "color": "#ff0000",
+      "footer": {
+        "text": "%sender%",
+        "icon_url": "%pfp%"
+      },
+      "timestamp": "now"
+    }
+  ]
+}

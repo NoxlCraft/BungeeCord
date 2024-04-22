@@ -1,0 +1,52 @@
+enabled: false
+
+whitelisted-players:
+  - "NaysKutzu" # De exemplu, va rugam sa eliminati aceasta linie si sa adaugati aici propriul pseudonim.
+  - "Alexutzerion5"
+  - "Alice152"
+  - "M1ha1V2"
+
+message:
+  - "&c&lModul de intretinere"
+  - "&7"
+  - "&7Serverul se afla in prezent in modul de intretinere."
+  - "&7Te rugam sa incerci din nou mai tarziu."
+  - "&7"
+  - "&7Iti multumim pentru intelegere."
+  - "&7"
+  - "&7Mai multe informatii: &bdiscord.noxlcraft.fun"
+
+command:
+  help:
+    - "&8&m----------&r &c&lNoxl&f&lCraft &8&m----------"
+    - " &f"
+    - " &7Comenzi:"
+    - "  &c/maintenance | /maintenance help"
+    - "  &c/maintenance enable"
+    - "  &c/maintenance disable"
+    - "  &c/maintenance status"
+    - "  &c/maintenance add <player>"
+    - "  &c/maintenance remove <player>"
+    - " &f"
+    - "&8&m-----------------------------------"
+  enable:
+    message:
+      - "  &7Modul de intretinere a fost &aactivat&7."
+  disable:
+    message:
+      - "  &7Modul de intretinere a fost &cdezactivat&7."
+  status:
+    enabled:
+      - "  &7Modul de intretinere este &aactiv&7 in prezent."
+    disabled:
+      - "  &7Modul de intretinere este &cdezactivat&7 in prezent."
+  add:
+    success:
+      - "  &a%player% &7a fost adaugat la lista alba."
+    already-added:
+      - "  &c%player% &7est deja in lista alba."
+  remove:
+    success:
+      - "  &c%player% &7a fost eliminat din lista alba."
+    not-added:
+      - "  &c%player% &7nu se afla in lista alba."

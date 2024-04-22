@@ -1,0 +1,24 @@
+header:
+- '&c&lServerName &7- &c&lFAQ'
+question:
+- '  &c%number%. &f%question%'
+- '    &7Click to view answer.'
+answer:
+- ' &c%question%'
+- '   &f%answer%'
+footer:
+- '&cIf you have more questions, ask our team!'
+not-found: '&cQuestion not found!'
+content:
+  '1':
+    question: What is the name of this server?
+    answer:
+    - This server is called &cServerName&f.
+  '2':
+    question: What is the IP of this server?
+    answer:
+    - The IP of this server is &cmc.servername.com&f.
+  '3':
+    question: What is website of this server?
+    answer:
+    - The website of this server is &cwww.servername.com&f.

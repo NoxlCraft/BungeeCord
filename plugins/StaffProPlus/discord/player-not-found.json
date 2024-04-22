@@ -1,0 +1,8 @@
+{
+  "embeds": [
+    {
+      "title": "**ERR:** Player not found. Check if player is online and try again.",
+      "color": "#ff0000"
+    }
+  ]
+}

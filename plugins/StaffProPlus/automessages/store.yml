@@ -1,0 +1,17 @@
+random: false # If true, the messages will be sent in random order. If false, the messages will be sent in order.
+interval: 120 # In seconds.
+messages:
+  - - "&7 "
+    - "  &7Te deranjeaza ca toti jucatorii"
+    - "  &7din jur au un rank si tu nu?"
+    - "  &7 "
+    - "  &7Nu-ti fa griji, poti obtine si tu un rang!"
+    - "  &c&nhttps://store.noxlcraft.fun"
+    - "&7 "
+
+  - - "&7 "
+    - "  &7Nu esti obosit sa votezi pentru a-ti obtine cheile din cutii?"
+    - "  &7 "
+    - "  &7Nu-ti fa griji, le poti obtine mai rapid aici!"
+    - "  &c&nhttps://store.noxlcraft.fun"
+    - "&7 "

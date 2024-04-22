@@ -1,0 +1,12 @@
+{
+  "embeds": [
+    {
+      "title": "Staff List",
+      "description": "%stafflist%",
+      "color": "#ff0000",
+      "footer": {
+        "text": "Staffs: %online%"
+      }
+    }
+  ]
+}

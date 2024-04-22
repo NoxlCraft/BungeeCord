@@ -1,0 +1,5 @@
+/logs/*
+/libraries/*
+/plugins/FallBackServer/lib/*
+/plugins/SkinsRestorer/cache/*
+/plugins/SkinsRestorer/locales/*

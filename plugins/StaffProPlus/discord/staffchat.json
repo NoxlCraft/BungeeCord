@@ -1,0 +1,16 @@
+{
+  "embeds": [
+    {
+      "description": "%message%",
+      "color": "#ff0000",
+      "author": {
+        "name": "%rank% %player%",
+        "icon_url": "https://mc-heads.net/avatar/%player%"
+      },
+      "footer": {
+        "text": "%server%"
+      },
+      "timestamp": "now"
+    }
+  ]
+}

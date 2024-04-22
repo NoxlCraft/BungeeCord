@@ -1,0 +1,23 @@
+{
+  "embeds": [
+    {
+      "title": "Player | %player%",
+      "description": "**Account:**
+> **Name:** `%player%`
+> **UUID:** `%uuid%`
+
+**Client:**
+> **Locale:** `%locale%`
+> **View distance:** `%view-distance%`
+> **Forge:** `%forge%`
+
+**Other info:**
+> **Ping:** `%ping%`
+> **Server:** `%server%`",
+      "color": "#ff0000",
+      "thumbnail": {
+        "url": "https://mc-heads.net/avatar/%player%/512"
+      }
+    }
+  ]
+}

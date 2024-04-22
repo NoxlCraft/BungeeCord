@@ -1,0 +1,145 @@
+flamecord_reload: '&7Toate fisierele au fost reincarcate cu succes!'
+flamecord_help: |-
+  &4KutzuCord&7 &c{0}&7 de&c NaysKutzu
+  &c /flamecord reload&7 >&7 Reincarca fisierele FlameCord!
+  &c /flamecord firewall <add/remove> <ip>&7 >&7 Adauga sau elimina IP-uri din firewall!
+  &c /flamecord lockdown&7 >&7 Verifica starea de blocare!
+  &c /bplugins&7 >&7 Afiseaza lista de pluginuri!
+  &c /bip <jucator>&7 >&7 Arata IP-ul si informatiile despre un jucator!
+  &c /flamecord help&7 >&7 Arata acest mesaj de ajutor!
+flamecord_nopermission: '&7Nu ai permisiunea sa faci asta!'
+alert: '&7[&4Alerta&7]&r '
+already_connected: '&7Esti deja conectat la acest server!'
+already_connected_proxy: '&7Esti deja conectat la acest proxy!'
+already_connecting: '&7Deja te conectezi la acest server!'
+command_list: '&7[&c{0}&7] &7(&c{1}&7): &c{2}'
+connect_kick: '&7Ai fost deconectat in timp ce te conectai la &c{0}&7: &c{1}'
+current_server: '&7Esti in prezent conectat la &c{0}.'
+fallback_kick: '&7Nu s-a putut conecta la un server implicit sau de rezerva, te rugam
+  sa incerci din nou mai tarziu: {0}'
+fallback_lobby: '&7Nu s-a putut conecta la serverul tinta, ai fost mutat la un server
+  de rezerva.'
+lost_connection: Conexiune pierduta cu serverul.
+mojang_fail: A aparut o eroare in timpul contactarii serverelor de autentificare,
+  sunt acestea in jos?
+no_permission: '&7Nu ai permisiunea sa executeti aceasta comanda!'
+no_server: '&7Serverul specificat nu exista.'
+no_server_permission: '&7Nu ai permisiunea de a accesa acest server.'
+outdated_client: Clientul este invechit! Te rugam sa folosesti {0}
+outdated_server: Serverul este invechit! Eu sunt inca pe {0}
+proxy_full: Serverul este plin!
+restart: '[Proxy] Reinceperea proxy-ului.'
+server_list: '&7Poti sa te conectezi la urmatoarele servere in acest moment: '
+server_went_down: '&7Serverul la care erai anterior a picat, ai fost conectat la un
+  server de rezerva'
+total_players: 'Jucatori totali online: {0}'
+name_invalid: Numele de utilizator contine caractere nevalide.
+ping_cannot_connect: '&7Nu se poate conecta la server.'
+offline_mode_player: Nu este autentificat cu Minecraft.net
+secure_profile_required: Este necesar un profil securizat pentru a te alatura acestui
+  server.
+secure_profile_expired: Profil securizat expirat.
+secure_profile_invalid: Profil securizat invalid.
+message_needed: '&7Trebuie sa furnizezi un mesaj.'
+error_occurred_player: '&7A aparut o eroare in timpul analizarii mesajului tau. (Afla
+  detalii la survol)'
+error_occurred_console: '&7A aparut o eroare in timpul analizarii mesajului tau: &c{0}'
+server_command_hover_players: '&c{0}&7 jucatori'
+click_to_connect: Click pentru a te conecta la server
+username_needed: '&7Te rugam sa urmezi aceasta comanda cu un nume de utilizator.'
+user_not_online: '&7Acel utilizator nu este online.'
+user_online_at: '&c{0} &7este online la &c{1}'
+send_cmd_usage: '&7Nu sunt suficiente argumente, utilizare: &c/send <server|jucator|toti|curent>
+  <destinatie>'
+player_only: '&7Doar jucatorii in joc pot folosi aceasta comanda'
+you_got_summoned: '&7Ai fost chemat la &c{0}&7 de &c{1}'
+command_perms_groups: '&7Ai urmatoarele grupuri: &c{0}&7'
+command_perms_permission: '&7- &c{0}&7'
+command_ip: '&7IP-ul lui &c{0}&7 este &c{0}&7'
+illegal_chat_characters: '&7Caractere nevalide in chat (&c{0}&7)'
+antibot_accounts: |-
+  &c&lNoxl&f&lCraft
+
+  &7¡Ai prea multe conturi! (&c{0}&7)
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_fastchat: |-
+  &c&lNoxl&f&lCraft
+  &7¡Vorbesti prea repede!
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_firewall: |-
+  &c&lNoxl&f&lCraft
+  &7¡Esti pe lista neagra a acestui server!
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_nickname: |-
+  &c&lNoxl&f&lCraft
+  &7¡Pseudonimul tau a fost detectat ca bot! (&c{0}&7)
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_password: |-
+  &c&lNoxl&f&lCraft
+  &7¡Foloseste alta parola! (&c{0}&7)
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_ratelimit: |-
+  &c&lNoxl&f&lCraft
+  &7¡Te conectezi prea repede! (&c{0}&7)
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_reconnect_reconnect: '&7Reconectare &c{0}&7 ori in plus'
+antibot_reconnect_ping: '&7Actualizare lista servere &c{0}&7 ori in plus'
+antibot_reconnect_message: |-
+  &c&lNoxl&f&lCraft
+  {0}
+  {1}
+
+  &7(Fa-o incet)
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_country: |-
+  &c&lNoxl&f&lCraft
+  &7¡tara ta {0} este pe lista neagra!
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_proxy: |-
+  &c&lNoxl&f&lCraft
+  &7¡Folosesti un Proxy/VPN! ({0})
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_lockdown: |-
+  &c&lNoxl&f&lCraft
+  &7Server blocat. ¡Asteapta un minut pentru a te alatura!
+
+  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+antibot_stats: |-
+  &7&lStatistici Antibot &c&lNoxl&f&lCraft
+   &7■ Total Pings: &c{0}
+   &7■ Total Conexiuni: &c{1}
+
+   &7■ Pings Curente: &c{2}/s
+   &7■ Conexiuni Curente: &c{3}/s
+
+   &7■ Total Firewall-uri: &c{4}
+   &7■ Firewall-uri Curente: &c{5}/s
+antibot_stats_actionbar: '&7Pings: &c{0}/s &7- &7Conexiuni: &c{1}/s&7 - &7Firewall-uri:&c
+  {2}'
+flamecord_firewall_help: '&7/flamecord firewall <add/remove> <ip>'
+flamecord_firewall_add: '&7IP-ul &c{0}&7 a fost adaugat in firewall!'
+flamecord_firewall_remove: '&7IP-ul &c{0}&7 a fost eliminat din firewall!'
+flamecord_bplugins_nopermission: '&7Nu ai permisiunea sa faci asta!'
+flamecord_bplugins_separator: ', '
+flamecord_bplugins_header: '&7Pluginuri (&c{0}&7): '
+flamecord_bip_nopermission: '&7Nu ai permisiunea sa faci asta!'
+flamecord_bip_offline: '&7Acel jucator nu este online!'
+flamecord_bip_usage: '&7/bip <jucator>'
+flamecord_bip: |-
+  &7Informatii despre &c{0}&7&7:
+  &7UUID: &c{1}
+  &7IP: &c{2}
+  &7Ping: &c{3}ms
+  &7Localitate: &c{4}
+  &7Distanta de vizualizare: &c{5}
+  &7Serverul Curent: &c{6}'
+command_list_format: '&7Servere:&r'

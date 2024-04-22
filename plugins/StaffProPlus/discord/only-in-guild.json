@@ -1,0 +1,8 @@
+{
+  "embeds": [
+    {
+      "title": "**ERR:** You can only use this command in the guild!",
+      "color": "#ff0000"
+    }
+  ]
+}

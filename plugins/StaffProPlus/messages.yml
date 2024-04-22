@@ -1,0 +1,160 @@
+staffchat:
+  usage: "&7Utilizare: &c/staffchat <mesaj>"
+  only-players: "&7Doar jucatorii pot folosi aceasta comanda!"
+  toggle:
+    enabled: "&7De acum incolo, fiecare mesaj trimis va fi automat trimis in staffchat."
+    disabled: "&7De acum incolo, mesajele tale nu vor mai fi trimise automat in staffchat."
+
+staffannouncement:
+  usage: "&7Utilizare: &c/staffannouncement <mesaj>"
+  only-players: "&7Doar jucatorii pot folosi aceasta comanda!"
+
+msg:
+  usage: "&7Utilizare: &c/msg <jucator> <mesaj>"
+  cannot-message-yourself: "&7Nu iti poti trimite mesaje singur!"
+  player-not-found: "&7Jucatorul nu a fost gasit! Jucatorul trebuie sa fie online!"
+  sender: "  &7[&cEu &7-> &4%target%&7] &c%message%"
+  target: "  &7[&4%sender% &7-> &cEu&7] &c%message%"
+
+reply:
+  usage: "&7Utilizare: &c/reply <mesaj>"
+  no-reply: "&7Nu ai pe cine sa raspunzi!"
+  player-not-found: "&7Jucatorul nu a fost gasit! Jucatorul trebuie sa fie online!"
+  sender: "  &7[&cEu &7-> &4%target%&7] &c%message%"
+  target: "  &7[&c%sender% &7-> &cEu&7] &c%message%"
+
+player:
+  usage: "&7Utilizare: &c/player <jucator>"
+  not-found: "&7Jucatorul nu a fost gasit! Jucatorul trebuie sa fie online!"
+  info:
+    - "&8&m----------&r &7&lINFORMAtII DESPRE JUCaTOR &8&m----------"
+    - " &7"
+    - " &7Nume: &c%name%"
+    - " &7UUID: &c%uuid%"
+    - " &7"
+    - " &7Localizare: &c%locale%"
+    - " &7Distanta de vizualizare: &c%view-distance%"
+    - " &7"
+    - " &7Ping: &c%ping%"
+    - " &7Server: &c%server%"
+    - " &7Forge: &c%forge%"
+    - " &7"
+    - "&8&m---------------------------------------"
+
+update:
+  - ''
+
+spp:
+  help:
+    message:
+      - "&8&m----------&r &c&lNoxl&f&lCraft &8&m----------"
+      - " &7"
+      - " &7Versiune: &c%version%"
+      - " &7Autor: &cNaysKutzu"
+      - " &7"
+      - " &7Comenzi:"
+      - "%commands%"
+      - " &7"
+      - "&8&m-----------------------------------"
+    command: " &7/%name%"
+
+  server:
+    not-found: "&7Serverul nu a fost gasit!"
+    message:
+      - '&8&m----------&r &7&lINFORMAtII DESPRE SERVER &8&m----------'
+      - ' &7'
+      - ' &7Nume: &c%name%'
+      - ' &7Jucatori: &c%players%'
+      - ' &7Permisiune: &c%permission%'
+      - ' &7'
+      - ' &7Motd:'
+      - '   &c%motd%'
+      - ' &7'
+      - '&8&m----------------------------------'
+
+  support:
+    message:
+      - "&8&m----------&r &c&lNoxl&f&lCraft &8&m----------"
+      - ' &7'
+      - ' &7Server oficial de suport Discord:'
+      - '   &c&nhttps://discord.noxlcraft.fun'
+      - ' &7'
+      - "&8&m-----------------------------------"
+
+  debug:
+    message:
+      - "&8&m----------&r &c&lNoxl&f&lCraft &8&m----------"
+      - " &7"
+      - " &7Versiune: &c%version%"
+      - " &7Autor: &cNaysKutzu"
+      - " &7"
+      - " &7Versiune LuckPerms: &c%luckperms%"
+      - " &7Versiune API LuckPerms: &c%luckperms-api%"
+      - " &7"
+      - " &7Comenzi activate:"
+      - "  %commands%"
+      - " &7"
+      - " &7Functionalitati:"
+      - "%features%"
+      - " &7"
+      - "&8&m-----------------------------------"
+    command: "&7%name%"
+    command-delimiter: "&7, "
+    feature: "  &c%name%&7: %state%"
+    feature-state:
+      enabled: "&aActivat"
+      disabled: "&cDezactivat"
+
+server-commands:
+  no-permission: "&7Imi pare rau dar aceasta comanda nu exista!"
+
+sav:
+  usage: "&7Utilizare: &c/sav <id>"
+  not-found: "&7Mesajul nu a fost gasit cu acest ID!"
+
+alert:
+  usage: "&7Utilizare: &c/alert <mesaj>"
+  message: "  &7[&4&lAnunt&7] &7%message%"
+
+report:
+  usage: "&7Utilizare: &c/report <jucator> <motiv>"
+  cannot-report-yourself: "&7Nu te poti raporta pe tine insuti!"
+  player-not-found: "&7Jucatorul nu a fost gasit! Jucatorul trebuie sa fie online!"
+  message:
+    - "  &8[&4&lRaport&8] &7(&c%sender_server%&7) &4%sender% &7a raportat &7(&c%target_server%&7) &4%target%"
+    - "  &8[&4&lRaport&8] &7Motiv: &c%reason%"
+  hover:
+    - "&7RAPORT &r"
+    - "&7"
+    - "&7Expeditor: &c%sender%"
+    - "&7Destinatar: &c%target%"
+    - "&7"
+    - "&7Motiv: &c%reason%"
+    - "&7"
+    - "&8(&cClick pentru teleportare&8)"
+  command-on-click: "/server %target_server%"
+
+reload:
+  start: "&7Reincarcarea pluginului..."
+  success: "&7Plugin reincarcat!"
+
+editor:
+  downloading: "&7Se descarca salvarea..."
+  saved: "&7Modificarile tale au fost salvate!"
+  old-version: "&7Salvarea ta este depașita! Versiunea ta trebuie sa corespunda cu versiunea pluginului."
+  uploading: "&7Se incarca salvarea..."
+  new:
+    - "&7&lEDITOR"
+    - "&7"
+    - "&7ID: &7%id%"
+    - "&7"
+    - "&7Link: &7https://spp.gggedr.lol/%id%"
+    - "&7"
+
+join: " &7&lStaff &8| %prefix%&r &c%player% &7a intrat."
+quit: " &7&lStaff &8| %prefix%&r &c%player% &7a iesit."
+
+spy:
+  enabled: "&7Acum supraveghezi mesajele private."
+  disabled: "&7Nu mai supraveghezi mesajele private."
+  message: "  &8[&4&lSupraveghere&8] &7[&c%sender% &7-> &4%target%&7] &c%message%"

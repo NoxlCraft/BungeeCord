@@ -1,0 +1,27 @@
+prefix: '&c&lNoxl&f&lCraft &7» '
+
+alerts:
+  format: '&7(&4%server%&7) &7» &4%player% &7a incercat &c%check% &7(Tip &c%type%&7) [&c%vl%&7/&c%max-vl%&7]'
+  hover-format:
+    - '&7Ping: &c%ping% &8| &7TPS: &c%tps% &8| &7Versiune: &c%client-version%'
+    - ''
+    - '&7Descriere:'
+    - '&c%description%'
+    - ''
+    - '&7Informatii:'
+    - '&c%info%'
+    - ''
+    - '&7Click pentru a merge pe &c%server%&7.'
+  click-command: 'server %server%'
+
+punishments:
+  format: '&7(&4%server%&7) &7» &4%player% &7a fost prins cu &c%check% &7(&7Tip &c%type%&7) [&c%max-vl%&7/&c%max-vl%&7]'
+
+messages:
+  no-permission: '&c&lNoxl&f&lCraft &7» &7Imi pare rau dar aceasta comanda nu exista!'
+  alerts-enabled: '%prefix% &7Alerte anticheat &apornite&7!'
+  alerts-disabled: '%prefix% &7Alerte anticheat &coprite&7!'
+
+settings:
+  dont-send-alerts-to-same-server: true
+  enable-alerts-on-join: true

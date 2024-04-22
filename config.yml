@@ -1,0 +1,79 @@
+forge_support: true
+enforce_secure_profile: false
+remote_ping_cache: -1
+player_limit: 250
+permissions:
+  admin:
+  - muie.tigermc
+  default:
+  - das.ds
+timeout: 17000
+log_commands: false
+server_connect_timeout: 5000
+online_mode: false
+servers:
+  authlobby:
+    address: 212.87.213.115:25562
+    fallback: true
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  bedwars:
+    address: 212.87.213.115:25517
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  boxpvp:
+    address: 212.87.213.115:25015
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  lobby:
+    address: 212.87.213.115:25545
+    fallback: true
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  skycoon:
+    address: 212.87.213.115:25563
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  survival:
+    address: 212.87.213.115:25539
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+  thepit:
+    address: 212.87.213.115:25559
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
+listeners:
+- bind_local_address: true
+  force_default_server: true
+  forced_hosts:
+    pvp.md-5.net: pvp
+  host: 0.0.0.0:25565
+  max_players: 100
+  motd: '&1Another FlameCord server'
+  ping_passthrough: true
+  priorities:
+  - authlobby
+  proxy_protocol: true
+  query_enabled: false
+  query_port: 25565
+  tab_list: GLOBAL_PING
+  tab_size: 60
+remote_ping_timeout: 5000
+ip_forward: true
+network_compression_threshold: 256
+reject_transfers: false
+prevent_proxy_connections: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000
+stats: f11997d8-d626-4e36-9e9a-5300e71941fe
+connection_throttle_limit: 3
+groups:
+  lolipopadmin:
+  - admin
+log_pings: false

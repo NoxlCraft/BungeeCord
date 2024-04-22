@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "**DEBUG**",
+      "description": "**Plugin:**
+> **Version:** `%version%`
+> **Author:** `%author%`
+
+**LuckPerms:**
+> **Version:** `%luckperms%`
+> **API Version:** `%luckperms-api%`",
+      "color": "#ff0000"
+    }
+  ]
+}
