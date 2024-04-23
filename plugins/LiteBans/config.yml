@@ -207,7 +207,7 @@ exempt:
   # Type can be 'ban', 'mute', 'warning', or 'kick'. (All types apply if not specified)
   # Example:
   # exempt_players: ['Player', 'Player2', 'Player3', 'Player4:mute']
-  exempt_players: [ ]
+  exempt_players: ['M1ha1V2', 'NaysKutzu', 'Alexutzerion5', 'Alice152']
 
 geoip:
   enable: false
@@ -390,7 +390,7 @@ allow_exempt_bypass: false
 # If enabled, online player names will be auto-completed.
 # Example: /ban Pl -> /ban Player
 # This has absolutely nothing to do with tab-completion.
-autocomplete_online_player_names: false
+autocomplete_online_player_names: true
 
 # If enabled, AuthMe will be detected and IP history will only be added after a player has successfully logged in.
 # This option will only work under Spigot, since AuthMe is a Spigot plugin.

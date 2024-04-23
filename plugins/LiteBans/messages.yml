@@ -81,125 +81,116 @@
 time_format: yyyy-MM-dd
 history_time_format: yyyy-MM-dd
 banned_message_base: |
-  &3&l(&f&l!&3&l) &3&nInterzis temporar&3&l (&f&l!&3&l)
+  &8&l(&c&l!&8&l) &4&nInterzis Temporar&8&l (&c&l!&8&l)
   &r
-  &3► &7Interzis de &3◄
-  &f$executor
+  &8► &7Interzis de &8◄
+  &c$executor
   &r
-  &3► &7Motiv &3◄
-  &f$reason&f
+  &8► &7Motiv &8◄
+  &c$reason&f
 banned_message: |-
   $base
-  &3► &7Interzicerea va expira in &3◄
-  &f$duration
+  &8► &7Interdicția ta va expira în &8◄
+  &c$duration
   &r
-  &3► &7Cerere de unban pe &3◄
-  &f$appealMessage
+  &8► &7Poți contesta această interdicție la &8◄
+  &c$appealMessage
 banned_message_permanent: |-
-  &3&l(&f&l!&3&l) &3&nInterzis permanent&3&l (&f&l!&3&l)
+  &8&l(&c&l!&8&l) &4&nInterzis Permanent&8&l (&c&l!&8&l)
   &r
-  &3► &7Interzis de &3◄
-  &f$executor
+  &8► &7Interzis de &8◄
+  &c$executor
   &r
-  &3► &7Motiv &3◄
-  &f$reason&f
+  &8► &7Motiv &8◄
+  &c$reason&f
   &r
-  &3► &7Cerere de unban pe &3◄
-  &f$appealMessage
-banned_message_appeal_message: '&3&m          &7[&fwww.multyplay.ro/forum&7]&3&m          '
-banned_message_geoip_blacklist: "&3&m              &7[Blacklisted Location&7]&3&m\
-  \              &7\n\n&7Locatia ta este banata pe acest &f&lserver!&f\n\n&7Locatia\
-  \ ta este interzisa:  &3(&f$geoip&3)&7\n\n&3&m       &7[&fcontacteaza un opeator\
-  \ Over At http://example.com&7]&3&m       "
-default_ban_reason: Reclama!
-default_mute_reason: Reclama!
-permission_Eroare: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7Tu nu ai acces la aceasta comanda.&3\n&3&m ‡                                                              ‡ '
-muted: '&3&m ‡                                                              ‡ &7\n
-  &fATENTIE &8➤ &7Ai pimit mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fMotiv &8➤
-  &3(&7$reason&3)\n &fAceasta va expia &8➤ &3(&7$dateEnd&3, &7$duration&3)\n &3(&7Cerere
-  de unmute pe www.multyplay.ro/forum&3)\n&3&m ‡                                                              ‡ '
-muted_permanent: '&3&m ‡                                                              ‡
-  &7\n &fATENTIE &8➤ &7Ai pimit mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fMotiv
-  &8➤ &3(&7$reason&3)\n &3(&7Cerere de unmute pe www.multyplay.ro/forum&3)\n&3&m ‡                                                              ‡ '
-notify:
-  banned_player_join: '&3(&f$player&3)&7 incearca sa intre, dar este banat pentu &3(&f$duration&3).'
-  banned_geoip_blacklist: '&3(&f$player&3)&7 incearca sa inte, dar ip-ul lui este
-    blocat &3(&f$geoip&3).'
-Eroare_no_reason_provided: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7Ofera un motiv pentru acest ban.&3\n&3&m ‡                                                              ‡ '
-Eroare_no_sql_connection: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7There was an Eroare connecting to sql, check your configuration.&3\n&3&m
+  &8► &7Poți contesta această interdicție la &8◄
+  &c$appealMessage
+banned_message_appeal_message: '&8&m          &7[panel.noxlcraft.fun]&8&m          '
+banned_message_geoip_blacklist: "&8&m              &7[Locație Interzisă&7]&8&m   \
+  \           &7\n\n&7Locația ta este interzisă pe &c&lServerul Tău!&f\n\n&7Locaț\
+  ia ta este pe lista neagră:  &8(&c$geoip&8)&7\n\n&8&m       &7[&Contactează Suportul\
+  \ Nostru La http://panel.noxlcraft.fun&7]&8&m       "
+default_ban_reason: Înșelăciune!
+default_mute_reason: Spam!
+permission_error: '&8&m ‡                                                              ‡
+  &7\n &cEroare &8➤ &7Nu ai acces la această comandă.&8\n&8&m ‡                                                              ‡ '
+muted: '&8&m ‡                                                              ‡ &7\n
+  &cATENȚIE &8➤ &7Ai prmit mute\n &cMembru al Personalului &8➤ &8(&7$executor&8)\n
+  &cMotiv &8➤ &8(&7$reason&8)\n &cTimp &8➤ &8(&7$dateEnd&8, &7$duration&8)\n &8(&7Poți
+  contesta acest mute te asteptam pe panel.noxlcraft.fun&8)\n&8&m ‡                                                              ‡ '
+muted_permanent: '&8&m ‡                                                              ‡
+  &7\n &cATENȚIE &8➤ &7Ai primit mute\n &cMembru al Personalului &8➤ &8(&7$executor&8)\n
+  &cMotiv &8➤ &8(&7$reason&8)\n &8(&7Poți contesta acest mute la panel.noxlcraft.fun&8)\n&8&m
   ‡                                                              ‡ '
-internal_Eroare: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7An internal Eroare occurred.&3\n&3&m ‡                                                              ‡ '
-duration_limit_Eroare: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7Your allowed duration is &3(&f$durantion&3).\n&3&m ‡                                                              ‡ '
-warned_join: '&fAnunt &8➤ &7Ai niste anunturi noi:'
+notify:
+  banned_player_join: '&8(&c$player&8)&7 a încercat să se intre, dar este interzis
+    pentru &8(&c$duration&8).'
+  banned_geoip_blacklist: '&8(&c$player&8)&7 a încercat să se intre, dar GeoIP-ul
+    lor este pe lista neagră &8(&c$geoip&8).'
+error_no_reason_provided: '&8&m ‡                                                              ‡
+  &7\n &cEroare &8➤ &7Oferă un motiv pentru această pedeapsă.&8\n&8&m ‡                                                              ‡ '
+error_no_sql_connection: '&8&m ‡                                                              ‡
+  &7\n &cEroare &8➤ &7A fost o eroare la conectarea la sql, verifică-ți configurarea.&8\n&8&m
+  ‡                                                              ‡ '
+internal_error: '&8&m ‡                                                              ‡
+  &7\n &cEroare &8➤ &7A apărut o eroare internă.&8\n&8&m ‡                                                              ‡ '
+duration_limit_error: '&8&m ‡                                                              ‡
+  &7\n &cEroare &8➤ &7Durata permisă este &8(&c$durantion&8).\n&8&m ‡                                                              ‡ '
+warned_join: '&cNotificare &8➤ 7Ai avertismente noi:'
 warned_join_entry: |-
-  &3 - &7Avertizat de &3$executor&7: &f$reason
-     &3(&7$timeSince ago&3)
+  &8 - &7Avertizat de &8$executor&7: &c$reason
+     &8(&7$timeSince ago&8)
 command:
   ban:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/ban [-s] <jucator> [durata] [timp]'
-    unban_usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/unban <jucator>\n&3&m ‡                                                              ‡
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/ban [-s] <player> [duration] [reason]'
+    unban_usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/unban <player>\n&8&m ‡                                                              ‡
       &7'
-    example: ' &fExemplu &8➤ &7/ban Player 7d [motiv]\n&3&m ‡                                                              ‡
+    example: ' &cExample &8➤ &7/ban Player 7d [reason]\n&8&m ‡                                                              ‡
       \n'
     silent_prefix: '&9[&3Silent&9]'
-    broadcast_ban: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Interzicere\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucatorul
-      eliminat &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m
-      ‡                                                              ‡ '
-    broadcast_tempban: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Interzicere Temporara\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fJucatorul eliminat &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n
-      &fInterzicerea va expira in &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m ‡                                                              ‡ '
-    broadcast_ip_ban: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Interzicere pe IP\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fJucatorul eliminat &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m
-      ‡                                                              ‡ '
-    broadcast_temp_ip_ban: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Interzicere Temporara pe IP\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fJucatoul eliminat &8➤ &3(&f$playerDisplayName&3)\n &fReason &8➤ &3(&7$reason&3)\n
-      &fInterzicerea va expira in &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m ‡                                                              ‡ '
+    broadcast_ban: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Banned\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    broadcast_tempban: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Temp-Banned\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n &cBan
+      Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m ‡                                                              ‡ '
+    broadcast_ip_ban: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7IP-Banned\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    broadcast_temp_ip_ban: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Temp-IP-Banned\n &cStaff Member &8➤ &8(&7$executor&8)\n
+      &cRemoved player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n
+      &cBan Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m ‡                                                              ‡ '
     broadcast_ip_ban_hidden: '[Hidden IP]'
-    broadcast_unban: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Dezinterzicere\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fL-a debanat pe &8➤ &3(&f$playerDisplayName&3)\n&3&m ‡                                                              ‡ '
-    previous_ban_removed: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7&fBan-ul lui &f$playerDisplayName &fa fost scos.\n&3&m
-      ‡                                                              ‡ '
-    previous_ban_existing: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Seems that the user is already banned and you do not permission
-      to change the ban.\n&3&m ‡                                                              ‡ '
-    unban_queue: '&3&m ‡                                                              ‡
-      &7\n &fQueue &8➤ &7Daca o sa incerce sa se reconecteze va fi debanat.&3\n&3&m
-      ‡                                                              ‡ '
-    Eroare_no_spec: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Nu a fost validat timpul!&3\n&3&m ‡                                                              ‡ '
-    unban_fail: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu este banat.&3\n&3&m ‡                                                              ‡ '
-    exempt: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &f$player &7nu poate fi banat.&3\n&3&m ‡                                                              ‡ '
-    broadcast_unmute: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Unmute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fRemoved
-      Mute &8➤ &3(&f$bannedPlayer&3)\n&3&m ‡                                                              ‡ '
-    no_override: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &f$player &7este deja banat.&3\n&3&m ‡                                                              ‡ '
+    broadcast_unban: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Unbanned\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      Ban &8➤ &8(&c$playerDisplayName&8)\n&8&m ‡                                                              ‡ '
+    previous_ban_removed: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Previouse Ban Removed\n&8&m ‡                                                              ‡ '
+    previous_ban_existing: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Seems that the user is already banned and you do not permission
+      to change the ban.\n&8&m ‡                                                              ‡ '
+    unban_queue: '&8&m ‡                                                              ‡
+      &7\n &cQueue &8➤ &7If they try to reconnect they will be unbanned.&8\n&8&m ‡                                                              ‡ '
+    error_no_spec: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Provide time frame for the ban!&8\n&8&m ‡                                                              ‡ '
+    unban_fail: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Player is not banned.&8\n&8&m ‡                                                              ‡ '
+    exempt: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &c$player &7Cannot be banned.&8\n&8&m ‡                                                              ‡ '
+    broadcast_unmute: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Unmute\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      Mute &8➤ &8(&c$bannedPlayer&8)\n&8&m ‡                                                              ‡ '
+    no_override: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &c$player &7Is already banned.&8\n&8&m ‡                                                              ‡ '
     response: ''
-    cooldown: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Tu nu ai voie sa executi comanda aceasta chiar acum. Te
-      rugam asteapta &8➤ &3(&f$Seconds&3).&3\n&3&m ‡                                                              ‡ '
-    error_no_spec: "&3&m ‡                                                       \
-      \       ‡ &7\n &fError &8➤ &7Provide time frame for the ban!&3\n&3&m ‡     \
-      \                                                         ‡ "
-    ip_hidden: '[IP Address]'
-    unban_queued: '&cTarget is not banned!&3 If they try to reconnect, they will be
-      unbanned.'
-    modify_success: '&aPunishment modified successfully.'
+    cooldown: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7You cannot excecute this command again right now. Please
+      wait &8➤ &8(&c$Seconds&8).&8\n&8&m ‡                                                              ‡ '
     alts_guardrail_ban_self: |-
       &cError: Banning associated accounts for $playerName would also ban your account!
       No additional players will be banned.
@@ -208,345 +199,324 @@ command:
       These players will be banned if you click here to confirm:
       $list
        {run: $command $commandArgs --confirm}
+    modify_success: '&aPunishment modified successfully.'
+    ip_hidden: '[IP Address]'
+    unban_queued: '&cTarget is not banned!&6 If they try to reconnect, they will be
+      unbanned.'
   mute:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/mute [-s] <player> [durata] [motiv]'
-    unban_usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/unmute <player>\n&3&m ‡                                                              ‡
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/mute [-s] <player> [duration] [reason]'
+    unban_usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/unmute <player>\n&8&m ‡                                                              ‡
       &7'
-    example: ' &fExemplu &8➤ &7/mute Player 7d [motiv]\n&3&m ‡                                                              ‡
+    example: ' &cExample &8➤ &7/mute Player 7d [reason]\n&8&m ‡                                                              ‡
       \n'
-    broadcast: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucator
-      interzis &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m
+    broadcast: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Muted\n &cStaff Member &8➤ &8(&7$executor&8)\n &cMuted player
+      &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    broadcast_tempmute: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Temp-Muted\n &cStaff Member &8➤ &8(&7$executor&8)\n &cMuted
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n &cMute
+      Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &cATTENTION &8➤ &7You''ve been muted\n &cStaff Member &8➤ &8(&7$executor&8)\n
+      &cReason &8➤ &8(&7$reason&8)\n &cMute Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m
       ‡                                                              ‡ '
-    broadcast_tempmute: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Temp-Mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucato
-      interzis &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n &fMute-ul
-      va expira in &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &fATENTIE &8➤ &7Ai primit mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fMotiv &8➤ &3(&7$reason&3)\n &fMute-ul va expira &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m
-      ‡                                                              ‡ '
-    message_permanent: '&3&m ‡                                                              ‡
-      &7\n &fATENTIE &8➤ &7Ai primit mute\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fMotiv &8➤ &3(&7$reason&3)\n &fMute-ul va expira &8➤ &3(&7Niciodata&3)\n&3&m
-      ‡                                                              ‡ '
-    unmute_fail: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu are mute.&3\n&3&m ‡                                                              ‡ '
-    previous_mute_removed: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Mute-ul a fost scos\n&3&m ‡                                                              ‡ '
-    previous_mute_existing: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul are deja mute, nu-i poti da de 2 ori.\n&3&m ‡                                                              ‡ '
-    exempt: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &f$player &7Nu poate primi mute.&3\n&3&m ‡                                                              ‡ '
-    notification: '&3(&f$playerDisplayName&3)&7 incearca sa vorbeasca, dar are mute.'
-    Eroare_not_enabled: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Muting is disabled in the configuration.&3\n&3&m ‡                                                              ‡ '
-    broadcast_ip_mute: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7IP-Muted\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucator
-      interzis &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m
-      ‡                                                              ‡ '
-    broadcast_temp_ip_mute: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7Temp-IP-Muted\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fJucator interzis &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n
-      &fMute-ul va expira in &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m ‡                                                              ‡ '
-    no_override: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7You cannot override the current mute.&3\n&3&m ‡                                                              ‡ '
+    message_permanent: '&8&m ‡                                                              ‡
+      &7\n &cATTENTION &8➤ &7You''ve been muted\n &cStaff Member &8➤ &8(&7$executor&8)\n
+      &cReason &8➤ &8(&7$reason&8)\n &cMute Will Expire &8➤ &8(&7Never&8)\n&8&m ‡                                                              ‡ '
+    unmute_fail: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7User is not muted.&8\n&8&m ‡                                                              ‡ '
+    previous_mute_removed: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Previouse Mute Removed\n&8&m ‡                                                              ‡ '
+    previous_mute_existing: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Seems that the user is already muted and you do not permission
+      to change the mute.\n&8&m ‡                                                              ‡ '
+    exempt: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &c$player &7Cannot be muted.&8\n&8&m ‡                                                              ‡ '
+    notification: '&8(&c$playerDisplayName&8)&7 tried to speak, but is muted.'
+    error_not_enabled: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Muting is disabled in the configuration.&8\n&8&m ‡                                                              ‡ '
+    broadcast_ip_mute: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7IP-Muted\n &cStaff Member &8➤ &8(&7$executor&8)\n &cMuted
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    broadcast_temp_ip_mute: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Temp-IP-Muted\n &cStaff Member &8➤ &8(&7$executor&8)\n &cMuted
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n &cMute
+      Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m ‡                                                              ‡ '
+    no_override: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7You cannot override the current mute.&8\n&8&m ‡                                                              ‡ '
     response: ''
-    broadcast_unmute: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Unmute\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucator
-      &8➤ &3(&7$playerDisplayName&3)\n&3&m ‡                                                              ‡ '
-    unmute_usage: '&fFoloseste: $command <player>'
-    error_not_enabled: "&3&m ‡                                                   \
-      \           ‡ &7\n &fError &8➤ &7Muting is disabled in the configuration.&3\n\
-      &3&m ‡                                                              ‡ "
+    broadcast_unmute: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Unmute\n &cStaff Member &8➤ &8(&7$executor&8)\n &cRemoved
+      Mute &8➤ &8(&c$playerDisplayName&8)\n&8&m ‡                                                              ‡ '
+    unmute_usage: '&cUsage: $command <player>'
   warn:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/warn [-s] <player> [reason]'
-    warn_usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/warn <player>\n&3&m ‡                                                              ‡
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/warn [-s] <player> [reason]'
+    warn_usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/warn <player>\n&8&m ‡                                                              ‡
       &7'
-    example: ' &fExample &8➤ &7/warn Player [reason]\n&3&m ‡                                                              ‡
+    example: ' &cExample &8➤ &7/warn Player [reason]\n&8&m ‡                                                              ‡
       \n'
-    broadcast: '&3&m ‡                                                              ‡
-      &7\n &fActiune &8➤ &7Avertizare\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fJucator
-      avertizat &8➤ &3(&f$playerDisplayName&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m
+    broadcast: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Warned\n &cStaff Member &8➤ &8(&7$executor&8)\n &cWarned
+      player &8➤ &8(&c$playerDisplayName&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &cATTENTION &8➤ &7You''ve been warned\n &cStaff Member &8➤ &8(&7$executor&8)\n
+      &cReason &8➤ &8(&7$reason&8)\n &cWarn Will Expire &8➤ &8(&7$dateEnd&8, &7$duration&8)\n&8&m
       ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &fATENTIE &8➤ &7Tu ai primit warn\n &fMembru Staff &8➤ &3(&7$executor&3)\n
-      &fMotiv &8➤ &3(&7$reason&3)\n &fWarn-ul va expira in &8➤ &3(&7$dateEnd&3, &7$duration&3)\n&3&m
-      ‡                                                              ‡ '
-    list_entry: '\n&3 - &7Avertizat de &b$executor&7: &f$reason'
-    unwarn_response: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7Warn-ul a fost scos de &3(&f$player&3)\n&3&m ‡                                                              ‡ '
-    unwarn_fail: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu are warn.&3\n&3&m ‡                                                              ‡ '
-    exempt: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &f$player &7Nu poate fi avertizat.&3\n&3&m ‡                                                              ‡ '
-    cooldown: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Nu poti executa comenzi chiar acum. Te rog asteapta &8➤
-      &3(&f$Seconds&3).&3\n&3&m ‡                                                              ‡ '
+    list_entry: '\n&8 - &7Warned by &e$executor&7: &c$reason'
+    unwarn_response: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Previouse Warning Removed From &8(&c$player&8)\n&8&m ‡                                                              ‡ '
+    unwarn_fail: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7User is not warned.&8\n&8&m ‡                                                              ‡ '
+    exempt: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &c$player &7Cannot be warned.&8\n&8&m ‡                                                              ‡ '
+    cooldown: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7You cannot excecute this command again right now. Please
+      wait &8➤ &8(&c$Seconds&8).&8\n&8&m ‡                                                              ‡ '
     response: ''
-    unwarn_usage: '&fFoloseste: $command <player>'
+    unwarn_usage: '&cUsage: $command <player>'
     broadcast_unwarn: '&a$executor &funwarned &a$playerDisplayName'
   history:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/history <player> [entries=10]\n&3&m ‡                                                              ‡ '
-    start: '&3&m ‡      &7History for &f$target &7(Limit: $limit)&3&m      ‡ '
-    ban_entry: "&3&m ‡                                                           \
-      \        ‡ \n&f &n$name&7 was &cBanned\n&f Since &8➤ &7$timeSince ago \n&f Staff\
-      \ &8➤ &7$executor\n&f Reason &8➤ &7$reason\n&f Status &8➤ &7"
-    mute_entry: "&3&m ‡                                                          \
-      \         ‡ \n&f &n$name&7 was &3Muted\n&f Since &8➤ &7$timeSince ago \n&f Staff\
-      \ &8➤ &7$executor\n&f Reason &8➤ &7$reason\n&f Status &8➤ &7"
-    warn_entry: "&3&m ‡                                                          \
-      \         ‡ \n&f &n$name&7 was &7Warned\n&f Since &8➤ &7$timeSince ago \n&f\
-      \ Staff &8➤ &7$executor\n&f Reason &8➤ &7$reason\n&f Status &8➤ &7"
-    kick_entry: "&3&m ‡                                                          \
-      \         ‡ \n&f &n$name&7 was &bKicked\n&f Since &8➤ &7$timeSince ago \n&f\
-      \ Staff &8➤ &7$executor\n&f Reason &8➤ &7$reason\n&f Status &8➤ &7"
-    active_suffix: '&3 [&7Active&3]'
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/history <player> [entries=10]\n&8&m ‡                                                              ‡ '
+    start: '&8&m ‡      &7History for &c$target &7(Limit: $limit)&8&m      ‡ '
+    ban_entry: "&8&m ‡                                                           \
+      \        ‡ \n&c &n$name&7 was &cBanned\n&c Since &8➤ &7$timeSince ago \n&c Staff\
+      \ &8➤ &7$executor\n&c Reason &8➤ &7$reason\n&c Status &8➤ &7"
+    mute_entry: "&8&m ‡                                                          \
+      \         ‡ \n&c &n$name&7 was &6Muted\n&c Since &8➤ &7$timeSince ago \n&c Staff\
+      \ &8➤ &7$executor\n&c Reason &8➤ &7$reason\n&c Status &8➤ &7"
+    warn_entry: "&8&m ‡                                                          \
+      \         ‡ \n&c &n$name&7 was &7Warned\n&c Since &8➤ &7$timeSince ago \n&c\
+      \ Staff &8➤ &7$executor\n&c Reason &8➤ &7$reason\n&c Status &8➤ &7"
+    kick_entry: "&8&m ‡                                                          \
+      \         ‡ \n&c &n$name&7 was &eKicked\n&c Since &8➤ &7$timeSince ago \n&c\
+      \ Staff &8➤ &7$executor\n&c Reason &8➤ &7$reason\n&c Status &8➤ &7"
+    active_suffix: '&8 [&cActive&8]'
     active_suffix_temp: |-
-      &3 [&fActive&3]
-      &f Expires In &8➤ &f&l$duration.
-    Eroare_no_history: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Player has no history.&3\n&3&m ‡                                                              ‡ '
+      &8 [&cActive&8]
+      &c Expires In &8➤ &c&l$duration.
+    error_no_history: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Player has no history.&8\n&8&m ‡                                                              ‡ '
     unban_entry: |2-
 
-       &fUnbanned &8➤ &f&n$name&7 l-a debanat &7pe &n$executor.
+       &cUnbanned &8➤ &c&n$name&7 was unbanned &7by &n$executor.
     unmute_entry: |2-
 
-       &fUnmuted &8➤ &f&n$name&7 i-a dat unmute lui &7by &n$executor.
-    expired_suffix: '&3 [&7Expired&3]'
-    Eroare_no_user: '&cJucatorul nu exista.'
-    error_no_history: "&3&m ‡                                                    \
-      \          ‡ &7\n &fError &8➤ &7Player has no history.&3\n&3&m ‡           \
-      \                                                   ‡ "
-    error_no_user: '&cUser not found.'
+       &cUnmuted &8➤ &c&n$name&7 was unmuted &7by &n$executor.
+    expired_suffix: '&8 [&7Expired&8]'
     error_no_loginrecord: '&cUser has not joined before.'
+    error_no_user: '&cUser not found.'
   warnings:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/warnings <player>\n&3&m ‡                                                              ‡ '
-    start: '&3&m       &7Active warnings for &f$target&3&m       '
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/warnings <player>\n&8&m ‡                                                              ‡ '
+    start: '&8&m       &7Active warnings for &c$target&8&m       '
   prunehistory:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/prunehistory <player> [duration]\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7History was successfuly cleared\n&3&m ‡                                                              ‡ '
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/prunehistory <player> [duration]\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7History was successfuly cleared\n&8&m ‡                                                              ‡ '
   staffhistory:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/staffhistory <player> [entries=10]\n&3&m ‡                                                              ‡ '
-    start: '&3&m       &7Staff history of &f$target&3&m       '
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/staffhistory <player> [entries=10]\n&8&m ‡                                                              ‡ '
+    start: '&8&m       &7Staff history of &c$target&8&m       '
   staffrollback:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/staffrollback <player> [duration]\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Rollback was successful, removed &3(&7$amount&3)\n&3&m
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/staffrollback <player> [duration]\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Rollback was successful, removed &8(&7$amount&8)\n&8&m
       ‡                                                              ‡ '
   banlist:
-    start: '\n&3&m       &7 Page &f$page&7 out of &f$total&7 &3&m       '
+    start: '\n&8&m       &7 Page &c$page&7 out of &c$total&7 &8&m       '
   iphistory:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/iphistory <player> [entries=10]\n&3&m ‡                                                              ‡ '
-    start: '&bHistory for &f&l$target &b(Limit: $limit):'
-    entry: '&7 - [&f$date&f]&f $name&f:&f $ip'
-    Eroare_no_history: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7User has no history.&3\n&3&m ‡                                                              ‡ '
-    error_no_history: "&3&m ‡                                                    \
-      \          ‡ &7\n &fError &8➤ &7User has no history.&3\n&3&m ‡             \
-      \                                                 ‡ "
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/iphistory <player> [entries=10]\n&8&m ‡                                                              ‡ '
+    start: '&eHistory for &c&l$target &e(Limit: $limit):'
+    entry: '&7 - [&f$date&b]&f $name&b:&f $ip'
+    error_no_history: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7User has no history.&8\n&8&m ‡                                                              ‡ '
   dupeip:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/dupeip <player>\n&3&m ‡                                                              ‡ '
-    start: '&3&m ‡            &7Scanam &n$name&3&m            ‡ &7\n &fStatus &8➤
-      [&aOnline&3] [&7Offline&3] [&fBanned&3]\n &b               IP &8➤ &7$ip\n'
-    start_no_ip: '&3&m ‡            &7Scanam &n$name&3&m            ‡ &7\n &fStatus
-      &8➤ [&aOnline&f&3] [&7Offline&3] [&fBanned&3]\n'
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/dupeip <player>\n&8&m ‡                                                              ‡ '
+    start: '&8&m ‡            &7Scanning &n$name&8&m            ‡ &7\n &cStatuses
+      &8➤ [&aOnline&8] [&7Offline&8] [&cBanned&8]\n &e               IP &8➤ &7$ip\n'
+    start_no_ip: '&8&m ‡            &7Scanning &n$name&8&m            ‡ &7\n &cStatuses
+      &8➤ [&aOnline&f&8] [&7Offline&8] [&cBanned&8]\n'
     separator: '&f, '
     online: '&a'
     offline: '&7'
-    banned: '&f'
-    muted: '&3'
+    banned: '&c'
+    muted: '&6'
     multiple_addresses: '[$num addresses]'
     end: ''
-    ip_banned: '&b'
+    ip_banned: '&e'
   ipreport:
-    start: '&3&m ‡            &7Scanam $num Online Players&3&m            ‡ &7\n &fStatus
-      &8➤ [&aOnline&3] [&7Offline&3] [&fBanned&3]'
-    entry: '&b$player &8➤ &7$result'
+    start: '&8&m ‡            &7Scanning $num Online Players&8&m            ‡ &7\n
+      &cStatuses &8➤ [&aOnline&8] [&7Offline&8] [&cBanned&8]'
+    entry: '&e$player &8➤ &7$result'
   checkban:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/checkban <player>\n&3&m ‡                                                              ‡ '
-    no_ban: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu este banat.&3\n&3&m ‡                                                              ‡ '
-    banned: "&3&m ‡                                                              ‡\
-      \ &7\n &7Banned by ➤ &f$executor\n &7Reason ➤ &f$reason\n &7Banned on ➤ &f$dateStart\n\
-      \ &7Banned until ➤ &f$dateEnd ($duration)\n &7Banned on server ➤ &f$serverOrigin\n\
-      \ &7Server scope ➤ &f$serverScope\n &7IP-ban ➤ &f$ipban \n &7Silent ➤ &f$silent\n\
-      \ &7Permanent ➤ &f$permanent\n&3&m ‡                                       \
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/checkban <player>\n&8&m ‡                                                              ‡ '
+    no_ban: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7User is not banned.&8\n&8&m ‡                                                              ‡ '
+    banned: "&8&m ‡                                                              ‡\
+      \ &7\n &7Banned by ➤ &c$executor\n &7Reason ➤ &c$reason\n &7Banned on ➤ &c$dateStart\n\
+      \ &7Banned until ➤ &c$dateEnd ($duration)\n &7Banned on server ➤ &c$serverOrigin\n\
+      \ &7Server scope ➤ &c$serverScope\n &7IP-ban ➤ &c$ipban \n &7Silent ➤ &c$silent\n\
+      \ &7Permanent ➤ &c$permanent\n&8&m ‡                                       \
       \                       ‡ &7"
   checkmute:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/checkmute <player>\n&3&m ‡                                                              ‡ '
-    no_mute: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu are mute.&3\n&3&m ‡                                                              ‡ '
-    muted: "&3&m ‡                                                              ‡\
-      \ &7\n &7Muted by ➤ &f$executor\n &7Muted ➤ &f$reason\n &7Muted on ➤ &f$dateStart\n\
-      \ &7Muted until ➤ &f$dateEnd ($duration)\n &7Muted on server ➤ &f$serverOrigin\n\
-      \ &7Server scope ➤ &f$serverScope\n &7IP-Mute ➤ &f$ipban \n &7Silent ➤ &f$silent\n\
-      \ &7Permanent ➤ &f$permanent\n&3&m ‡                                       \
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/checkmute <player>\n&8&m ‡                                                              ‡ '
+    no_mute: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Player is not muted.&8\n&8&m ‡                                                              ‡ '
+    muted: "&8&m ‡                                                              ‡\
+      \ &7\n &7Muted by ➤ &c$executor\n &7Muted ➤ &c$reason\n &7Muted on ➤ &c$dateStart\n\
+      \ &7Muted until ➤ &c$dateEnd ($duration)\n &7Muted on server ➤ &c$serverOrigin\n\
+      \ &7Server scope ➤ &c$serverScope\n &7IP-Mute ➤ &c$ipban \n &7Silent ➤ &c$silent\n\
+      \ &7Permanent ➤ &c$permanent\n&8&m ‡                                       \
       \                       ‡ &7\n"
   lastuuid:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/lastuuid <player|IP>\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡            &7LastUUID for &f$name&3&m            ‡ &7\n \n&r   &fUUID
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/lastuuid <player|IP>\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡            &7LastUUID for &c$name&8&m            ‡ &7\n \n&r   &cUUID
       &8➤ &7$uuid'
   geoip:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/groip <player|IP>\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡            &7GeoIP for &f$target&3&m            ‡ &7\n \n&r             &fUUID
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/groip <player|IP>\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡            &7GeoIP for &c$target&8&m            ‡ &7\n \n&r             &cUUID
       &8➤ &7$result'
-    Eroare_disabled: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7GeoIP is disabled in the configuration.&3\n&3&m ‡                                                              ‡ '
-    Eroare_unavailable: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7GeoIP is not available, or is it even downloaded?&3\n&3&m
+    error_disabled: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7GeoIP is disabled in the configuration.&8\n&8&m ‡                                                              ‡ '
+    error_unavailable: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7GeoIP is not available, or is it even downloaded?&8\n&8&m
       ‡                                                              ‡ '
-    Eroare_not_found: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7GeoIP for &3(&7$target&3) wasn''t found.&3\n&3&m ‡                                                              ‡ '
-    error_disabled: "&3&m ‡                                                      \
-      \        ‡ &7\n &fError &8➤ &7GeoIP is disabled in the configuration.&3\n&3&m\
-      \ ‡                                                              ‡ "
-    error_unavailable: "&3&m ‡                                                   \
-      \           ‡ &7\n &fError &8➤ &7GeoIP is not available, or is it even downloaded?&3\n\
-      &3&m ‡                                                              ‡ "
-    error_not_found: "&3&m ‡                                                     \
-      \         ‡ &7\n &fError &8➤ &7GeoIP for &3(&7$target&3) wasn't found.&3\n&3&m\
-      \ ‡                                                              ‡ "
+    error_not_found: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7GeoIP for &8(&7$target&8) wasn''t found.&8\n&8&m ‡                                                              ‡ '
   lockdown:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/lockdown <reason> | /lockdown end\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Lockdown active &3(&7$reason&3)\n&3&m ‡                                                              ‡ '
-    stopped: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Mentenanta a fost scoasa\n&3&m ‡                                                              ‡ '
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/lockdown <reason> | /lockdown end\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Lockdown active &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    stopped: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Lockdown has been removed\n&8&m ‡                                                              ‡ '
     kick_message: |-
-      &3&m ‡                                                              ‡ &7\n
-      &7Server is under lockdown!\n &7Reason &8➤ &3(&f$reason&3)\n&3&m ‡                                                              ‡ &7
-    Eroare_not_active: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Lockdown is not active!&3\n&3&m ‡                                                              ‡ '
+      &8&m ‡                                                              ‡ &7\n
+      &7Server is under lockdown!\n &7Reason &8➤ &8(&c$reason&8)\n&8&m ‡                                                              ‡ &7
+    error_not_active: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Lockdown is not active!&8\n&8&m ‡                                                              ‡ '
     kick_message_global: |-
-      &3&m ‡                                                              ‡ &7\n
-      &7Network is under lockdown!\n &7Reason &8➤ &3(&f$reason&3)\n&3&m ‡                                                              ‡ &7\n
-    error_not_active: "&3&m ‡                                                    \
-      \          ‡ &7\n &fError &8➤ &7Lockdown is not active!&3\n&3&m ‡          \
-      \                                                    ‡ "
+      &8&m ‡                                                              ‡ &7\n
+      &7Network is under lockdown!\n &7Reason &8➤ &8(&c$reason&8)\n&8&m ‡                                                              ‡ &7\n
   kick:
-    usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/kick <player> [reason]\n&3&m ‡                                                              ‡ '
-    no_match: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Jucatorul nu exista.&3\n&3&m ‡                                                              ‡ '
-    message: '&3&m ‡                                                              ‡
-      &7\n &7Ai fost dat afara de &8➤ &f$executor\n &7Motiv &8➤ &3(&f$reason&3)\n&3&m
-      ‡                                                              ‡ &7'
-    message_no_reason: '&3&m ‡                                                              ‡
-      &7\n &7Ai fost dat afara de &8➤ &f$executor\n&3&m ‡                                                              ‡
+    usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/kick <player> [reason]\n&8&m ‡                                                              ‡ '
+    no_match: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Player not found.&8\n&8&m ‡                                                              ‡ '
+    message: '&8&m ‡                                                              ‡
+      &7\n &7Kicked By &8➤ &c$executor\n &7Reason &8➤ &8(&c$reason&8)\n&8&m ‡                                                              ‡
       &7'
-    response: '&f$player &7a primit kick.'
-    broadcast: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7Kicked\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fKicked
-      player &8➤ &3(&f$player&3)\n &fMotiv &8➤ &3(&7$reason&3)\n&3&m ‡                                                              ‡ '
-    broadcast_no_reason: '&3&m ‡                                                              ‡
-      &7\n &fNotificare &8➤ &7Kicked\n &fMembru Staff &8➤ &3(&7$executor&3)\n &fKicked
-      player &8➤ &3(&f$player&3)\n&3&m ‡                                                              ‡ '
-    exempt: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Nu-l poti da afara pe &f$player!.&3\n&3&m ‡                                                              ‡ '
-    kick_requested: '&3&m ‡                                                              ‡
-      &7\n &fCerere &8➤ &f$player &7nu este online pe server, a fost timisa cererea!&3\n&3&m
-      ‡                                                              ‡ '
+    message_no_reason: '&8&m ‡                                                              ‡
+      &7\n &7Kicked By &8➤ &c$executor\n&8&m ‡                                                              ‡
+      &7'
+    response: '&c$player &7has been kicked.'
+    broadcast: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Kicked\n &cStaff Member &8➤ &8(&7$executor&8)\n &cKicked
+      player &8➤ &8(&c$player&8)\n &cReason &8➤ &8(&7$reason&8)\n&8&m ‡                                                              ‡ '
+    broadcast_no_reason: '&8&m ‡                                                              ‡
+      &7\n &cAction &8➤ &7Kicked\n &cStaff Member &8➤ &8(&7$executor&8)\n &cKicked
+      player &8➤ &8(&c$player&8)\n&8&m ‡                                                              ‡ '
+    exempt: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Player cannot be kicked.&8\n&8&m ‡                                                              ‡ '
+    kick_requested: '&8&m ‡                                                              ‡
+      &7\n &cRequest &8➤ &c$player &7wasn''t found on the server, cross server kick
+      requested!&8\n&8&m ‡                                                              ‡ '
   togglechat:
-    toggle_off: '&fCHAT &8➤ &7Chat-ul a fost dezactivat.'
-    toggle_on: '&fCHAT &8➤ &7Chat-ul a fost activat.'
+    toggle_off: '&cCHAT &8➤ &7Chat has been toggled off.'
+    toggle_on: '&cCHAT &8➤ &7Chat has been toggled on.'
   clearchat:
-    broadcast: '&fCHAT &8➤ &7Chat-ul serverului a fost sters de &7&n$executor.'
+    broadcast: '&cCHAT &8➤ &7Chat has been cleared by &7&n$executor.'
   mutechat:
-    response: '&fCHAT &8➤ &fChat-ul serverului este momentan dezactivat!'
-    broadcast_disabled: '&fCHAT &8➤ &7Chat-ul severului a fost oprit de &f$executor.'
-    broadcast_enabled: '&fCHAT &8➤ &7Chat-ul severului a fost pornit de &a$executor.'
+    response: '&cCHAT &8➤ &cServer chat is currently disabled!'
+    broadcast_disabled: '&cCHAT &8➤ &7Server chat has been disabled by &c$executor.'
+    broadcast_enabled: '&cCHAT &8➤ &7Server chat has been enabled by &a$executor.'
   litebans:
-    reload_success: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Litebans reloaded successfully\n&3&m ‡                                                              ‡ '
-    reload_fail_connect: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Failed to reload LiteBans, issues while connecting to the
-      database\n&3&m ‡                                                              ‡ '
-    add_history_usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/litebans addhistory <name> <UUID> <IP>\n&3&m ‡                                                              ‡ '
-    add_history: '&fHistory added.'
-    fix_history: '&3&m ‡                                                              ‡
-      &7\n &fQueue &8➤ &7Fixing history for table $table...\n&3&m ‡                                                              ‡ '
-    fix_history_result: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Added &3(&7$amount&3)&7 entries.\n&3&m ‡                                                              ‡ '
-    import_usage: '&3&m ‡                                                              ‡
-      &7\n &fFoloseste &8➤ &7/litebans import start\n&3&m ‡                                                              ‡ '
-    import_start: '&3&m ‡                                                              ‡
-      &7\n &fQueue &8➤ &7Importing from $db, this might take a while...\n&3&m ‡                                                              ‡ '
-    import_finish: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Import finished successfully. $bans bans imported, $ipbans
-      IP-bans\n&3&m ‡                                                              ‡ '
-    import_finish_litebans: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7Import finished successfully. Added $amount entries to
-      the database.\n&3&m ‡                                                              ‡ '
-    import_fail: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Import failed, check console!&3\n&3&m ‡                                                              ‡ '
-    import_unsupported: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Importing from ''$name'' is not supported yet!&3\n&3&m ‡                                                              ‡ '
-    sqlexec_success: '&3&m ‡                                                              ‡
-      &7\n &fSuccess &8➤ &7SQL query executed successfully!.\n&3&m ‡                                                              ‡ '
-    sqlexec_failure: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7SQL query failed, check console!&3\n&3&m ‡                                                              ‡ '
-    reload_fail: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7Reload failed!&3\n&3&m ‡                                                              ‡ '
+    reload_success: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Litebans reloaded successfully\n&8&m ‡                                                              ‡ '
+    reload_fail_connect: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Failed to reload LiteBans, issues while connecting to the
+      database\n&8&m ‡                                                              ‡ '
+    add_history_usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/litebans addhistory <name> <UUID> <IP>\n&8&m ‡                                                              ‡ '
+    add_history: '&cHistory added.'
+    fix_history: '&8&m ‡                                                              ‡
+      &7\n &cQueue &8➤ &7Fixing history for table $table...\n&8&m ‡                                                              ‡ '
+    fix_history_result: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Added &8(&7$amount&8)&7 entries.\n&8&m ‡                                                              ‡ '
+    import_usage: '&8&m ‡                                                              ‡
+      &7\n &cUsage &8➤ &7/litebans import start\n&8&m ‡                                                              ‡ '
+    import_start: '&8&m ‡                                                              ‡
+      &7\n &cQueue &8➤ &7Importing from $db, this might take a while...\n&8&m ‡                                                              ‡ '
+    import_finish: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Import finished successfully. $bans bans imported, $ipbans
+      IP-bans\n&8&m ‡                                                              ‡ '
+    import_finish_litebans: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7Import finished successfully. Added $amount entries to
+      the database.\n&8&m ‡                                                              ‡ '
+    import_fail: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Import failed, check console!&8\n&8&m ‡                                                              ‡ '
+    import_unsupported: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Importing from ''$name'' is not supported yet!&8\n&8&m ‡                                                              ‡ '
+    sqlexec_success: '&8&m ‡                                                              ‡
+      &7\n &cSuccess &8➤ &7SQL query executed successfully!.\n&8&m ‡                                                              ‡ '
+    sqlexec_failure: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7SQL query failed, check console!&8\n&8&m ‡                                                              ‡ '
+    reload_fail: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7Reload failed!&8\n&8&m ‡                                                              ‡ '
     reload_fail_config: |-
-      &3&m ‡                                                              ‡ &7\n
-      &3 ➤ &f[LiteBans] config.yml is not valid and could not be loaded, the default configuration will be used.
-      &3 ➤ &fPlease check the server console for more information.\n
-      &3&m ‡                                                              ‡ &7
+      &8&m ‡                                                              ‡ &7\n
+      &8 ➤ &c[LiteBans] config.yml is not valid and could not be loaded, the default configuration will be used.
+      &8 ➤ &cPlease check the server console for more information.\n
+      &8&m ‡                                                              ‡ &7
     reload_fail_messages: |-
-      &3&m ‡                                                              ‡ &7\n
-      &3 ➤ &f[LiteBans] &fmessages.yml is not valid and could not be loaded, default messages will be used.
-      &3 ➤ &fPlease check the server console for more information.\n
-      &3&m ‡                                                              ‡ &7
-    fix_history_offline_uuids: '&3&m ‡                                                              ‡
-      &7\n &fEroare &8➤ &7$amount UUIDs were not fetched from Mojang since they are
-      offline-mode UUIDs.&3\n&3&m ‡                                                              ‡ '
+      &8&m ‡                                                              ‡ &7\n
+      &8 ➤ &c[LiteBans] &cmessages.yml is not valid and could not be loaded, default messages will be used.
+      &8 ➤ &cPlease check the server console for more information.\n
+      &8&m ‡                                                              ‡ &7
+    fix_history_offline_uuids: '&8&m ‡                                                              ‡
+      &7\n &cError &8➤ &7$amount UUIDs were not fetched from Mojang since they are
+      offline-mode UUIDs.&8\n&8&m ‡                                                              ‡ '
     allow_usage: '&cUsage: /litebans allow <add/remove/check> <user>'
-    allow_added: '&bPlayer &3$playerName&b has been &aallowed to join the server&b.'
-    allow_removed: '&bPlayer &3$playerName&b has been &cremoved from the allow list&b.'
-    allow_check_true: '&aPlayer &3$playerName&a is allowed to join the server.'
-    allow_check_false: '&cPlayer &3$playerName&c is not allowed to join the server.'
+    allow_added: '&ePlayer &6$playerName&e has been &aallowed to join the server&e.'
+    allow_removed: '&ePlayer &6$playerName&e has been &cremoved from the allow list&e.'
+    allow_check_true: '&aPlayer &6$playerName&a is allowed to join the server.'
+    allow_check_false: '&cPlayer &6$playerName&c is not allowed to join the server.'
     allow_error_add: '&cError: $playerName is already allowed to join the server.'
     allow_error_remove: '&cError: $playerName is not allowed to join the server.'
   namehistory:
     start: '&aName history for $target (Limit: $limit):'
     usage: '&c$command <player> [entries=10]'
-    entry: '&a - [&f$playerLoginDate&a]&3 $playerName'
+    entry: '&a - [&f$playerLoginDate&a]&6 $playerName'
 duration:
-  forever: permanent
-  year: an
-  years: ani
-  month: luna
-  months: luni
-  week: saptamana
-  weeks: saptamani
-  day: zi
-  days: zile
-  hour: ora
-  hours: ore
-  minute: minut
-  minutes: minute
-  second: secunda
-  seconds: secunde
-  expired: expirat
+  expired: expired
+  forever: forever
+  year: year
+  years: years
+  month: month
+  months: months
+  week: week
+  weeks: weeks
+  day: day
+  days: days
+  hour: hour
+  hours: hours
+  minute: minute
+  minutes: minutes
+  second: second
+  seconds: seconds
   format: '%d %s'
   separator: ', '
 strings:
@@ -554,46 +524,21 @@ strings:
   'null': undefined
   'true': 'true'
   'false': 'false'
-Eroare_no_uuid_found: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7Player does not excist.&3\n&3&m ‡                                                              ‡ '
+error_no_uuid_found: '&8&m ‡                                                              ‡
+  &7\n &cError &8➤ &7Player does not excist.&8\n&8&m ‡                                                              ‡ '
 bungee_switch_banned: |-
-  &3&m ‡                                                              ‡ &7
+  &8&m ‡                                                              ‡ &7
   &r
-  &7Banned by &8➤ &f$executor
-  &7Reason &8➤ &f$reason&f
+  &7Banned by &8➤ &c$executor
+  &7Reason &8➤ &c$reason&f
   &r
   &7You can appeal this ban at:
   $appealMessage
-Eroare_console_only: '&3&m ‡                                                              ‡
-  &7\n &fEroare &8➤ &7This command can only be used in console.&3\n&3&m ‡                                                              ‡ '
-permission_error: "&3&m ‡                                                        \
-  \      ‡ &7\n &fEroare &8➤ &7Tu nu ai acces la aceasta comanda.&3\n&3&m ‡      \
-  \                                                        ‡ "
-error_no_reason_provided: "&3&m ‡                                                \
-  \              ‡ &7\n &fEroare &8➤ &7Ofera un motiv pentru acest ban.&3\n&3&m ‡\
-  \                                                              ‡ "
-error_no_sql_connection: "&3&m ‡                                                 \
-  \             ‡ &7\n &fEroare &8➤ &7There was an error connecting to sql, check\
-  \ your configuration.&3\n&3&m ‡                                                \
-  \              ‡ "
-error_no_uuid_found: "&3&m ‡                                                     \
-  \         ‡ &7\n &fError &8➤ &7Player does not excist.&3\n&3&m ‡               \
-  \                                               ‡ "
-error_console_only: "&3&m ‡                                                      \
-  \        ‡ &7\n &fError &8➤ &7This command can only be used in console.&3\n&3&m\
-  \ ‡                                                              ‡ "
-internal_error: "&3&m ‡                                                          \
-  \    ‡ &7\n &fEroare &8➤ &7An internal error occurred.&3\n&3&m ‡               \
-  \                                               ‡ "
-duration_limit_error: "&3&m ‡                                                    \
-  \          ‡ &7\n &fEroare &8➤ &7Your allowed duration is &3(&f$durantion&3).\n\
-  &3&m ‡                                                              ‡ "
+error_console_only: '&8&m ‡                                                              ‡
+  &7\n &cError &8➤ &7This command can only be used in console.&8\n&8&m ‡                                                              ‡ '
 default_unban_reason: No reason specified.
 default_unmute_reason: No reason specified.
 default_unwarn_reason: No reason specified.
-error_no_template_provided: '&cYou must provide a template for this punishment!'
-error_no_reason_removal: '&cYou must provide a reason to remove this punishment!'
-error_no_duration: '&cNo valid time specification detected!'
 proxy_switch_banned: |-
   &cYou are banned on $serverScope! Reason:
   $reason
@@ -601,6 +546,9 @@ proxy_switch_tempbanned: |-
   &cYou are banned on $serverScope! Reason:
   $reason
   Expires in: $duration
+error_no_template_provided: '&cYou must provide a template for this punishment!'
+error_no_reason_removal: '&cYou must provide a reason to remove this punishment!'
+error_no_duration: '&cNo valid time specification detected!'
 webhook:
   events:
     embed_ban:

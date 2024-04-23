@@ -3,6 +3,13 @@ tab:
     priority: 1
     commands:
     - "/hub"
+    - "/home"
+    - "/sethome"
+    - "/tpa"
+    - "/tpaaccept"
+    - "/shop"
+    - "/discord"
+    - "/helpop"
 blocked_command_default_actions:
 - "message: &8[&c&lNoxlSecurity&8] &7On."
 use_commands_as_whitelist: false
@@ -495,6 +502,8 @@ commands:
 - "/info"
 - "tnt"
 - "/tnt"
+- "/lp"
+- "lp"
 custom_commands_actions:
   example1:
     commands:

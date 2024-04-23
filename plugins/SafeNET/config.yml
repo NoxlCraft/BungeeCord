@@ -1,0 +1,15 @@
+config-version: 2
+passphrase: (Q?MK-c5zzAp!u]TkU^fdwhjB1q#5(Ju0BiqbtJ;$T{i3DQ(KS}Da!EzgOHZXbv/zK<$9Zj/0c#d_Bz}}I()RCN2bC3T2OemCo<U+Vx6w0i,m@8McWK7D{*<F/f3df]VcX@-S^J)@5~1re-.r}hfMAn[1x;?2Atz-2BKniViCV}w(&hras<NVtMiSR/H5ytm9).hZ_vRIVlQ1r&X32>VZdqQ{b_vat.+h;sC/Er8XR:3Ww7q6F9Ev8]]{[0{}h*l?&Ykc38NbX#Cb2T[r9y1Qr;ShZ|7<A/[aDx~hNS|S__83|S#RCP]B|0/ZgYm_9/FSi]m|J(to59fT<-J+9uB69zf(>xhT=0i<thixQl&DYkX*O#S<jQbYz<]CLM)b}nGn8XdkmTe<@(F7~|.bL4ngHFnbZhT@3%%1&?]J5-[@u?67bS@=]%<|U864nY[$YG_55!=gr@0:xJj{KL[;J*s_QAv7o?;:O3#|HnxNumF(AEoQ1xuM-Stn=VpjDqeKiGCMtT)X1fRNY.,Xft4HJp5,]00-PG?bwGmZ9L.w9OVJs!d)n&6AKOwW%g$LZ/cJrByLa|uVJySS.O|sisV0U<q}},}|8AdAoPYiZS?Wt;(z$D2OZM.E;QENYwB+Q]<k#RC5TAHWlSo[$:<FXFX+||.=/j6f}NBV~+v%}o9,v(Ky5I|z/C:DyvWSKJ8?VZ^}$%Y&eI}NhjMh-?l5T[i-fmb<D?qQh0dsAxS.?SIJHPY]4O<sx-Hj*D2,MCWG&R&8g#G!R7@xF-o4/>pCX:bY.{@d-a1w<8Vy4D([a1yZ&1j4_=7,NOxI]{.|H~wMj/XEoEN$8zXCKqtvycOE[]W/kERG?q*]oY;>0-Lh*Q.C-I3d?t<Np}uU(!{ojyP)Z_k@VPBEo&i{XB7$H^Id~VITeH^LOA*%+<QO.q<SJ5,ve6d#L}0gH7i|:[(oCwd_t~3Hoo7*zY0v6]kbp:yKf|UX-1kxBQaE9&%t&n(!Zet?qrQ
+disconnect-message: |-
+  &7[&cNoxlCraft&7] &fTe rugam introdu adresa > play.noxlcraft.net!
+metrics: true
+address-whitelist:
+  enabled: false
+  addresses: []
+  ip-website: ''
+command:
+  console-only: '&7[&6SafeNET&7] Command is available only in the console.'
+  invalid-format: '&7[&6SafeNET&7] Invalid format! Please use &6/sn generate [length, greater than 0] &7to generate a new passphrase of the specified length, or &6/sn reload &7to reload the plugin.'
+  generate: '&7[&6SafeNET&7] New passphrase has been generated and set into the configuration file. Please, use &6/sn reload &7to apply the new passphrase now.'
+  reload: '&7[&6SafeNET&7] The plugin has been reloaded!'
+

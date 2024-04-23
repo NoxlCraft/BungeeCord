@@ -28,7 +28,7 @@ no_server_permission: '&7Nu ai permisiunea de a accesa acest server.'
 outdated_client: Clientul este invechit! Te rugam sa folosesti {0}
 outdated_server: Serverul este invechit! Eu sunt inca pe {0}
 proxy_full: Serverul este plin!
-restart: '[Proxy] Reinceperea proxy-ului.'
+restart: Server-ul primeste un restart!
 server_list: '&7Poti sa te conectezi la urmatoarele servere in acest moment: '
 server_went_down: '&7Serverul la care erai anterior a picat, ai fost conectat la un
   server de rezerva'
