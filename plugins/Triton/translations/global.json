@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "global_server_name",
+      "type": "text",
+      "_twin": {
+        "id": "093efb18-c407-4d00-81b8-b9b9d8cfd6e9",
+        "dateCreated": 1715543755867,
+        "dateUpdated": 1715543787808,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft",
+        "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft"
+      }
+    },
+    {
+      "key": "global_server_ip",
+      "type": "text",
+      "_twin": {
+        "id": "f6691332-b081-4429-8b6d-5f7f1dafe04b",
+        "dateCreated": 1715543865276,
+        "dateUpdated": 1715543887903,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "play.noxlcraft.fun",
+        "ro_RO": "play.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_website",
+      "type": "text",
+      "_twin": {
+        "id": "d59452e3-f392-445d-8f26-b3db17635574",
+        "dateCreated": 1715543891884,
+        "dateUpdated": 1715543911008,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "www.noxlcraft.fun",
+        "ro_RO": "www.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_store",
+      "type": "text",
+      "_twin": {
+        "id": "674f7fe7-7beb-417b-98a5-4da3d8890f2a",
+        "dateCreated": 1715543915259,
+        "dateUpdated": 1715543935071,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "store.noxlcraft.fun",
+        "ro_RO": "store.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_discord",
+      "type": "text",
+      "_twin": {
+        "id": "0d43fb96-e040-4d74-b243-8a1c968f7473",
+        "dateCreated": 1715543945637,
+        "dateUpdated": 1715543959072,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "discord.noxlcraft.fun",
+        "ro_RO": "discord.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_vote",
+      "type": "text",
+      "_twin": {
+        "id": "6a36f077-f71c-49fb-8045-52457eb5ede3",
+        "dateCreated": 1715543988704,
+        "dateUpdated": 1715543999995,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "vote.noxlcraft.fun",
+        "ro_RO": "vote.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_playername",
+      "type": "text",
+      "_twin": {
+        "id": "5d3db649-1a4e-4951-95af-c8eef8267db6",
+        "dateCreated": 1715544301314,
+        "dateUpdated": 1715544358189,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Name",
+        "ro_RO": "Nume"
+      }
+    },
+    {
+      "key": "global_playerrank",
+      "type": "text",
+      "_twin": {
+        "id": "be1d5e26-6683-467d-97b3-41842c4ba9e6",
+        "dateCreated": 1715544372082,
+        "dateUpdated": 1715544383070,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Rank",
+        "ro_RO": "Grad"
+      }
+    },
+    {
+      "key": "global_prefix",
+      "type": "text",
+      "_twin": {
+        "id": "fc52d687-5887-42e0-975b-d73c9c047839",
+        "dateCreated": 1715545483909,
+        "dateUpdated": 1715545517966,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» ",
+        "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» "
+      }
+    }
+  ]
+}

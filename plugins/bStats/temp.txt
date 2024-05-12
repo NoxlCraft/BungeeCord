@@ -1,1 +1,1 @@
-com.jakub.premium.utility.external.Metrics
+fr.xephi.authmebungee.bungeecord.Metrics

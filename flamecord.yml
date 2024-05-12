@@ -63,6 +63,19 @@ antibot:
     firewall: true
     time: 1000
     log: false
+    log_cooldown: 1000
+    repetition:
+      enabled: true
+      chat: true
+      threshold: 2
+      length: 16
+      period: 5000
+      commands:
+      - /r
+      - /reg
+      - /register
+      firewall: false
+      kick: false
   firewall:
     enabled: true
     exceptions:
@@ -151,6 +164,11 @@ antibot:
     duration: 5000
     period: 5000
     period-limit: 4
+  latency:
+    enabled: true
+    firewall: true
+    limit: 900
+    log: true
 allow-invalid-names: false
 compression-level: 6
 balancer:

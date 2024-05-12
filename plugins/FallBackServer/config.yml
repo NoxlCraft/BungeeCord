@@ -47,7 +47,8 @@ settings:
   # This list will also be used for /hub command (if enabled).
   # WARNING: It's case-sensitive.
   fallback_list:
-    - authlobby
+    - lobby
+    - auth
 
   # Reconnect section, it will ONLY work if fallback_mode is set to RECONNECT.
   # Customize things like delays and title mode, everything in seconds.

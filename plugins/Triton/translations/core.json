@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "core_shutdown_message",
+      "type": "text",
+      "_twin": {
+        "id": "8ab55320-0302-4dd1-8f1e-8efba36d7b32",
+        "dateCreated": 1715545170630,
+        "dateUpdated": 1715545347975,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The server went offline, sadly!",
+        "ro_RO": "Server-ul pe care ai fost conectat a intrat in modul de mentenanta!"
+      }
+    },
+    {
+      "key": "core_whitelist",
+      "type": "text",
+      "_twin": {
+        "id": "ca598e7e-330a-4eb1-9f68-cf1873b9f4b1",
+        "dateCreated": 1715545374683,
+        "dateUpdated": 1715545404997,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The server is under maintenance!",
+        "ro_RO": "Server-ul este in mentenanta!"
+      }
+    },
+    {
+      "key": "core_command_not_exist",
+      "type": "text",
+      "_twin": {
+        "id": "49ad6890-3930-425a-b658-d73759f7491c",
+        "dateCreated": 1715545428086,
+        "dateUpdated": 1715545454618,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "I am sorry, but this command does not exist!",
+        "ro_RO": "Imi pare rau dar aceasta comanda nu exista!"
+      }
+    },
+    {
+      "key": "core_the_server_is_full",
+      "type": "text",
+      "_twin": {
+        "id": "a7b476f6-10c3-4aa4-b9ff-97758a97b815",
+        "dateCreated": 1715545469087,
+        "dateUpdated": 1715545555938,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "We are so sorry, but the server is full!",
+        "ro_RO": "Din păcate server-ul nostru este full!"
+      }
+    },
+    {
+      "key": "core_join_version",
+      "type": "text",
+      "_twin": {
+        "id": "a072bafb-0b43-44a0-80a4-4fbf398ec388",
+        "dateCreated": 1715545568105,
+        "dateUpdated": 1715545597938,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please only join with the versions: 1.8.x-1.20.x",
+        "ro_RO": "Te rog sa intri doar cu versiunile: 1.8.x-1.20.x"
+      }
+    },
+    {
+      "key": "core_restarting",
+      "type": "text",
+      "_twin": {
+        "id": "070323df-d11e-46de-99cf-0de4e42a4f28",
+        "dateCreated": 1715545610864,
+        "dateUpdated": 1715545636009,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "We are so sorry, but our server is restarting",
+        "ro_RO": "Ne pare rau dar server-ul nostru se reporneste!"
+      }
+    }
+  ]
+}

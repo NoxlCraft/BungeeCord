@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "example.translation",
+      "type": "text",
+      "_twin": {
+        "id": "055c00c4-6ab3-403b-9d86-24e471d9d2d1",
+        "dateCreated": 1715539809675,
+        "dateUpdated": 1715539809675,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "This is an example translation in English. You can use it with the placeholder [lang]example.translation[/lang].",
+        "pt_PT": "Isto é uma tradução exemplo em Português. Podes usá-la com o placeholder [lang]example.translation[/lang]."
+      }
+    }
+  ]
+}

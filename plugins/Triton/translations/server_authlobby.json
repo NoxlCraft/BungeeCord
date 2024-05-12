@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "server_authlobby_welcome",
+      "type": "text",
+      "_twin": {
+        "id": "2534240e-4241-4bad-a2a8-970188120dc0",
+        "dateCreated": 1715544201261,
+        "dateUpdated": 1715544216283,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Welcome",
+        "ro_RO": "Bine ai venit"
+      }
+    },
+    {
+      "key": "server_authlobby_sb1",
+      "type": "text",
+      "_twin": {
+        "id": "a4a4083b-9b40-4e50-99ad-34300b9a4826",
+        "dateCreated": 1715544423599,
+        "dateUpdated": 1715544462507,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Why not join our discord?",
+        "ro_RO": "Te asteptam si pe discord!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_1",
+      "type": "text",
+      "_twin": {
+        "id": "4d8bd66d-11d5-49b3-b14c-dbc6ea42c9c7",
+        "dateCreated": 1715544623974,
+        "dateUpdated": 1715544661134,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Hmm what does this star do?",
+        "ro_RO": "Hmm oare ce face aceasta stea?"
+      }
+    },
+    {
+      "key": "server_authlobby_item_2",
+      "type": "text",
+      "_twin": {
+        "id": "a2ef8fda-323c-4e62-a1de-f7ea3dcb01b7",
+        "dateCreated": 1715544665578,
+        "dateUpdated": 1715544754697,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "I think it teleports to the main lobby!",
+        "ro_RO": "Cred ca te trimite in lobby-ul nostru!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_3",
+      "type": "text",
+      "_twin": {
+        "id": "0c45b984-5382-41cd-9aa9-558a017d63b5",
+        "dateCreated": 1715544674232,
+        "dateUpdated": 1715544772041,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Or maybe not? (Hmmmm)",
+        "ro_RO": "Sau poate nu? (Hmmmm)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "authme_registration_disabled",
+      "type": "text",
+      "_twin": {
+        "id": "27b8b121-9f1b-4fde-bb77-531d14d81849",
+        "dateCreated": 1706391528790,
+        "dateUpdated": 1706391602535,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "In-game registration is disabled!",
+        "ro_RO": "Înregistrarea în joc este dezactivată!"
+      }
+    },
+    {
+      "key": "authme_registration_name_taken",
+      "type": "text",
+      "_twin": {
+        "id": "24c66cf6-6643-4d35-9b59-940905563256",
+        "dateCreated": 1706391615101,
+        "dateUpdated": 1706391645197,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You already have registered this username!",
+        "ro_RO": "Ați înregistrat deja acest nume de utilizator!"
+      }
+    },
+    {
+      "key": "authme_registration_register_request",
+      "type": "text",
+      "_twin": {
+        "id": "5e87e9cc-cd4b-4921-a133-d9afb5c6cb84",
+        "dateCreated": 1706391657737,
+        "dateUpdated": 1706391703136,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please register to playing on our server.",
+        "ro_RO": "Va rugam sa va inregistrati pentru a juca pe serverul nostru."
+      }
+    },
+    {
+      "key": "authme_password",
+      "type": "text",
+      "_twin": {
+        "id": "2becbb2e-8ecb-4ec9-9564-c726cac6cace",
+        "dateCreated": 1706391718405,
+        "dateUpdated": 1706391727831,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "password",
+        "ro_RO": "parola"
+      }
+    },
+    {
+      "key": "authme_email",
+      "type": "text",
+      "_twin": {
+        "id": "f3c378ef-1073-4b08-a371-56afc189e5f7",
+        "dateCreated": 1706391730440,
+        "dateUpdated": 1706391738739,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "email",
+        "ro_RO": "email"
+      }
+    },
+    {
+      "key": "authme_username",
+      "type": "text",
+      "_twin": {
+        "id": "f8c2ed76-0f90-4950-83c0-506138fcf4ae",
+        "dateCreated": 1706391741561,
+        "dateUpdated": 1706391758006,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "username",
+        "ro_RO": "nume"
+      }
+    },
+    {
+      "key": "authme_registration_success",
+      "type": "text",
+      "_twin": {
+        "id": "5eea0a19-77c2-4f5f-8e25-86682dfe409d",
+        "dateCreated": 1706391789250,
+        "dateUpdated": 1706391833120,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Successfully registered!",
+        "ro_RO": "Înregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_password_match_error",
+      "type": "text",
+      "_twin": {
+        "id": "b67b3a1c-b1d7-4f89-86e0-6ba3c9c316ad",
+        "dateCreated": 1706391851328,
+        "dateUpdated": 1706391876678,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Passwords didn\u0027t match, check them again!",
+        "ro_RO": "Parolele nu s-au potrivit, verificați-le din nou!"
+      }
+    },
+    {
+      "key": "authme_password_name_in_password",
+      "type": "text",
+      "_twin": {
+        "id": "0a4c18f0-fe40-45d5-855b-7cf13c915258",
+        "dateCreated": 1706391890834,
+        "dateUpdated": 1706391923535,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You can\u0027t use your name as password, please choose another one...",
+        "ro_RO": "Nu vă puteți folosi numele ca parolă, vă rugăm să alegeți altul..."
+      }
+    },
+    {
+      "key": "auth_password_unsafe_password",
+      "type": "text",
+      "_twin": {
+        "id": "5622bdfd-cd78-4cdc-95ed-205e2c55bc69",
+        "dateCreated": 1706391932986,
+        "dateUpdated": 1706391972979,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The chosen password isn\u0027t safe, please choose another one...",
+        "ro_RO": "Parola aleasă nu este sigură, vă rugăm să alegeți alta..."
+      }
+    },
+    {
+      "key": "authme_password_forbidden_characters",
+      "type": "text",
+      "_twin": {
+        "id": "ba8883dd-fec7-4d1a-8553-99eee98a3dd5",
+        "dateCreated": 1706391982941,
+        "dateUpdated": 1706392002055,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your password contains illegal characters. Allowed chars:",
+        "ro_RO": "Parola dvs. conține caractere ilegale. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_password_wrong_length",
+      "type": "text",
+      "_twin": {
+        "id": "e766d630-031f-4223-ab24-04098ba2b0b4",
+        "dateCreated": 1706392054867,
+        "dateUpdated": 1706392073042,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your password is too short or too long! Please try with another one!",
+        "ro_RO": "Parola dvs. este prea scurtă sau prea lungă! Vă rog să încercați cu altul!"
+      }
+    },
+    {
+      "key": "authme_login_command_usage",
+      "type": "text",
+      "_twin": {
+        "id": "bc35873f-e01e-4920-a7ae-de0580297304",
+        "dateCreated": 1706392091485,
+        "dateUpdated": 1706392120620,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_wrong_password",
+      "type": "text",
+      "_twin": {
+        "id": "47a879e9-464e-4648-aea4-31dd5781f399",
+        "dateCreated": 1706392173466,
+        "dateUpdated": 1706392199363,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Wrong password please try again.",
+        "ro_RO": "Parolă greșită, încercați din nou."
+      }
+    },
+    {
+      "key": "authme_login_success",
+      "type": "text",
+      "_twin": {
+        "id": "855a6743-2d87-4e34-9415-6d5c724fc154",
+        "dateCreated": 1706392212647,
+        "dateUpdated": 1706392258147,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Successfully Login.",
+        "ro_RO": "Conectare cu succes."
+      }
+    },
+    {
+      "key": "authme_welcome_back",
+      "type": "text",
+      "_twin": {
+        "id": "dd671ea0-3c10-4423-be54-1a4d38acd3e1",
+        "dateCreated": 1706392265648,
+        "dateUpdated": 1706392279764,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Welcome Back",
+        "ro_RO": "Bine ai revenit"
+      }
+    },
+    {
+      "key": "authme_login_login_request",
+      "type": "text",
+      "_twin": {
+        "id": "e975cb30-ce10-49bc-9d41-b2c459b20322",
+        "dateCreated": 1706392287859,
+        "dateUpdated": 1706392301814,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_timeout_error",
+      "type": "text",
+      "_twin": {
+        "id": "be136cd2-3a9b-4f0e-a6b8-72bfcabb3168",
+        "dateCreated": 1706392318348,
+        "dateUpdated": 1706392337562,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Login timeout exceeded, you have been kicked from the server, please try again!",
+        "ro_RO": "Timpul de conectare a fost depășit, ați fost exclus de pe server, vă rugăm să încercați din nou!"
+      }
+    },
+    {
+      "key": "auth_error_denied_command",
+      "type": "text",
+      "_twin": {
+        "id": "2028619d-4d3a-45df-9f86-1d0cdbc81a92",
+        "dateCreated": 1706393141659,
+        "dateUpdated": 1706393180701,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "In order to use this command you must be authenticated!",
+        "ro_RO": "Pentru a utiliza această comandă trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_denied_chat",
+      "type": "text",
+      "_twin": {
+        "id": "c36d4b12-6252-44ad-a70e-07581a7c7eb5",
+        "dateCreated": 1706393200888,
+        "dateUpdated": 1706393263641,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "In order to chat you must be authenticated!",
+        "ro_RO": "Pentru a conversa prin chat trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unregistered_user",
+      "type": "text",
+      "_twin": {
+        "id": "72ddd165-c90d-4e97-944b-36f8b2c9bfa8",
+        "dateCreated": 1706393273067,
+        "dateUpdated": 1706393291398,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Can\u0027t find the requested user in the database!",
+        "ro_RO": "Nu se găsește utilizatorul solicitat în baza de date!"
+      }
+    },
+    {
+      "key": "authme_error_not_logged_in",
+      "type": "text",
+      "_twin": {
+        "id": "bcf02930-1c2f-47d3-9330-0bcd97a59e27",
+        "dateCreated": 1706393310298,
+        "dateUpdated": 1706393340508,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You\u0027re not logged in!",
+        "ro_RO": "Nu ești autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unexpected_error",
+      "type": "text",
+      "_twin": {
+        "id": "44cdacca-bac6-436d-9f3b-bca9cc9b408f",
+        "dateCreated": 1706393381401,
+        "dateUpdated": 1706393400170,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "An unexpected error occurred, please contact an administrator!",
+        "ro_RO": "A apărut o eroare neașteptată, vă rugăm să contactați un administrator!"
+      }
+    },
+    {
+      "key": "authme_error_max_registration",
+      "type": "text",
+      "_twin": {
+        "id": "3927f0ef-69c2-4433-8231-85e01c4e1f56",
+        "dateCreated": 1706393413610,
+        "dateUpdated": 1706393437183,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!",
+        "ro_RO": "Ați depășit numărul maxim de înregistrări (%reg_count/%max_acc %reg_names) pentru conexiunea dvs.!"
+      }
+    },
+    {
+      "key": "authme_error_logged_in",
+      "type": "text",
+      "_twin": {
+        "id": "8fb92321-01ca-40f9-a359-cf0cdd7b1a7b",
+        "dateCreated": 1706393457480,
+        "dateUpdated": 1706393479472,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You\u0027re already logged in!",
+        "ro_RO": "Ești deja autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_kick_unresolved_hostname",
+      "type": "text",
+      "_twin": {
+        "id": "9c070227-0fbd-4e12-82a9-739a5b1b2d54",
+        "dateCreated": 1706393495520,
+        "dateUpdated": 1706393517481,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "An error occurred: unresolved player hostname!",
+        "ro_RO": "A apărut o eroare: numele de gazdă a jucătorului nerezolvat!"
+      }
+    },
+    {
+      "key": "authme_unregister_sucess",
+      "type": "text",
+      "_twin": {
+        "id": "e7941c96-d8ab-4e22-abd5-e58c40db19e7",
+        "dateCreated": 1706393530710,
+        "dateUpdated": 1706393548050,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Successfully unregistered!",
+        "ro_RO": "Neînregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_account_not_activated",
+      "type": "text",
+      "_twin": {
+        "id": "4edfdfa9-791f-4f77-8912-b2280488f3cb",
+        "dateCreated": 1706393630411,
+        "dateUpdated": 1706393654838,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your account isn\u0027t activated yet, please check your emails!",
+        "ro_RO": "Contul dvs. nu este încă activat, vă rugăm să vă verificați e-mailurile!"
+      }
+    },
+    {
+      "key": "authme_misc_password_changed",
+      "type": "text",
+      "_twin": {
+        "id": "8e5e9824-03a1-4d71-b48e-54bfc8161e43",
+        "dateCreated": 1706393826891,
+        "dateUpdated": 1706393854803,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Password changed successfully!",
+        "ro_RO": "Parola a fost schimbată cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_logout",
+      "type": "text",
+      "_twin": {
+        "id": "ef5c58d5-8330-4025-8300-8e29cc469bc8",
+        "dateCreated": 1706393864645,
+        "dateUpdated": 1706393916784,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Logged-out successfully!",
+        "ro_RO": "Te-ai deconectat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_reload",
+      "type": "text",
+      "_twin": {
+        "id": "c88b0eb9-90d2-471a-8394-9cdf8d19c70c",
+        "dateCreated": 1706393925778,
+        "dateUpdated": 1706393942574,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Configuration and database have been reloaded correctly!",
+        "ro_RO": "Configurația și baza de date au fost reîncărcate corect!"
+      }
+    },
+    {
+      "key": "authme_usage_strong_pwd",
+      "type": "text",
+      "_twin": {
+        "id": "326bb6f9-ea7d-4727-aa0f-9f1c0662cb06",
+        "dateCreated": 1706393957859,
+        "dateUpdated": 1706394038972,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please make a strong password.",
+        "ro_RO": "Vă rugăm să faceți o parolă puternică."
+      }
+    },
+    {
+      "key": "authme_password_old",
+      "type": "text",
+      "_twin": {
+        "id": "de278995-686b-4afa-88d0-eda2a64ee647",
+        "dateCreated": 1706394057373,
+        "dateUpdated": 1706394087701,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Old Password",
+        "ro_RO": "Parola Veche"
+      }
+    },
+    {
+      "key": "authme_new_password",
+      "type": "text",
+      "_twin": {
+        "id": "2bd86d87-bb9c-4a3a-896b-809b1eabe917",
+        "dateCreated": 1706394098802,
+        "dateUpdated": 1706394114989,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "New Password",
+        "ro_RO": "Noua Parola"
+      }
+    },
+    {
+      "key": "authme_you_own",
+      "type": "text",
+      "_twin": {
+        "id": "3e51999d-4527-4970-b143-53621337c87c",
+        "dateCreated": 1706394162085,
+        "dateUpdated": 1706394178081,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You own",
+        "ro_RO": "Tu deții"
+      }
+    },
+    {
+      "key": "authme_accounts",
+      "type": "text",
+      "_twin": {
+        "id": "66dbf1d2-e178-4dcc-bb4d-6eb2bab087ed",
+        "dateCreated": 1706394186286,
+        "dateUpdated": 1706394196870,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "accounts",
+        "ro_RO": "conturii"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_ip_online",
+      "type": "text",
+      "_twin": {
+        "id": "a12344ef-ff5b-4a14-88b4-21832a2f084f",
+        "dateCreated": 1706394219057,
+        "dateUpdated": 1706394246605,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "A player with the same IP is already in game!",
+        "ro_RO": "Un jucător cu același IP este deja în joc!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_nick_online",
+      "type": "text",
+      "_twin": {
+        "id": "858eaf97-f5b9-490d-b674-72f817b05b7a",
+        "dateCreated": 1706394253932,
+        "dateUpdated": 1706394279850,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The same username is already playing on the server!",
+        "ro_RO": "Același nume de utilizator se joacă deja pe server!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_name_length",
+      "type": "text",
+      "_twin": {
+        "id": "ca32ebe5-a5a1-44b4-9e69-a74f764bc3ea",
+        "dateCreated": 1706394291234,
+        "dateUpdated": 1706394312675,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your username is either too short or too long!",
+        "ro_RO": "Numele tău de utilizator este fie prea scurt, fie prea lung!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_characters_in_name",
+      "type": "text",
+      "_twin": {
+        "id": "12d0dd12-a266-446f-a134-b460c3f8665e",
+        "dateCreated": 1706394324348,
+        "dateUpdated": 1706394352557,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your username contains illegal characters. Allowed chars:",
+        "ro_RO": "Numele dumneavoastră de utilizator conține caractere nepermise. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_kick_full_server",
+      "type": "text",
+      "_twin": {
+        "id": "b23960a0-beb0-4700-9ece-144c846a43ee",
+        "dateCreated": 1706394663916,
+        "dateUpdated": 1706394744153,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The server is full, try again later!",
+        "ro_RO": "Serverul este plin, încercați din nou mai târziu!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_not_owner_error",
+      "type": "text",
+      "_twin": {
+        "id": "12923220-4f63-4644-9859-445d53cce235",
+        "dateCreated": 1706395573658,
+        "dateUpdated": 1706395625669,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "This name already registered.",
+        "ro_RO": "Acest nume este înregistrat."
+      }
+    },
+    {
+      "key": "authme_join_using",
+      "type": "text",
+      "_twin": {
+        "id": "8166e400-9c48-43d6-92a1-958ea4602ef1",
+        "dateCreated": 1706395640591,
+        "dateUpdated": 1706395658271,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You should join using username",
+        "ro_RO": "Ar trebui să vă intri folosind numele de utilizator"
+      }
+    },
+    {
+      "key": "authme_not",
+      "type": "text",
+      "_twin": {
+        "id": "47c10747-4966-4afc-a9aa-c6e80cdcd69d",
+        "dateCreated": 1706395665785,
+        "dateUpdated": 1706395672180,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "not",
+        "ro_RO": "nu"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_quick_command",
+      "type": "text",
+      "_twin": {
+        "id": "a58591d6-d01a-4a08-9716-e61f53b6e357",
+        "dateCreated": 1706395685570,
+        "dateUpdated": 1706395706681,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You used a command too fast! Please, join the server again and wait more before using any command.",
+        "ro_RO": "Ai folosit o comandă prea repede! Vă rugăm să vă conectați din nou la server și să așteptați mai mult înainte de a utiliza orice comandă."
+      }
+    },
+    {
+      "key": "authme_email_add_email_request",
+      "type": "text",
+      "_twin": {
+        "id": "7c5faac2-f974-49ca-a4fb-42501b42b3ed",
+        "dateCreated": 1706395774374,
+        "dateUpdated": 1706395800686,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_usage_email_add",
+      "type": "text",
+      "_twin": {
+        "id": "45cd431f-2a4a-47cd-ac24-66428521b0fa",
+        "dateCreated": 1706395814557,
+        "dateUpdated": 1706395845920,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_email_usage_email_change",
+      "type": "text",
+      "_twin": {
+        "id": "966f0f74-a112-4792-9cf5-2df9ee78d448",
+        "dateCreated": 1706395857694,
+        "dateUpdated": 1706395888457,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Vă rugăm să adăugați adresa de e-mail în contul dvs."
+      }
+    },
+    {
+      "key": "email_new_email_invalid",
+      "type": "text",
+      "_twin": {
+        "id": "b935bf21-7453-4afb-8f26-9b22d8727618",
+        "dateCreated": 1706395906544,
+        "dateUpdated": 1706395926114,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Invalid new email, try again!",
+        "ro_RO": "E-mail nou nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_old_email_invalid",
+      "type": "text",
+      "_twin": {
+        "id": "1e797211-b4a9-4a40-9e41-b9e0df819b9a",
+        "dateCreated": 1706395938166,
+        "dateUpdated": 1706395953781,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Invalid old email, try again!",
+        "ro_RO": "E-mail vechi nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_invalid",
+      "type": "text",
+      "_twin": {
+        "id": "ad9109e6-9bf5-421f-b4cf-cfdc2e7f2276",
+        "dateCreated": 1706395970791,
+        "dateUpdated": 1706395987615,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Invalid email address, try again!",
+        "ro_RO": "Adresă de e-mail nevalidă, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_added",
+      "type": "text",
+      "_twin": {
+        "id": "92e66cfb-c60c-41bf-8126-a86e8e311c72",
+        "dateCreated": 1706395999731,
+        "dateUpdated": 1706396026051,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Email address successfully added to your account!",
+        "ro_RO": "Adresa de e-mail a fost adăugată cu succes în contul dvs.!"
+      }
+    },
+    {
+      "key": "authme_email_add_not_allowed",
+      "type": "text",
+      "_twin": {
+        "id": "594d7fc6-980e-48e6-a417-8633e325e4ab",
+        "dateCreated": 1706396056448,
+        "dateUpdated": 1706396077076,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Adding email was not allowed.",
+        "ro_RO": "Adăugarea de e-mail nu a fost permisă."
+      }
+    },
+    {
+      "key": "authme_email_show",
+      "type": "text",
+      "_twin": {
+        "id": "dbda07e5-999d-4107-ad38-fcb781d1c4a9",
+        "dateCreated": 1706396138392,
+        "dateUpdated": 1706396160942,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Your current email address is:",
+        "ro_RO": "Adresa dvs. actuală de e-mail este:"
+      }
+    },
+    {
+      "key": "authme_no_email_for_account",
+      "type": "text",
+      "_twin": {
+        "id": "ee3803bf-1226-497a-a66f-f686042f4797",
+        "dateCreated": 1706396173598,
+        "dateUpdated": 1706396193212,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You currently don\u0027t have email address associated with this account.",
+        "ro_RO": "În prezent, nu aveți o adresă de e-mail asociată acestui cont."
+      }
+    },
+    {
+      "key": "authme_already_used",
+      "type": "text",
+      "_twin": {
+        "id": "d24be958-f004-478b-9ba8-476488dd7e7c",
+        "dateCreated": 1706396217539,
+        "dateUpdated": 1706396241156,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The email address is already being used",
+        "ro_RO": "Adresa de e-mail este deja folosită"
+      }
+    }
+  ]
+}

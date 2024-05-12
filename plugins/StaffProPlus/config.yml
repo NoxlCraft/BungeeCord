@@ -138,7 +138,7 @@ custom-brand:
   brand: "&c&lIlie&f&lGuard"
 
 domains-whitelist:
-    enabled: true
+    enabled: false
     domains:
         - "play.noxlcraft.fun"
         - "mc.noxlcraft.fun"

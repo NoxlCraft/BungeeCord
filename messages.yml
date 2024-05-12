@@ -7,18 +7,16 @@ flamecord_help: |-
   &c /bplugins&7 >&7 Afiseaza lista de pluginuri!
   &c /bip <jucator>&7 >&7 Arata IP-ul si informatiile despre un jucator!
   &c /flamecord help&7 >&7 Arata acest mesaj de ajutor!
-flamecord_nopermission: '&7Nu ai permisiunea sa faci asta!'
+flamecord_nopermission: '[lang]core_command_not_exist[/lang]'
 alert: '&7[&4Alerta&7]&r '
-already_connected: '&7Esti deja conectat la acest server!'
-already_connected_proxy: '&7Esti deja conectat la acest proxy!'
-already_connecting: '&7Deja te conectezi la acest server!'
+already_connected: '[lang]flamecord_already_connected[/lang]'
+already_connected_proxy: '[lang]flamecord_already_connected_proxy[/lang]'
+already_connecting: '[lang]flamecord_already_connected_proxy[/lang]'
 command_list: '&7[&c{0}&7] &7(&c{1}&7): &c{2}'
-connect_kick: '&7Ai fost deconectat in timp ce te conectai la &c{0}&7: &c{1}'
-current_server: '&7Esti in prezent conectat la &c{0}.'
-fallback_kick: '&7Nu s-a putut conecta la un server implicit sau de rezerva, te rugam
-  sa incerci din nou mai tarziu: {0}'
-fallback_lobby: '&7Nu s-a putut conecta la serverul tinta, ai fost mutat la un server
-  de rezerva.'
+connect_kick: '[lang]flamecord_connect_kick[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
+current_server: '[lang]flamecord_current_server[args][arg]{0}[/arg][/args][/lang]'
+fallback_kick: '[lang]flamecord_fallback_kick[args][arg]{0}[/arg][/args][/lang]'
+fallback_lobby: '[lang]flamecord_fallback_lobby[/lang]'
 lost_connection: Conexiune pierduta cu serverul.
 mojang_fail: A aparut o eroare in timpul contactarii serverelor de autentificare,
   sunt acestea in jos?
@@ -48,7 +46,7 @@ server_command_hover_players: '&c{0}&7 jucatori'
 click_to_connect: Click pentru a te conecta la server
 username_needed: '&7Te rugam sa urmezi aceasta comanda cu un nume de utilizator.'
 user_not_online: '&7Acel utilizator nu este online.'
-user_online_at: '&c{0} &7este online la &c{1}'
+user_online_at: '[lang]flamecord_user_online_at[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
 send_cmd_usage: '&7Nu sunt suficiente argumente, utilizare: &c/send <server|jucator|toti|curent>
   <destinatie>'
 player_only: '&7Doar jucatorii in joc pot folosi aceasta comanda'
@@ -143,3 +141,22 @@ flamecord_bip: |-
   &7Distanta de vizualizare: &c{5}
   &7Serverul Curent: &c{6}'
 command_list_format: '&7Servere:&r'
+antibot_latency: |-
+  &c&lFlameCord
+
+  &c¡Your ping is too high! ({0}ms)
+
+  &cError? Contact us on discord.gg/gF36AT3
+antibot_fastchat_cancel: '&c¡You are repeating chats too fast! Please &lSTOP!!!&r'
+flamecord_accounts_help: '&9Usage: /accounts &e<add/remove> <ip> <name>'
+flamecord_accounts_add: '&aNickname &e{0} &ahas been added to the account with IP
+  &e{1}.'
+flamecord_accounts_remove: '&aNickname &e{0} &ahas been removed from the account with
+  IP &e{1}.'
+flamecord_accounts_clear: '&aAll nicknames have been cleared from the account with
+  IP &e{0}.'
+flamecord_bkick_nopermission: '&cYou don''t have permission to use this command!'
+flamecord_bkick_default: '&cYou have been kicked from the server.'
+flamecord_bkick_notfound: '&cPlayer not found or is not currently connected.'
+flamecord_bkick_usage: '&cUsage: /bkick <player> [reason]'
+flamecord_bkick: '&c{0} has been kicked from the server.'

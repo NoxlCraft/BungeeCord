@@ -12,7 +12,7 @@ log_commands: false
 server_connect_timeout: 5000
 online_mode: false
 servers:
-  authlobby:
+  auth:
     address: 212.87.213.115:25562
     fallback: true
     motd: '&1Just another FlameCord - Forced Host'
@@ -37,6 +37,11 @@ servers:
     fallback: false
     motd: '&1Just another FlameCord - Forced Host'
     restricted: false
+  smp:
+    address: 212.87.213.115:25529
+    fallback: false
+    motd: '&1Just another FlameCord - Forced Host'
+    restricted: false
   survival:
     address: 212.87.213.115:25539
     fallback: false
@@ -57,8 +62,8 @@ listeners:
   motd: '&1Another FlameCord server'
   ping_passthrough: true
   priorities:
-  - authlobby
-  proxy_protocol: true
+  - auth
+  proxy_protocol: false
   query_enabled: false
   query_port: 25565
   tab_list: GLOBAL_PING

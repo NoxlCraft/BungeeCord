@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "flamecord_user_online_at",
+      "type": "text",
+      "_twin": {
+        "id": "1c5cf424-458c-47a4-a0d6-06bec116e151",
+        "dateCreated": 1715546473506,
+        "dateUpdated": 1715546760198,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267is online on \u0026c%2",
+        "ro_RO": "\u0026c%1 \u00267este online la \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_already_connected",
+      "type": "text",
+      "_twin": {
+        "id": "dfd9cd17-58c3-4aaa-b9e0-18f982aacf7f",
+        "dateCreated": 1715546929650,
+        "dateUpdated": 1715547472030,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You are already connected to this server",
+        "ro_RO": "Tu esti deja conectat la acest server!"
+      }
+    },
+    {
+      "key": "flamecord_already_connected_proxy",
+      "type": "text",
+      "_twin": {
+        "id": "3519b7d2-1fc6-4729-b8f8-d0195b8a8fd3",
+        "dateCreated": 1715546992235,
+        "dateUpdated": 1715547466651,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You are already connected to this server!",
+        "ro_RO": "\u00267Deja te conectezi la acest server!"
+      }
+    },
+    {
+      "key": "flamecord_connect_kick",
+      "type": "text",
+      "_twin": {
+        "id": "827ca1dc-920c-49a1-a991-fe11fef40be1",
+        "dateCreated": 1715547053164,
+        "dateUpdated": 1715547107885,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You were kicked while you were trying to connect to \u0026c%1\u00267: \u0026c%2",
+        "ro_RO": "\u00267Ai fost deconectat in timp ce te conectai la \u0026c%1\u00267: \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_current_server",
+      "type": "text",
+      "_twin": {
+        "id": "7c5309c3-18ef-4684-b659-9ae1c51c89bc",
+        "dateCreated": 1715547130992,
+        "dateUpdated": 1715547175586,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You are right now connected to \u0026c5%1.",
+        "ro_RO": "\u00267Esti in prezent conectat la \u0026c%1."
+      }
+    },
+    {
+      "key": "flamecord_fallback_kick",
+      "type": "text",
+      "_twin": {
+        "id": "e5f226d1-9084-40dd-8918-00ad36255950",
+        "dateCreated": 1715547188665,
+        "dateUpdated": 1715547285093,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Could not connect to a default or backup server, please try again later: \u0026c%1",
+        "ro_RO": "\u00267Nu s-a putut conecta la un server implicit sau de rezerva, te rugam sa incerci din nou mai tarziu: \u0026c%1"
+      }
+    },
+    {
+      "key": "flamecord_fallback_lobby",
+      "type": "text",
+      "_twin": {
+        "id": "bbe4a97a-9438-44e3-970a-f8155eeed8a7",
+        "dateCreated": 1715547324692,
+        "dateUpdated": 1715547347972,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Could not connect to the target server, you have been moved to a backup server.",
+        "ro_RO": "\u00267Nu s-a putut conecta la serverul tinta, ai fost mutat la un server de rezerva."
+      }
+    }
+  ]
+}
