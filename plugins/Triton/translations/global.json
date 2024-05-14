@@ -138,6 +138,51 @@
         "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» ",
         "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft \u00267» "
       }
+    },
+    {
+      "key": "core_color_main",
+      "type": "text",
+      "_twin": {
+        "id": "710b8880-f985-4f1a-8d9a-a707617540e4",
+        "dateCreated": 1715708002484,
+        "dateUpdated": 1715708055218,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00264",
+        "ro_RO": "\u00264"
+      }
+    },
+    {
+      "key": "core_color_secondary",
+      "type": "text",
+      "_twin": {
+        "id": "b8c99802-4da3-4f4c-8aa0-8d2201e1d53e",
+        "dateCreated": 1715708028779,
+        "dateUpdated": 1715708128696,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c",
+        "ro_RO": "\u0026c"
+      }
+    },
+    {
+      "key": "core_color_text",
+      "type": "text",
+      "_twin": {
+        "id": "4b14becb-ba78-4319-a59d-12892241e5ac",
+        "dateCreated": 1715708133661,
+        "dateUpdated": 1715708145356,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267",
+        "ro_RO": "\u00267"
+      }
     }
   ]
 }

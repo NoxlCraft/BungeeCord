@@ -108,6 +108,951 @@
         "en_GB": "\u00267Could not connect to the target server, you have been moved to a backup server.",
         "ro_RO": "\u00267Nu s-a putut conecta la serverul tinta, ai fost mutat la un server de rezerva."
       }
+    },
+    {
+      "key": "flamecord_lost_connection",
+      "type": "text",
+      "_twin": {
+        "id": "d498bde9-6768-499e-b773-116477a7d55d",
+        "dateCreated": 1715702414210,
+        "dateUpdated": 1715702431603,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The connection was lost with our proxy server!",
+        "ro_RO": "Conexiune pierduta cu serverul."
+      }
+    },
+    {
+      "key": "flamecord_mojang_fail",
+      "type": "text",
+      "_twin": {
+        "id": "d99f6357-2e18-486f-9368-79252cb3b305",
+        "dateCreated": 1715702452017,
+        "dateUpdated": 1715702498140,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "There was an error while we tried to connect to the Mojang Servers!",
+        "ro_RO": "A aparut o eroare in timpul contactarii serverelor de autentificare!"
+      }
+    },
+    {
+      "key": "flamecord_no_server",
+      "type": "text",
+      "_twin": {
+        "id": "76911aaa-7103-4086-ba82-43c73f30b311",
+        "dateCreated": 1715702588448,
+        "dateUpdated": 1715710214566,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That server does not exist \u0026cpookie\u00267!",
+        "ro_RO": "\u00267Serverul specificat nu exista."
+      }
+    },
+    {
+      "key": "flamecord_reload",
+      "type": "text",
+      "_twin": {
+        "id": "ecaaff09-4e21-4ad0-bbc1-a148137fa571",
+        "dateCreated": 1715702681846,
+        "dateUpdated": 1715702725202,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267All files have been reloaded successfully!",
+        "ro_RO": "\u00267Toate fisierele au fost reincarcate cu succes!"
+      }
+    },
+    {
+      "key": "flamecord_server_list",
+      "type": "text",
+      "_twin": {
+        "id": "a1977935-f4c0-4822-a7c0-27cf4c82228a",
+        "dateCreated": 1715702775480,
+        "dateUpdated": 1715702793952,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Poti sa te conectezi la urmatoarele servere in acest moment: ",
+        "ro_RO": "\u00267You can connect to the following servers right now:"
+      }
+    },
+    {
+      "key": "flamecord_server_went_down",
+      "type": "text",
+      "_twin": {
+        "id": "12d8d85b-20c2-47be-97e2-0600f4cdd363",
+        "dateCreated": 1715702805186,
+        "dateUpdated": 1715702825625,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267The server you were previously connected to failed, you were connected to a backup server!",
+        "ro_RO": "\u00267Serverul la care erai anterior a picat, ai fost conectat la un server de rezerva"
+      }
+    },
+    {
+      "key": "flamecord_total_players",
+      "type": "text",
+      "_twin": {
+        "id": "40b65fe4-51e2-43cd-8691-b00f5fe8e02a",
+        "dateCreated": 1715702877747,
+        "dateUpdated": 1715704605445,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Total players online: %1",
+        "ro_RO": "Jucatori totali online: %1"
+      }
+    },
+    {
+      "key": "flamecord_name_invalid",
+      "type": "text",
+      "_twin": {
+        "id": "e9b9d626-6682-4e83-9213-9d8affade378",
+        "dateCreated": 1715702921253,
+        "dateUpdated": 1715704620460,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Username contains invalid characters.",
+        "ro_RO": "Numele de utilizator contine caractere nevalide."
+      }
+    },
+    {
+      "key": "flamecord_ping_cannot_connect",
+      "type": "text",
+      "_twin": {
+        "id": "5ab84be0-4a78-40ee-873c-4ea6f64be493",
+        "dateCreated": 1715702970077,
+        "dateUpdated": 1715702993591,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Cannot connect to server.",
+        "ro_RO": "\u00267Nu se poate conecta la server."
+      }
+    },
+    {
+      "key": "flamecord_offline_mode_player",
+      "type": "text",
+      "_twin": {
+        "id": "36e304b2-ac1c-4f97-a9ce-1d034473ce7b",
+        "dateCreated": 1715703000568,
+        "dateUpdated": 1715703022981,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You are not logged in to Minecraft.net",
+        "ro_RO": "Nu esti autentificat cu Minecraft.net"
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_required",
+      "type": "text",
+      "_twin": {
+        "id": "279ba3b7-d009-4d05-b1a9-e4cf8822750f",
+        "dateCreated": 1715703046183,
+        "dateUpdated": 1715703067497,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "A secure profile is required to join this server.",
+        "ro_RO": "Este necesar un profil securizat pentru a te alatura acestui server."
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_expired",
+      "type": "text",
+      "_twin": {
+        "id": "d69bcf68-59ea-4c24-b34f-ba4b7a757ee8",
+        "dateCreated": 1715703414780,
+        "dateUpdated": 1715703997436,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Secure profile expired!",
+        "ro_RO": "Profil securizat expirat."
+      }
+    },
+    {
+      "key": "flamecord_secure_profile_invalid",
+      "type": "text",
+      "_twin": {
+        "id": "6d29a8a3-dbeb-483b-ad07-c011fd0c8e74",
+        "dateCreated": 1715704015101,
+        "dateUpdated": 1715704062430,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267The secure profile is not valid!",
+        "ro_RO": "\u00267Te rog sa intri cu un cont premium!"
+      }
+    },
+    {
+      "key": "flamecord_message_needed",
+      "type": "text",
+      "_twin": {
+        "id": "312c86dc-c1cb-432f-a3a1-688f900cad2f",
+        "dateCreated": 1715704075808,
+        "dateUpdated": 1715704098050,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You need to specify a message.",
+        "ro_RO": "\u00267Trebuie sa furnizezi un mesaj."
+      }
+    },
+    {
+      "key": "flamecord_error_occurred_player",
+      "type": "text",
+      "_twin": {
+        "id": "e49b5d92-4e6c-4890-8026-98dc51793325",
+        "dateCreated": 1715704113759,
+        "dateUpdated": 1715704139981,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267An error occurred while analyzing your message.",
+        "ro_RO": "\u00267A aparut o eroare in timpul analizarii mesajului tau."
+      }
+    },
+    {
+      "key": "flamecord_error_occurred_console",
+      "type": "text",
+      "_twin": {
+        "id": "d12d0b62-11f4-4362-97b0-7d1f5ac79089",
+        "dateCreated": 1715704150492,
+        "dateUpdated": 1715704174164,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267An error occurred while parsing your message: \u0026c%1",
+        "ro_RO": "\u00267A aparut o eroare in timpul analizarii mesajului tau: \u0026c%1"
+      }
+    },
+    {
+      "key": "flamecord_server_command_hover_players",
+      "type": "text",
+      "_twin": {
+        "id": "7a04496e-e0f3-4f1b-a998-960f7302e4d6",
+        "dateCreated": 1715704187401,
+        "dateUpdated": 1715704209773,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1\u00267 players",
+        "ro_RO": "\u0026c%1\u00267 jucatori"
+      }
+    },
+    {
+      "key": "flamecord_command_list",
+      "type": "text",
+      "_twin": {
+        "id": "dc748000-ed29-4477-9f3f-a64f25c379f2",
+        "dateCreated": 1715704227460,
+        "dateUpdated": 1715704254497,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267[\u0026c%1\u00267] \u00267(\u0026c%2\u00267): \u0026c%3",
+        "ro_RO": "\u00267[\u0026c%1\u00267] \u00267(\u0026c%2\u00267): \u0026c%3"
+      }
+    },
+    {
+      "key": "flamecord_alert",
+      "type": "text",
+      "_twin": {
+        "id": "18e483cf-a18e-4bb7-8a9a-d52591a4c28f",
+        "dateCreated": 1715704284194,
+        "dateUpdated": 1715704301006,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267[\u00264Alert\u00267]\u0026r ",
+        "ro_RO": "\u00267[\u00264Alerta\u00267]\u0026r "
+      }
+    },
+    {
+      "key": "flamecord_help",
+      "type": "text",
+      "_twin": {
+        "id": "e656b872-34d4-4f00-9256-fdaf920e94af",
+        "dateCreated": 1715704347534,
+        "dateUpdated": 1715705189110,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "  \u00264FlameCord\u00267 \u0026c%1\u00267 translated by \u0026cNaysKutzu\n  \u0026c /flamecord reload\u00267 \u003e\u00267 Reload the plugin!\n  \u0026c /flamecord firewall \u003cadd/remove\u003e \u003cip\u003e\u00267 \u003e\u00267 Add or remove ips from firewall!\n  \u0026c /flamecord lockdown\u00267 \u003e\u00267 See the status for the lockdown\n  \u0026c /bplugins\u00267 \u003e\u00267 Shows list of bungee plugins\n  \u0026c /bip \u003cplayer\u003e\u00267 \u003e\u00267 Shows a player IP\n  \u0026c /flamecord help\u00267 \u003e\u00267 Shows this menu",
+        "ro_RO": "  \u00264FlameCord\u00267 \u0026c%1\u00267 tradus de \u0026cNaysKutzu\n  \u0026c /flamecord reload\u00267 \u003e\u00267 Reincarca fisierele FlameCord!\n  \u0026c /flamecord firewall \u003cadd/remove\u003e \u003cip\u003e\u00267 \u003e\u00267 Adauga sau elimina IP-uri din firewall!\n  \u0026c /flamecord lockdown\u00267 \u003e\u00267 Verifica starea de blocare!\n  \u0026c /bplugins\u00267 \u003e\u00267 Afiseaza lista de pluginuri!\n  \u0026c /bip \u003cjucator\u003e\u00267 \u003e\u00267 Arata IP-ul si informatiile despre un jucator!\n  \u0026c /flamecord help\u00267 \u003e\u00267 Arata acest mesaj de ajutor!"
+      }
+    },
+    {
+      "key": "flamecord_click_to_connect",
+      "type": "text",
+      "_twin": {
+        "id": "81ce7857-cce8-4c18-a7b0-a6f60c42a302",
+        "dateCreated": 1715704459695,
+        "dateUpdated": 1715704472788,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Click to connect to the server.",
+        "ro_RO": "Click pentru a te conecta la server."
+      }
+    },
+    {
+      "key": "flamecord_username_needed",
+      "type": "text",
+      "_twin": {
+        "id": "3e4c7487-f8cc-4c1c-a42e-72cbdd184a77",
+        "dateCreated": 1715704486561,
+        "dateUpdated": 1715704526297,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Te rugam sa urmezi aceasta comanda cu un nume de utilizator.",
+        "ro_RO": "\u00267Please follow this command with a username."
+      }
+    },
+    {
+      "key": "flamecord_user_not_online",
+      "type": "text",
+      "_twin": {
+        "id": "60e97c40-2ca6-4305-9238-4004ad700f44",
+        "dateCreated": 1715704641794,
+        "dateUpdated": 1715704655364,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That user is not online.",
+        "ro_RO": "\u00267Acel utilizator nu este online."
+      }
+    },
+    {
+      "key": "flamecord_send_cmd_usage",
+      "type": "text",
+      "_twin": {
+        "id": "d81a90cb-cd49-4b4b-96e6-2cc7b9297dec",
+        "dateCreated": 1715704663739,
+        "dateUpdated": 1715704688358,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Not enough arguments, usage: \u0026c/send \u003cserver|player|all|current\u003e \u003cdestination\u003e",
+        "ro_RO": "\u00267Nu sunt suficiente argumente, utilizare: \u0026c/send \u003cserver|jucator|toti|curent\u003e \u003cdestinatie\u003e"
+      }
+    },
+    {
+      "key": "flamecord_player_only",
+      "type": "text",
+      "_twin": {
+        "id": "245cb47d-93d9-45b5-ab92-926a906b97a8",
+        "dateCreated": 1715705345896,
+        "dateUpdated": 1715705362814,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Only players in the game can use this command",
+        "ro_RO": "\u00267Doar jucatorii in joc pot folosi aceasta comanda"
+      }
+    },
+    {
+      "key": "flamecord_you_got_summoned",
+      "type": "text",
+      "_twin": {
+        "id": "1461ecbb-643e-4e11-93a1-bf87859f9f8b",
+        "dateCreated": 1715705372079,
+        "dateUpdated": 1715705406123,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have been moved to \u0026c%1\u00267 by \u0026c%2",
+        "ro_RO": "\u00267Ai fost mutat pe \u0026c%1\u00267 de \u0026c%2"
+      }
+    },
+    {
+      "key": "flamecord_command_perms_groups",
+      "type": "text",
+      "_twin": {
+        "id": "a6b4a488-fd6d-4357-b356-9653c236fb02",
+        "dateCreated": 1715705423232,
+        "dateUpdated": 1715705451326,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have the following groups: \u0026c%1\u00267",
+        "ro_RO": "\u00267Ai urmatoarele grupuri: \u0026c%1\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_perms_permission",
+      "type": "text",
+      "_twin": {
+        "id": "df1b5767-8920-4159-829e-4f44c972531b",
+        "dateCreated": 1715705582664,
+        "dateUpdated": 1715705606057,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267- \u0026c%1\u00267",
+        "ro_RO": "\u00267- \u0026c%1\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_ip",
+      "type": "text",
+      "_twin": {
+        "id": "93780525-cb37-426b-9f47-11584761879d",
+        "dateCreated": 1715705623537,
+        "dateUpdated": 1715705653346,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1\u00267\u0027s \u00267IP is \u0026c%2\u00267",
+        "ro_RO": "\u00267IP-ul lui \u0026c%1\u00267 este \u0026c%2\u00267"
+      }
+    },
+    {
+      "key": "flamecord_illegal_chat_characters",
+      "type": "text",
+      "_twin": {
+        "id": "da0cbcd5-55a9-4659-8cb1-df3c990683b3",
+        "dateCreated": 1715705672922,
+        "dateUpdated": 1715705697132,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Invalid characters in chat (\u0026c%1\u00267)",
+        "ro_RO": "\u00267Caractere nevalide in chat (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_do_you_think_this_is_an_error",
+      "type": "text",
+      "_twin": {
+        "id": "53d8d026-1f70-429b-885d-00991a35de17",
+        "dateCreated": 1715705802870,
+        "dateUpdated": 1715705895728,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Error? Contact us at:\u0026c",
+        "ro_RO": "\u00267Eroare? Contacteaza-ne pe:\u0026c"
+      }
+    },
+    {
+      "key": "flamecord_antibot_accounts",
+      "type": "text",
+      "_twin": {
+        "id": "bec0d972-908d-4b55-8ab2-757723565128",
+        "dateCreated": 1715705903962,
+        "dateUpdated": 1715705924765,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You have too many accounts! (\u0026c%1\u00267)",
+        "ro_RO": "¡Ai prea multe conturi! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_fastchat",
+      "type": "text",
+      "_twin": {
+        "id": "0026d77c-2966-4ee5-9dff-e3e61d9b6a34",
+        "dateCreated": 1715709605032,
+        "dateUpdated": 1715709632786,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡You speak too fast!",
+        "ro_RO": "\u00267¡Vorbesti prea repede!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_firewall",
+      "type": "text",
+      "_twin": {
+        "id": "5469da6c-8a87-4817-9ddf-ac071ed12d47",
+        "dateCreated": 1715709741869,
+        "dateUpdated": 1715709757969,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡You are on the blacklist of this server!",
+        "ro_RO": "\u00267¡Esti pe lista neagra a acestui server!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_nickname",
+      "type": "text",
+      "_twin": {
+        "id": "35e779b1-52e2-430f-8618-a259c6a2a2da",
+        "dateCreated": 1715709767783,
+        "dateUpdated": 1715709792543,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡Your nickname has been detected as a bot! (\u0026c%1\u00267)",
+        "ro_RO": "\u00267¡Pseudonimul tau a fost detectat ca bot! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_password",
+      "type": "text",
+      "_twin": {
+        "id": "33e934b3-62d9-44c8-ad57-34598542be6a",
+        "dateCreated": 1715709819877,
+        "dateUpdated": 1715709844066,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡Use another password! (\u0026c%1\u00267)",
+        "ro_RO": "  \u00267¡Foloseste alta parola! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_ratelimit",
+      "type": "text",
+      "_twin": {
+        "id": "1e117c58-03d4-4487-b34f-ffe4c01b96d2",
+        "dateCreated": 1715709878667,
+        "dateUpdated": 1715709905176,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡You are connecting too fast! (\u0026c%1\u00267)",
+        "ro_RO": "\u00267¡Te conectezi prea repede! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_reconnect",
+      "type": "text",
+      "_twin": {
+        "id": "4749470a-f536-4c8f-b071-5ddbf4f51e32",
+        "dateCreated": 1715709944602,
+        "dateUpdated": 1715709968418,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Reconnect \u0026c%1\u00267 more times",
+        "ro_RO": "\u00267Reconectare \u0026c%1\u00267 ori in plus"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_ping",
+      "type": "text",
+      "_twin": {
+        "id": "bc6f79a3-a2a2-469b-b6f9-d845f77d697f",
+        "dateCreated": 1715709983945,
+        "dateUpdated": 1715710031419,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Update server list \u0026c%1\u00267 more times",
+        "ro_RO": "\u00267Actualizare lista servere \u0026c%1\u00267 ori in plus"
+      }
+    },
+    {
+      "key": "flamecord_antibot_reconnect_message",
+      "type": "text",
+      "_twin": {
+        "id": "f0c9c6e0-450f-469d-9624-d72e9071640b",
+        "dateCreated": 1715710054310,
+        "dateUpdated": 1715710070075,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267(Do it slowly)",
+        "ro_RO": "\u00267(Fa-o incet)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_country",
+      "type": "text",
+      "_twin": {
+        "id": "b6679cb8-c1f9-4857-84c1-fe440bb1da20",
+        "dateCreated": 1715710112463,
+        "dateUpdated": 1715710147613,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡Your country \u0026c%1\u00267 is blacklisted!",
+        "ro_RO": "\u00267¡Tara ta \u0026c%1\u00267 este pe lista neagra!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_proxy",
+      "type": "text",
+      "_twin": {
+        "id": "e49e9882-3019-4e84-bd30-efcbcaff25a0",
+        "dateCreated": 1715710419794,
+        "dateUpdated": 1715710450963,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡You are using a Proxy/VPN! (\u0026c%1\u00267)",
+        "ro_RO": "  \u00267¡Folosesti un Proxy/VPN! (\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_lockdown",
+      "type": "text",
+      "_twin": {
+        "id": "f0f7cf15-f3a2-4dcd-97d6-a8168f30954d",
+        "dateCreated": 1715710484099,
+        "dateUpdated": 1715710501817,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Server blocked. ¡Wait a minute to join!",
+        "ro_RO": "\u00267Server blocat. ¡Asteapta un minut pentru a te alatura!"
+      }
+    },
+    {
+      "key": "flamecord_antibot_stats",
+      "type": "text",
+      "_twin": {
+        "id": "96a2655c-143a-4460-8ad5-ba99acd1b196",
+        "dateCreated": 1715710526645,
+        "dateUpdated": 1715710582553,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267\u0026lAntibot Statistics [lang]global_server_name[/lang]\n   \u00267■ Total Pings: \u0026c%1\n   \u00267■ Total Connections: \u0026c%2\n\n   \u00267■ Current Pings: \u0026c%3/s\n   \u00267■ Current Connections: \u0026c%4/s\n\n   \u00267■ Total Firewalls: \u0026c%5\n   \u00267■ Current Firewalls: \u0026c%6/s",
+        "ro_RO": "  \u00267\u0026lStatistici Antibot [lang]global_server_name[/lang]\n   \u00267■ Total Pings: \u0026c%1\n   \u00267■ Total Conexiuni: \u0026c%2\n\n   \u00267■ Pings Curente: \u0026c%3/s\n   \u00267■ Conexiuni Curente: \u0026c%4/s\n\n   \u00267■ Total Firewall-uri: \u0026c%5\n   \u00267■ Firewall-uri Curente: \u0026c%6/s"
+      }
+    },
+    {
+      "key": "flamecord_antibot_stats_actionbar",
+      "type": "text",
+      "_twin": {
+        "id": "83b993b7-c827-4ac8-8a7a-4010362ef4ed",
+        "dateCreated": 1715710682483,
+        "dateUpdated": 1715710725207,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Pings: \u0026c%1/s \u00267- \u00267Connections: \u0026c%2/s\u00267 - \u00267Firewalls:\u0026c%3",
+        "ro_RO": "\u00267Pings: \u0026c%1/s \u00267- \u00267Conexiuni: \u0026c%2/s\u00267 - \u00267Firewall-uri:\u0026c%3"
+      }
+    },
+    {
+      "key": "flamecord_firewall_help",
+      "type": "text",
+      "_twin": {
+        "id": "7f65df45-eb35-4ae9-8de4-6b34028b8148",
+        "dateCreated": 1715711032753,
+        "dateUpdated": 1715711053964,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267/flamecord firewall \u003cadd/remove\u003e \u003cip\u003e",
+        "ro_RO": "\u00267/flamecord firewall \u003cadauga/scoate\u003e \u003cip\u003e"
+      }
+    },
+    {
+      "key": "flamecord_firewall_add",
+      "type": "text",
+      "_twin": {
+        "id": "ec0216b6-84b1-4233-a4a2-7a36a8267424",
+        "dateCreated": 1715711061632,
+        "dateUpdated": 1715711085266,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267IP \u0026c%1\u00267 has been added to the firewall!",
+        "ro_RO": "\u00267IP-ul \u0026c%1\u00267 a fost adaugat in firewall!"
+      }
+    },
+    {
+      "key": "flamecord_firewall_remove",
+      "type": "text",
+      "_twin": {
+        "id": "28f95c02-fc6c-4286-aa0b-0d1ce39e69a3",
+        "dateCreated": 1715711096903,
+        "dateUpdated": 1715711131885,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267IP \u0026c%1\u00267 has been removed from the firewall!",
+        "ro_RO": "\u00267IP-ul \u0026c%1\u00267 a fost eliminat din firewall!"
+      }
+    },
+    {
+      "key": "flamecord_bplugins_header",
+      "type": "text",
+      "_twin": {
+        "id": "26e84956-ede0-408b-994f-b9f8ef63ddec",
+        "dateCreated": 1715711213901,
+        "dateUpdated": 1715711247229,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Plugins (\u0026c%1\u00267): ",
+        "ro_RO": "\u00267Pluginuri (\u0026c%1\u00267): "
+      }
+    },
+    {
+      "key": "flamecord_bip_offline",
+      "type": "text",
+      "_twin": {
+        "id": "9c462e00-b2be-4854-a5b6-2ed685205552",
+        "dateCreated": 1715711307619,
+        "dateUpdated": 1715712352498,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That player is not online!",
+        "ro_RO": "\u00267Acel jucator nu este online!"
+      }
+    },
+    {
+      "key": "flamecord_bip_usage",
+      "type": "text",
+      "_twin": {
+        "id": "b2413f7f-9742-41a0-9fe9-ffc07923157a",
+        "dateCreated": 1715711326853,
+        "dateUpdated": 1715711345447,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267/bip \u003cname\u003e",
+        "ro_RO": "\u00267/bip \u003cjucator\u003e"
+      }
+    },
+    {
+      "key": "flamecord_bip",
+      "type": "text",
+      "_twin": {
+        "id": "656ae82d-b2ae-4574-8aec-0b5057ee7cc7",
+        "dateCreated": 1715711363247,
+        "dateUpdated": 1715711453255,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Information about \u0026c%1\u00267\u00267:\n  \u00267UUID: \u0026c%2\n  \u00267IP: \u0026c%3\n  \u00267Ping: \u0026c%4ms\n  \u00267City: \u0026c%5\n  \u00267Viewing distance: \u0026c%6\n  \u00267Current Server: \u0026c\u00267",
+        "ro_RO": "  \u00267Informatii despre \u0026c%1\u00267\u00267:\n  \u00267UUID: \u0026c%2\n  \u00267IP: \u0026c%3\n  \u00267Ping: \u0026c%4ms\n  \u00267Localitate: \u0026c%5\n  \u00267Distanta de vizualizare: \u0026c%6\n  \u00267Serverul Curent: \u0026c\u00267"
+      }
+    },
+    {
+      "key": "flamecord_command_list_format",
+      "type": "text",
+      "_twin": {
+        "id": "377eff43-13cc-4879-88d7-30a2e28458aa",
+        "dateCreated": 1715711529529,
+        "dateUpdated": 1715711553994,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Servers:\u0026r",
+        "ro_RO": "\u00267Servere:\u0026r"
+      }
+    },
+    {
+      "key": "flamecord_antibot_latency",
+      "type": "text",
+      "_twin": {
+        "id": "caca2b8d-ac97-4663-8de7-da96116e832a",
+        "dateCreated": 1715711581362,
+        "dateUpdated": 1715711826586,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " \u00267¡Your ping is too high! \u00267(\u0026c%1\u00267ms)",
+        "ro_RO": "\u00267¡Ping-ul tau este prea mare \u00267(\u0026c%1\u00267ms)"
+      }
+    },
+    {
+      "key": "flamecord_antibot_fastchat_cancel",
+      "type": "text",
+      "_twin": {
+        "id": "8ce66c50-5484-48c9-bb66-f7cf7c72c603",
+        "dateCreated": 1715711670884,
+        "dateUpdated": 1715711725388,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267¡You are repeating chats too fast! Please \u00264\u0026lSTOP!!!\u0026r",
+        "ro_RO": "\u00267¡Te rog nu mai spama\u0026r"
+      }
+    },
+    {
+      "key": "flamecord_accounts_help",
+      "type": "text",
+      "_twin": {
+        "id": "80da28a5-411d-4d5f-b962-13d7966c6df4",
+        "dateCreated": 1715711781352,
+        "dateUpdated": 1715711816829,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/accounts \u00267\u003cadd/remove\u003e \u003cip\u003e \u003cname\u003e",
+        "ro_RO": "\u00267Foloeste: \u0026c/accounts \u003cadauga/scoate\u003e \u003cip\u003e \u003cnume\u003e"
+      }
+    },
+    {
+      "key": "flamecord_accounts_add",
+      "type": "text",
+      "_twin": {
+        "id": "d80e00a6-88ff-48c2-a184-dcf2e6ff362e",
+        "dateCreated": 1715711842084,
+        "dateUpdated": 1715712074528,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Nickname \u0026c%1 \u00267has been added to the account with IP \u0026c%2\u00267.",
+        "ro_RO": "\u00267User-ul \u0026c%1 \u00267a fost adaugat cu IP-ul \u0026c%2."
+      }
+    },
+    {
+      "key": "flamecord_accounts_remove",
+      "type": "text",
+      "_twin": {
+        "id": "66ad8a7b-48f0-4865-b61d-551efff76130",
+        "dateCreated": 1715711955217,
+        "dateUpdated": 1715711992935,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Nickname \u0026c%1 \u00267has been removed from the account with IP \u0026c%2\u00267.",
+        "ro_RO": "\u00267Contul \u0026c%1 \u00267a fost eliminat din lista cu IP \u0026c%2\u00267."
+      }
+    },
+    {
+      "key": "flamecord_accounts_clear",
+      "type": "text",
+      "_twin": {
+        "id": "45b63d02-fdf7-4355-9b0a-e919ed9e3642",
+        "dateCreated": 1715712019096,
+        "dateUpdated": 1715712047283,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267All nicknames have been cleared from the account with IP \u0026c%1\u00267.",
+        "ro_RO": "\u00267Toate conturile au fost sterse din contul cu IP \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "flamecord_bkick_default",
+      "type": "text",
+      "_twin": {
+        "id": "e27b0c16-8ce8-4104-8794-46b213f9b226",
+        "dateCreated": 1715712138900,
+        "dateUpdated": 1715712156669,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have been kicked from the server.",
+        "ro_RO": "\u00267Ai fost dat afara de pe server."
+      }
+    },
+    {
+      "key": "flamecord_bkick_notfound",
+      "type": "text",
+      "_twin": {
+        "id": "bbdf9ec2-ea27-42e9-8868-f71bec2fb83e",
+        "dateCreated": 1715712171264,
+        "dateUpdated": 1715712195069,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Player not found or is not currently connected.",
+        "ro_RO": "\u00267Playerul nu a fost gasit sau nu este conectat in prezent."
+      }
+    },
+    {
+      "key": "flamecord_bkick_usage",
+      "type": "text",
+      "_twin": {
+        "id": "df15409f-59f5-4a4d-a7ae-91eff64e6bbe",
+        "dateCreated": 1715712203142,
+        "dateUpdated": 1715712232056,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Usage: \u0026c/bkick \u003cplayer\u003e [reason]",
+        "ro_RO": "\u00267Foloeste: \u0026c/bkick \u003cnume\u003e [motiv]"
+      }
+    },
+    {
+      "key": "flamecord_bkick",
+      "type": "text",
+      "_twin": {
+        "id": "1ff7d7f9-7a9a-420b-adc4-ee9ea1d31f73",
+        "dateCreated": 1715712244225,
+        "dateUpdated": 1715712268696,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1\u00267 has been kicked from the server.",
+        "ro_RO": "\u0026c%1\u00267 a fost exclus de pe server."
+      }
     }
   ]
 }

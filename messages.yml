@@ -1,162 +1,139 @@
-flamecord_reload: '&7Toate fisierele au fost reincarcate cu succes!'
-flamecord_help: |-
-  &4KutzuCord&7 &c{0}&7 de&c NaysKutzu
-  &c /flamecord reload&7 >&7 Reincarca fisierele FlameCord!
-  &c /flamecord firewall <add/remove> <ip>&7 >&7 Adauga sau elimina IP-uri din firewall!
-  &c /flamecord lockdown&7 >&7 Verifica starea de blocare!
-  &c /bplugins&7 >&7 Afiseaza lista de pluginuri!
-  &c /bip <jucator>&7 >&7 Arata IP-ul si informatiile despre un jucator!
-  &c /flamecord help&7 >&7 Arata acest mesaj de ajutor!
-flamecord_nopermission: '[lang]core_command_not_exist[/lang]'
-alert: '&7[&4Alerta&7]&r '
+flamecord_reload: '[lang]flamecord_reload[/lang]'
+flamecord_help: '[lang]flamecord_help[args][arg]{0}[/arg][/args][/lang]'
+flamecord_nopermission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+alert: '[lang]flamecord_alert[/lang]'
 already_connected: '[lang]flamecord_already_connected[/lang]'
 already_connected_proxy: '[lang]flamecord_already_connected_proxy[/lang]'
 already_connecting: '[lang]flamecord_already_connected_proxy[/lang]'
-command_list: '&7[&c{0}&7] &7(&c{1}&7): &c{2}'
+command_list: '[lang]flamecord_command_list[args][arg]{0}[/arg][arg]{1}[/arg][arg]{2}[/arg][/args][/lang]'
 connect_kick: '[lang]flamecord_connect_kick[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
 current_server: '[lang]flamecord_current_server[args][arg]{0}[/arg][/args][/lang]'
 fallback_kick: '[lang]flamecord_fallback_kick[args][arg]{0}[/arg][/args][/lang]'
 fallback_lobby: '[lang]flamecord_fallback_lobby[/lang]'
-lost_connection: Conexiune pierduta cu serverul.
-mojang_fail: A aparut o eroare in timpul contactarii serverelor de autentificare,
-  sunt acestea in jos?
-no_permission: '&7Nu ai permisiunea sa executeti aceasta comanda!'
-no_server: '&7Serverul specificat nu exista.'
-no_server_permission: '&7Nu ai permisiunea de a accesa acest server.'
-outdated_client: Clientul este invechit! Te rugam sa folosesti {0}
-outdated_server: Serverul este invechit! Eu sunt inca pe {0}
-proxy_full: Serverul este plin!
-restart: Server-ul primeste un restart!
-server_list: '&7Poti sa te conectezi la urmatoarele servere in acest moment: '
-server_went_down: '&7Serverul la care erai anterior a picat, ai fost conectat la un
-  server de rezerva'
-total_players: 'Jucatori totali online: {0}'
-name_invalid: Numele de utilizator contine caractere nevalide.
-ping_cannot_connect: '&7Nu se poate conecta la server.'
-offline_mode_player: Nu este autentificat cu Minecraft.net
-secure_profile_required: Este necesar un profil securizat pentru a te alatura acestui
-  server.
-secure_profile_expired: Profil securizat expirat.
-secure_profile_invalid: Profil securizat invalid.
-message_needed: '&7Trebuie sa furnizezi un mesaj.'
-error_occurred_player: '&7A aparut o eroare in timpul analizarii mesajului tau. (Afla
-  detalii la survol)'
-error_occurred_console: '&7A aparut o eroare in timpul analizarii mesajului tau: &c{0}'
-server_command_hover_players: '&c{0}&7 jucatori'
-click_to_connect: Click pentru a te conecta la server
-username_needed: '&7Te rugam sa urmezi aceasta comanda cu un nume de utilizator.'
-user_not_online: '&7Acel utilizator nu este online.'
+lost_connection: '[lang]flamecord_lost_connection[/lang]'
+mojang_fail: '[lang]flamecord_mojang_fail[/lang]'
+no_permission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+no_server: '[lang]flamecord_no_server[/lang]'
+no_server_permission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+outdated_client: '[lang]core_join_version[/lang]'
+outdated_server: '[lang]core_join_version[/lang]'
+proxy_full: '[lang]core_the_server_is_full[/lang]'
+restart: '[lang]core_restarting[/lang]'
+server_list: '[lang]flamecord_server_list[/lang]'
+server_went_down: '[lang]flamecord_server_went_down[/lang]'
+total_players: '[lang]flamecord_total_players[args][arg]{0}[/arg][/args][/lang]'
+name_invalid: '[lang]flamecord_name_invalid[/lang]'
+ping_cannot_connect: '[lang]flamecord_ping_cannot_connect[/lang]'
+offline_mode_player: '[lang]flamecord_offline_mode_player[/lang]'
+secure_profile_required: '[lang]flamecord_secure_profile_required[/lang]'
+secure_profile_expired: '[lang]flamecord_secure_profile_expired[/lang]'
+secure_profile_invalid: '[lang]flamecord_secure_profile_invalid[/lang]'
+message_needed: '[lang]flamecord_message_needed[/lang]'
+error_occurred_player: '[lang]flamecord_error_occurred_player[/lang]'
+error_occurred_console: '[lang]flamecord_error_occurred_console[args][arg]{0}[/arg][/args][/lang]'
+server_command_hover_players: '[lang]flamecord_server_command_hover_players[args][arg]{0}[/arg][/args][/lang]'
+click_to_connect: '[lang]flamecord_click_to_connect[/lang]'
+username_needed: '[lang]flamecord_username_needed[/lang]'
+user_not_online: '[lang]flamecord_user_not_online[/lang]'
 user_online_at: '[lang]flamecord_user_online_at[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
-send_cmd_usage: '&7Nu sunt suficiente argumente, utilizare: &c/send <server|jucator|toti|curent>
-  <destinatie>'
-player_only: '&7Doar jucatorii in joc pot folosi aceasta comanda'
-you_got_summoned: '&7Ai fost chemat la &c{0}&7 de &c{1}'
-command_perms_groups: '&7Ai urmatoarele grupuri: &c{0}&7'
-command_perms_permission: '&7- &c{0}&7'
-command_ip: '&7IP-ul lui &c{0}&7 este &c{0}&7'
-illegal_chat_characters: '&7Caractere nevalide in chat (&c{0}&7)'
+send_cmd_usage: '[lang]flamecord_send_cmd_usage[/lang]'
+player_only: '[lang]flamecord_player_only[/lang]'
+you_got_summoned: '[lang]flamecord_you_got_summoned[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
+command_perms_groups: '[lang]flamecord_command_perms_groups[args][arg]{0}[/arg]{1}[/args][/lang]'
+command_perms_permission: '[lang]flamecord_command_perms_permission[args][arg]{0}[/arg][/args][/lang]'
+command_ip: '[lang]flamecord_command_ip[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
+illegal_chat_characters: '[lang]flamecord_illegal_chat_characters[args][arg]{0}[/arg][/args][/lang]'
 antibot_accounts: |-
-  &c&lNoxl&f&lCraft
+  [lang]global_server_name[/lang]
 
-  &7¡Ai prea multe conturi! (&c{0}&7)
+  [lang]flamecord_antibot_accounts[args][arg]{0}[/arg][/args][/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_fastchat: |-
-  &c&lNoxl&f&lCraft
-  &7¡Vorbesti prea repede!
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_fastchat[/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_firewall: |-
-  &c&lNoxl&f&lCraft
-  &7¡Esti pe lista neagra a acestui server!
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_firewall[/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_nickname: |-
-  &c&lNoxl&f&lCraft
-  &7¡Pseudonimul tau a fost detectat ca bot! (&c{0}&7)
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_nickname[args][arg]{0}[/arg][/args][/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_password: |-
-  &c&lNoxl&f&lCraft
-  &7¡Foloseste alta parola! (&c{0}&7)
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_password[args][arg]{0}[/arg][/args][/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_ratelimit: |-
-  &c&lNoxl&f&lCraft
-  &7¡Te conectezi prea repede! (&c{0}&7)
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
-antibot_reconnect_reconnect: '&7Reconectare &c{0}&7 ori in plus'
-antibot_reconnect_ping: '&7Actualizare lista servere &c{0}&7 ori in plus'
+  [lang]flamecord_antibot_ratelimit[args][arg]{0}[/arg][/args][/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
+antibot_reconnect_reconnect: '[lang]flamecord_antibot_reconnect_reconnect[args][arg]{0}[/arg][/args][/lang]'
+antibot_reconnect_ping: '[lang]flamecord_antibot_reconnect_ping[args][arg]{0}[/arg][/args][/lang]'
 antibot_reconnect_message: |-
-  &c&lNoxl&f&lCraft
+  [lang]global_server_name[/lang]
+
   {0}
   {1}
 
-  &7(Fa-o incet)
+  [lang]flamecord_antibot_reconnect_message[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_country: |-
-  &c&lNoxl&f&lCraft
-  &7¡tara ta {0} este pe lista neagra!
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_country[args][arg]{0}[/arg][/args][/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_proxy: |-
-  &c&lNoxl&f&lCraft
-  &7¡Folosesti un Proxy/VPN! ({0})
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
+  [lang]flamecord_antibot_proxy[args][arg]{0}[/arg][/args][/lang]
+
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
 antibot_lockdown: |-
-  &c&lNoxl&f&lCraft
-  &7Server blocat. ¡Asteapta un minut pentru a te alatura!
+  [lang]global_server_name[/lang]
 
-  &7Eroare? Contacteaza-ne pe &cdiscord.gg/MV8FW739cP
-antibot_stats: |-
-  &7&lStatistici Antibot &c&lNoxl&f&lCraft
-   &7■ Total Pings: &c{0}
-   &7■ Total Conexiuni: &c{1}
+  [lang]flamecord_antibot_lockdown[/lang]
 
-   &7■ Pings Curente: &c{2}/s
-   &7■ Conexiuni Curente: &c{3}/s
-
-   &7■ Total Firewall-uri: &c{4}
-   &7■ Firewall-uri Curente: &c{5}/s
-antibot_stats_actionbar: '&7Pings: &c{0}/s &7- &7Conexiuni: &c{1}/s&7 - &7Firewall-uri:&c
-  {2}'
-flamecord_firewall_help: '&7/flamecord firewall <add/remove> <ip>'
-flamecord_firewall_add: '&7IP-ul &c{0}&7 a fost adaugat in firewall!'
-flamecord_firewall_remove: '&7IP-ul &c{0}&7 a fost eliminat din firewall!'
-flamecord_bplugins_nopermission: '&7Nu ai permisiunea sa faci asta!'
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
+antibot_stats: '[lang]flamecord_antibot_stats[args][arg]{0}[/arg][arg]{1}[/arg][arg]{2}[/arg][arg]{3}[/arg][arg]{4}[/arg][arg]{5}[/arg][/args][/lang]'
+antibot_stats_actionbar: '[lang]flamecord_antibot_stats_actionbar[args][arg]{0}[/arg][arg]{1}[/arg][arg]{2}[/arg][/args][/lang]'
+flamecord_firewall_help: '[lang]flamecord_firewall_help[/lang]'
+flamecord_firewall_add: '[lang]flamecord_firewall_add[args][arg]{0}[/arg][/args][/lang]'
+flamecord_firewall_remove: '[lang]flamecord_firewall_remove[args][arg]{0}[/arg][/args][/lang]'
+flamecord_bplugins_nopermission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
 flamecord_bplugins_separator: ', '
-flamecord_bplugins_header: '&7Pluginuri (&c{0}&7): '
-flamecord_bip_nopermission: '&7Nu ai permisiunea sa faci asta!'
-flamecord_bip_offline: '&7Acel jucator nu este online!'
-flamecord_bip_usage: '&7/bip <jucator>'
-flamecord_bip: |-
-  &7Informatii despre &c{0}&7&7:
-  &7UUID: &c{1}
-  &7IP: &c{2}
-  &7Ping: &c{3}ms
-  &7Localitate: &c{4}
-  &7Distanta de vizualizare: &c{5}
-  &7Serverul Curent: &c{6}'
-command_list_format: '&7Servere:&r'
+flamecord_bplugins_header: '[lang]flamecord_bplugins_header[args][arg]{0}[/arg][/args][/lang]'
+flamecord_bip_nopermission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+flamecord_bip_offline: '[lang]flamecord_bip_offline[/lang]'
+flamecord_bip_usage: '[lang]flamecord_bip_usage[/lang]'
+flamecord_bip: '[lang]flamecord_bip[args][arg]{0}[/arg][arg]{1}[/arg][arg]{1}[/arg][arg]{2}[/arg][arg]{3}[/arg][arg]{4}[/arg][/args][/lang]'
+command_list_format: '[lang]flamecord_command_list_format[/lang]'
 antibot_latency: |-
-  &c&lFlameCord
+  [lang]global_server_name[/lang]
 
-  &c¡Your ping is too high! ({0}ms)
+  [lang]flamecord_antibot_latency[args][arg]{0}[/arg][/args][/lang]
 
-  &cError? Contact us on discord.gg/gF36AT3
-antibot_fastchat_cancel: '&c¡You are repeating chats too fast! Please &lSTOP!!!&r'
-flamecord_accounts_help: '&9Usage: /accounts &e<add/remove> <ip> <name>'
-flamecord_accounts_add: '&aNickname &e{0} &ahas been added to the account with IP
-  &e{1}.'
-flamecord_accounts_remove: '&aNickname &e{0} &ahas been removed from the account with
-  IP &e{1}.'
-flamecord_accounts_clear: '&aAll nicknames have been cleared from the account with
-  IP &e{0}.'
-flamecord_bkick_nopermission: '&cYou don''t have permission to use this command!'
-flamecord_bkick_default: '&cYou have been kicked from the server.'
-flamecord_bkick_notfound: '&cPlayer not found or is not currently connected.'
-flamecord_bkick_usage: '&cUsage: /bkick <player> [reason]'
-flamecord_bkick: '&c{0} has been kicked from the server.'
+  [lang]flamecord_do_you_think_this_is_an_error[/lang] [lang]global_server_discord[/lang]
+antibot_fastchat_cancel: '[lang]flamecord_antibot_fastchat_cancel[/lang]'
+flamecord_accounts_help: '[lang]flamecord_accounts_help[/lang]'
+flamecord_accounts_add: '[lang]flamecord_accounts_add[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
+flamecord_accounts_remove: '[lang]flamecord_accounts_remove[args][arg]{0}[/arg][arg]{1}[/arg][/args][/lang]'
+flamecord_accounts_clear: '[lang]flamecord_accounts_clear[args][arg]{0}[/arg][/args][/lang]'
+flamecord_bkick_nopermission: '[lang]global_prefix[/lang][lang]core_command_not_exist[/lang]'
+flamecord_bkick_default: '[lang]flamecord_bkick_default[/lang]'
+flamecord_bkick_notfound: '[lang]flamecord_bkick_notfound[/lang]'
+flamecord_bkick_usage: '[lang]flamecord_bkick_usage[/lang]'
+flamecord_bkick: '[lang]flamecord_bkick[args][arg]{0}[/arg][/args][/lang]'
