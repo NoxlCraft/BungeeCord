@@ -1,0 +1,638 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "deluxehub.Messages.GENERAL.INVALID_PLAYER",
+      "type": "text",
+      "_twin": {
+        "id": "4bf1086f-df25-46bf-a90b-47c2aef118e4",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723721184,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267 is not online!",
+        "ro_RO": "\u0026c%1 \u00267nu este online!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GENERAL.CONFIG_RELOAD",
+      "type": "text",
+      "_twin": {
+        "id": "0e1264ee-39ef-446e-a0fb-107ab4f32e71",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723731786,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267I reloaded the plugin in \u0026c%1ms",
+        "ro_RO": "\u00267Am reincarcat pluginul in \u0026c%1ms"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GENERAL.COOLDOWN_ACTIVE",
+      "type": "text",
+      "_twin": {
+        "id": "61025758-98d4-4410-a16e-d31ec0ba4e29",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723740425,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Please wait \u0026c%1s\u00267!",
+        "ro_RO": "\u00267Te rog sa astepti \u0026c%1s\u00267!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE",
+      "type": "text",
+      "_twin": {
+        "id": "c8478ca7-bb6d-49f3-b30d-da7caa4c7c52",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723747852,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Game mode has been changed to \u0026c%1",
+        "ro_RO": "\u00267Modul de joc a fost schimbat la \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_CHANGE_OTHER",
+      "type": "text",
+      "_twin": {
+        "id": "7a93e8b5-65db-4508-a062-db370b90fde7",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723771415,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You changed the game mode to \u0026c%1 \u00267for \u0026c%2",
+        "ro_RO": "\u00267Ai schimbat modul de joc la \u0026c%1 \u00267pentru \u0026c%2"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.GAMEMODE.GAMEMODE_INVALID",
+      "type": "text",
+      "_twin": {
+        "id": "1b9e88d0-b7b2-4709-8c23-fa9e3a61a8cf",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723781798,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267 cannot be found",
+        "ro_RO": "\u0026c%1 \u00267nu poate fi gasit"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.VANISH.ENABLE",
+      "type": "text",
+      "_twin": {
+        "id": "a2e70bd5-4e80-4e84-bdd5-15ae04e57bfa",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723861481,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Now you are \u0026chidden",
+        "ro_RO": "\u00267Acuma esti \u0026cascuns"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.VANISH.DISABLE",
+      "type": "text",
+      "_twin": {
+        "id": "0423a775-be02-4743-b619-2e0de97d8f33",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723887487,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267 Now you are no longer \u0026chidden\u00267.",
+        "ro_RO": "\u00267Acuma nu mai esti \u0026cascuns\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.ENABLE",
+      "type": "text",
+      "_twin": {
+        "id": "6cec8f9d-f263-47e1-9857-52a806ea90fb",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723897223,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have enabled \u0026cfly mode",
+        "ro_RO": "\u00267Ai activat modul de \u0026cfly"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.DISABLE",
+      "type": "text",
+      "_twin": {
+        "id": "9325f547-a3c5-4eb5-8df4-fb0f37636b59",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723906324,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have stopped \u0026cfly mode",
+        "ro_RO": "\u00267Ai oprit modul de \u0026cfly"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.ENABLE_OTHER",
+      "type": "text",
+      "_twin": {
+        "id": "f5d72033-e1d8-47a1-ac3b-3025b4480844",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723917051,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have enabled \u0026cfly\u00267 mode for \u0026c%1",
+        "ro_RO": "\u00267Ai activat modul de \u0026cfly\u00267 pentru \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.FLIGHT.DISABLE_OTHER",
+      "type": "text",
+      "_twin": {
+        "id": "5f3cb6f0-97af-434c-bf66-321f195019d1",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723925458,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You have stopped \u0026cfly\u00267 mode for \u0026c%1",
+        "ro_RO": "\u00267Ai oprit modul de \u0026cfly\u00267 pentru \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.PLAYER_HIDER.HIDDEN",
+      "type": "text",
+      "_twin": {
+        "id": "20eac6d2-4548-4810-96cc-0cdd58522892",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723933672,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Player visibility is \u0026off",
+        "ro_RO": "\u00267Vizibilitatea jucatorilor este \u0026copornita"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.PLAYER_HIDER.SHOWN",
+      "type": "text",
+      "_twin": {
+        "id": "0ed61daa-2b24-4faa-a46a-84edde0559ff",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723941034,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Player visibility is \u0026cturned on",
+        "ro_RO": "\u00267Vizibilitatea jucatorilor este \u0026cpornita"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.LOBBY.SET_LOBBY",
+      "type": "text",
+      "_twin": {
+        "id": "9e68c63b-4db4-417d-bd9d-e60036f03f92",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723968338,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026aYou have successfully set the lobby spawn point",
+        "ro_RO": "\u0026aAți setat cu succes punctul de spawn!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.CLEARCHAT",
+      "type": "text",
+      "_twin": {
+        "id": "eca05e77-458c-46b7-b80f-15469cd9755c",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723983571,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Chat has been purged.",
+        "ro_RO": "\u00267Chat-ul a fost sters."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.CLEARCHAT_PLAYER",
+      "type": "text",
+      "_twin": {
+        "id": "a16f22bd-5740-400b-b255-8ab9ed693d64",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723997733,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Chat-ul a fost purged.",
+        "ro_RO": "\u00267Chat-ul a fost sters."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.LOCKED",
+      "type": "text",
+      "_twin": {
+        "id": "cafa7488-fcfd-4d1d-96a9-fdc50c52709d",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723675847,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026cChat \u00267is locked!",
+        "ro_RO": "\u0026cChat \u00267este blocat!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.LOCKED_BROADCAST",
+      "type": "text",
+      "_twin": {
+        "id": "6fd89bb1-db8d-4370-913b-b65dc8585d09",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724021167,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026b%1 \u0026chas locked global chat.",
+        "ro_RO": "\u0026b%1 \u0026chas a blocat chatul global."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.UNLOCKED_BROADCAST",
+      "type": "text",
+      "_twin": {
+        "id": "ebed061b-07e0-4264-99a9-6e88baebd7ae",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724042641,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026b%1 \u0026ahas unlocked global chat.",
+        "ro_RO": "\u0026b%1 \u0026a a deblocat chatul global."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.ANTI_SWEAR_WORD_BLOCKED",
+      "type": "text",
+      "_twin": {
+        "id": "112438cf-f6b5-460f-9bc0-1dd14f7dece3",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724057519,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267 Please don\u0027t swear.",
+        "ro_RO": "\u00267Te rog sa nu injuri."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.ANTI_SWEAR_ADMIN_NOTIFY",
+      "type": "text",
+      "_twin": {
+        "id": "69f432b5-205c-48b0-87f5-68ca619e67c3",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724088467,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026c%1 \u00267wanted to say: \u0026c%2",
+        "ro_RO": "\u0026c%1 \u00267A vrut sa zica: \u0026c%2"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.CHAT.COMMAND_BLOCKED",
+      "type": "text",
+      "_twin": {
+        "id": "cbaf2abe-7f8f-4477-b78d-e05da0bcc181",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724108632,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Manuta ca nu e voie"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.SCOREBOARD.TOGGLE",
+      "type": "text",
+      "_twin": {
+        "id": "5c38a994-63ef-4721-b6fd-afa09072b7f2",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724124415,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Scoreboard is now \u0026c%1",
+        "ro_RO": "\u00267Scoreboard-ul este acuma \u0026c%1"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.DOUBLE_JUMP.COOLDOWN_ACTIVE",
+      "type": "text",
+      "_twin": {
+        "id": "0588bbe1-3f0d-4704-851b-f75d789b05c6",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724138791,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Please wait!",
+        "ro_RO": "\u00267Te rog sa astepti!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_DROP",
+      "type": "text",
+      "_twin": {
+        "id": "8d9f422e-fffc-484b-a318-d6e2fd4fd1ff",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724150182,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.ITEM_PICKUP",
+      "type": "text",
+      "_twin": {
+        "id": "b943c246-2657-4604-9b28-205c7356a99b",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724154192,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Nu ai voie sa iei iteme de pe jos."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_PLACE",
+      "type": "text",
+      "_twin": {
+        "id": "4ad5afd5-f160-4440-9769-4b7a1cecac3b",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724157767,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_BREAK",
+      "type": "text",
+      "_twin": {
+        "id": "6c356ca6-baaa-4230-a7ca-551efef78a91",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724164102,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.BLOCK_INTERACT",
+      "type": "text",
+      "_twin": {
+        "id": "a8cc214a-4d6b-4cc7-ab6a-5026e7e51908",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724160972,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u00267Te rog sa nu."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.WORLD_EVENT_MODIFICATIONS.PLAYER_PVP",
+      "type": "text",
+      "_twin": {
+        "id": "4bff6713-4c90-47a0-990d-bbfa4131dbe2",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724168096,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267That it is not allowed",
+        "ro_RO": "\u0026c\u0026lAUCHHHHH! \u00267Nu mai da in mine!!"
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.EMPTY",
+      "type": "text",
+      "_twin": {
+        "id": "5071c032-12bd-45d7-be02-fddfda844d39",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724186293,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026cCould not find any holograms.",
+        "ro_RO": "\u0026cNu am putut gasi nicio holograma."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.ALREADY_EXISTS",
+      "type": "text",
+      "_twin": {
+        "id": "a60b6b4f-a241-40f7-a979-8c7993d4c1d4",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724224298,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026cThere is a hologram with this name already \u00267(%1)\u0026c.",
+        "ro_RO": "\u00267Exista deja o holograma cu acest nume \u00267(\u0026c%1\u00267)."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.INVALID_HOLOGRAM",
+      "type": "text",
+      "_twin": {
+        "id": "02889813-18f5-4e50-bb0d-5e70de1bb4b8",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724338447,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267There is no hologram with this name \u00267(\u0026c%1\u00267).",
+        "ro_RO": "\u00267Nu exista nicio holograma cu acest nume \u00267(\u0026c%1\u00267)."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.INVALID_LINE",
+      "type": "text",
+      "_twin": {
+        "id": "b9c636be-5f04-4f7c-b581-cf87a0abaafb",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724288348,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Could not find hologram line.",
+        "ro_RO": "\u00267Nu s-a putut gasi linia de holograma."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.SPAWNED",
+      "type": "text",
+      "_twin": {
+        "id": "c2e17660-cc57-4281-a3d1-e8fce09ffd91",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724350947,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Created new hologram with name \u0026c%1\u00267.",
+        "ro_RO": "\u00267S-a creat o noua holograma cu numele \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.DESPAWNED",
+      "type": "text",
+      "_twin": {
+        "id": "660d6f30-f728-496e-bfbc-edd202f2c012",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724322445,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Removed hologram with name \u0026b%1\u00267.",
+        "ro_RO": "\u00267Holograma eliminata cu numele \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.MOVED",
+      "type": "text",
+      "_twin": {
+        "id": "a6d30e18-8573-4366-b923-1bd27fda116b",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724396128,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Moved hologram \u0026c%1\u00267.",
+        "ro_RO": "\u00267Holograma mutata \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.LINE_SET",
+      "type": "text",
+      "_twin": {
+        "id": "67df662a-3bb6-4e4e-aaf7-e4b89cfa8e01",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724413744,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Set line \u0026c%1\u00267.",
+        "ro_RO": "\u00267Setati linia \u0026c%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.ADDED_LINE",
+      "type": "text",
+      "_twin": {
+        "id": "4ec5dac5-c95d-4066-bf0e-1c6c160c5e45",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715724430384,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Added new line.",
+        "ro_RO": "\u00267A fost adaugata o noua linie."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.HOLOGRAMS.REMOVED_LINE",
+      "type": "text",
+      "_twin": {
+        "id": "5197ec25-0984-4376-9b94-6e853167255d",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723835071,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Removed line \u0026b%1\u00267.",
+        "ro_RO": "\u00267S-a eliminat rândul \u0026b%1\u00267."
+      }
+    },
+    {
+      "key": "deluxehub.Messages.ANTI_WORLD_DOWNLOADER.ADMIN_NOTIFY",
+      "type": "text",
+      "_twin": {
+        "id": "f39473a0-eb89-46d4-ae9f-01f6143bb1a4",
+        "dateCreated": 1715723338272,
+        "dateUpdated": 1715723816316,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267%1 \u0026chas joined with the World Downloader Mod, their ability to use it has been restricted by our systems.",
+        "ro_RO": "\u00267%1 \u0026ca intrat cu world-downlaoder dar a primit ban!"
+      }
+    }
+  ]
+}
