@@ -1,0 +1,1807 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "ajpparkour.alreadyin",
+      "type": "text",
+      "_twin": {
+        "id": "a8b2d521-b94b-41d6-b1d0-367112bc894d",
+        "dateCreated": 1715756554523,
+        "dateUpdated": 1715756554523,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You are already in parkour!",
+        "ro_RO": "&7Esti deja in parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.score",
+      "type": "text",
+      "_twin": {
+        "id": "a8c7ecca-272b-4857-93ed-ec581009ac99",
+        "dateCreated": 1715756554523,
+        "dateUpdated": 1715756554523,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Started parkour! Try to beat your high-score of &c%1&7!",
+        "ro_RO": "&7Ai inceput parcursul de parkour! incearca sa iti depasesti scorul maxim de &c%1&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.first",
+      "type": "text",
+      "_twin": {
+        "id": "b16a84d8-5182-417a-a8ec-cc26e92239ac",
+        "dateCreated": 1715756554523,
+        "dateUpdated": 1715756554523,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Started parkour!",
+        "ro_RO": "&7Ai inceput parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.no-area-player",
+      "type": "text",
+      "_twin": {
+        "id": "26e434b0-a35f-4c79-9c89-a5e26fc4164f",
+        "dateCreated": 1715756554523,
+        "dateUpdated": 1715756554523,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7No arena or player could be found called &c%1&7!",
+        "ro_RO": "&7Nu s-a putut gasi o arena sau un jucator cu numele &c%1&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.unknown-player",
+      "type": "text",
+      "_twin": {
+        "id": "86a2b1d1-476c-4347-8eca-370377164018",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Cannot find that player!",
+        "ro_RO": "&7Nu s-a putut gasi acel jucator!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.unknown-area",
+      "type": "text",
+      "_twin": {
+        "id": "630b7278-1790-4dca-851b-9b3779e88414",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Cannot find that area!",
+        "ro_RO": "&7Nu s-a putut gasi acea zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.started-other",
+      "type": "text",
+      "_twin": {
+        "id": "6e5cf451-2614-46c1-be6a-73f16814fa5a",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Started parkour for &c%1&7!",
+        "ro_RO": "&7Ai inceput parcursul de parkour pentru &c%1&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.start.started-other-area",
+      "type": "text",
+      "_twin": {
+        "id": "11e115b0-7bc7-4cf8-9eff-6d0d70c3e3bb",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Started parkour for &c%1&7 on area &c%2&7!",
+        "ro_RO": "&7L-ai forat pe &c%1&7 sa faca parkour in zona &c%2&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.noperm",
+      "type": "text",
+      "_twin": {
+        "id": "58cc9e2f-8ae6-4a6f-b01c-bc0125138b24",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You do not have permission to do that!",
+        "ro_RO": "&7Nu ai permisiunea sa faci asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.score",
+      "type": "text",
+      "_twin": {
+        "id": "1f312e8d-73df-45c0-b27f-2240b3c744bf",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Score &c%1&7.",
+        "ro_RO": "&7Scor &c%1&7."
+      }
+    },
+    {
+      "key": "ajpparkour.beatrecord",
+      "type": "text",
+      "_twin": {
+        "id": "1a8d399b-f52d-4e3f-a3a4-9c5927d3b76f",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&4&lCongrats!&7 You beat your previous score of &c%1&7!",
+        "ro_RO": "&4&lFelicitari!&7 Ai depasit scorul tau anterior de &c%1&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.beatrecord-ingame",
+      "type": "text",
+      "_twin": {
+        "id": "e6c664c4-57b0-4792-a192-63b4cb885690",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&4&lCongrats! &7You just beat your previous highscore! Keep going!",
+        "ro_RO": "&4&lFelicitari! &7Ai depasit scorul tau maxim anterior! Continua in acelasi ritm!"
+      }
+    },
+    {
+      "key": "ajpparkour.disabledworld",
+      "type": "text",
+      "_twin": {
+        "id": "a5ce21af-e3bd-43bf-ad1f-e566fec08d70",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You cannot start parkour from this world!",
+        "ro_RO": "&7Nu poti incepe parcursul de parkour din aceasta lume!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.potion",
+      "type": "text",
+      "_twin": {
+        "id": "3b2f7d0e-7c26-4cae-a5c0-ea59e6560c57",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Nope!",
+        "ro_RO": "&7Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.place",
+      "type": "text",
+      "_twin": {
+        "id": "296d28ba-27da-4621-a819-6ecf427955f8",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Nope!",
+        "ro_RO": "&7Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.block.break",
+      "type": "text",
+      "_twin": {
+        "id": "7002a710-0376-4c51-9da7-968d7b5e4f19",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Nope!",
+        "ro_RO": "&7Nu!"
+      }
+    },
+    {
+      "key": "ajpparkour.numberformatexception",
+      "type": "text",
+      "_twin": {
+        "id": "f00ce36b-0553-4366-97c9-a5978edb8d7c",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7That is not a valid number!",
+        "ro_RO": "&7Aceasta nu este o valoare numerica valida!"
+      }
+    },
+    {
+      "key": "ajpparkour.areafull",
+      "type": "text",
+      "_twin": {
+        "id": "92b0015e-33e1-4e7a-8d94-ec6022ad2b77",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "C&7ould not start parkour because the area is full! Try again later.",
+        "ro_RO": "N&7u s-a putut incepe parcursul de parkour deoarece zona este plina! incearca din nou mai tarziu."
+      }
+    },
+    {
+      "key": "ajpparkour.must-be-ingame",
+      "type": "text",
+      "_twin": {
+        "id": "e277139c-6615-4a04-9bec-b64df8aa1688",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You must be in-game to do that!",
+        "ro_RO": "&7Trebuie sa fii in joc pentru a face asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.not-in-game",
+      "type": "text",
+      "_twin": {
+        "id": "384dd7db-8467-4dc7-a059-a9bd2f490edc",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You must do this command from the console!",
+        "ro_RO": "&7Trebuie sa folosesti aceasta comanda din consola!"
+      }
+    },
+    {
+      "key": "ajpparkour.couldnt-find-player",
+      "type": "text",
+      "_twin": {
+        "id": "ca0b7c0e-21b7-452e-86b5-73f8b03f1cf9",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Could not find player &c%1",
+        "ro_RO": "&7Nu s-a putut gasi jucatorul &c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.list.header",
+      "type": "text",
+      "_twin": {
+        "id": "37c61f4d-6fa5-4095-824e-0e9a257466f8",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Players playing parkour:",
+        "ro_RO": "&7Jucatori care joaca parcursul de parkour:"
+      }
+    },
+    {
+      "key": "ajpparkour.list.format",
+      "type": "text",
+      "_twin": {
+        "id": "bb6e8ed1-13c9-42f3-b552-57c9c8223620",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&4%1 &7- &c%2 jumps",
+        "ro_RO": "&4%1 &7- &c%2 sarituri"
+      }
+    },
+    {
+      "key": "ajpparkour.list.none",
+      "type": "text",
+      "_twin": {
+        "id": "fa977913-5ec4-4d5f-998a-79953d5273ed",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7None",
+        "ro_RO": "&7Niciunul"
+      }
+    },
+    {
+      "key": "ajpparkour.nobodys-played-yet",
+      "type": "text",
+      "_twin": {
+        "id": "89cbd3af-7b4d-455a-b1fe-803a840daa3d",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Nobody has played parkour yet!",
+        "ro_RO": "&7Nimeni nu a jucat parcursul de parkour inca!"
+      }
+    },
+    {
+      "key": "ajpparkour.first-position",
+      "type": "text",
+      "_twin": {
+        "id": "8364e0e9-9bdd-40d4-9df6-0ffdd6f9f914",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7First position set!",
+        "ro_RO": "&7Prima pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.second-position",
+      "type": "text",
+      "_twin": {
+        "id": "3d573f94-43e4-4662-9a2f-5aa7e2cb770c",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Second position set!",
+        "ro_RO": "&7A doua pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup-done",
+      "type": "text",
+      "_twin": {
+        "id": "90dde6cd-5081-4502-b940-e237a1255719",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You can now do &c/ajParjour start &7to do parkour!",
+        "ro_RO": "&7Acum poti folosi &c/ajParjour start&7 pentru a incepe parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.reload.usage",
+      "type": "text",
+      "_twin": {
+        "id": "b0e0d8e9-f31b-480c-9576-52417359a322",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Usage: &c/%1 reload \u003cfile\u003e &7Files: &c%2",
+        "ro_RO": "&7Utilizare: &c/%1 reload \u003cfisier\u003e &7Fisiere: &c%2"
+      }
+    },
+    {
+      "key": "ajpparkour.fallpos.set",
+      "type": "text",
+      "_twin": {
+        "id": "72f6a58d-1203-44d2-a05a-ec8a25a1dc91",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Fall position set!",
+        "ro_RO": "&7Pozitia de cadere setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.fallpos.removed",
+      "type": "text",
+      "_twin": {
+        "id": "36857c85-7d48-4e91-949f-4865f6db604b",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Fall position removed!",
+        "ro_RO": "&7Pozitia de cadere eliminata!"
+      }
+    },
+    {
+      "key": "ajpparkour.top.header",
+      "type": "text",
+      "_twin": {
+        "id": "49fe37db-ee24-485d-b043-9f9cf623a76f",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Top Scores:",
+        "ro_RO": "&7Cele mai bune scoruri:"
+      }
+    },
+    {
+      "key": "ajpparkour.top.header-area",
+      "type": "text",
+      "_twin": {
+        "id": "c7914867-de37-4825-8be2-8b7196319a09",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Top Scores for &c%1:",
+        "ro_RO": "&7Cele mai bune scoruri pentru &c%1:"
+      }
+    },
+    {
+      "key": "ajpparkour.top.format",
+      "type": "text",
+      "_twin": {
+        "id": "5ef850a8-f11d-4175-bacc-0caba462ecf0",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "{#}. &4%1 &c%2 &7jumps",
+        "ro_RO": "{#}. &4%1 &c%2 &7sarituri"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.normal",
+      "type": "text",
+      "_twin": {
+        "id": "306cd076-3090-43f8-a047-1fe20465dd59",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You fell! Your score was &c%1",
+        "ro_RO": "&7Ai cazut! Scorul tau a fost &c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.base",
+      "type": "text",
+      "_twin": {
+        "id": "e8319016-f4fb-41dd-85e0-c45a74af0c46",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Your parkour game was ended because ",
+        "ro_RO": "&7Jocul tau de parkour s-a incheiat deoarece "
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.reasons.teleport",
+      "type": "text",
+      "_twin": {
+        "id": "96d59ec7-9c4f-4c92-bdf7-feb3a34a094a",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You teleported",
+        "ro_RO": "&7Te-ai teleportat"
+      }
+    },
+    {
+      "key": "ajpparkour.fall.force.reasons.afk",
+      "type": "text",
+      "_twin": {
+        "id": "55c10740-560f-422b-a3c9-53efdf6a6f1b",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You were AFK",
+        "ro_RO": "&7Ai fost AFK"
+      }
+    },
+    {
+      "key": "ajpparkour.errors.notsetup.admin",
+      "type": "text",
+      "_twin": {
+        "id": "cea5af34-9ba0-4a73-9a26-a6305d53ef91",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7For info on how to set it up, do &c/%1 setup",
+        "ro_RO": "&7Pentru informatii despre cum sa-l setezi, foloseste &c/%1 setup"
+      }
+    },
+    {
+      "key": "ajpparkour.errors.too-many-players",
+      "type": "text",
+      "_twin": {
+        "id": "cc28543d-b450-4aff-9c4b-6bd48a71b51e",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7There are too many players in parkour right now. Try again later.",
+        "ro_RO": "&7Sunt prea multi jucatori in parcursul de parkour acum. incearca din nou mai tarziu."
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.more-args",
+      "type": "text",
+      "_twin": {
+        "id": "a70f433a-ea89-48be-a457-d5b9ab0093f8",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please provide the source to migrate from!",
+        "ro_RO": "&7Te rog ofera sursa de la care sa migrezi!"
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.success",
+      "type": "text",
+      "_twin": {
+        "id": "81d7bc75-9219-4438-ab7e-291761a8989c",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Migrated %1 scores!"
+      }
+    },
+    {
+      "key": "ajpparkour.migrate.error",
+      "type": "text",
+      "_twin": {
+        "id": "04228d44-7af3-454c-8e0d-85b9013c2e6c",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Something went wrong. There is probably more information in the console.",
+        "ro_RO": "&7Ceva nu a mers bine. Probabil exista mai multe informatii in consola."
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.stats.no-data",
+      "type": "text",
+      "_twin": {
+        "id": "3ae7ebe5-41d9-407d-9cf8-61c21ac56ff6",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7---",
+        "ro_RO": "&7---"
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.stats.time-format",
+      "type": "text",
+      "_twin": {
+        "id": "b71a3a84-9a33-4d7d-8871-b509cb627247",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&c%1m&7:&4%2s",
+        "ro_RO": "&c%1m&7:&4%2s"
+      }
+    },
+    {
+      "key": "ajpparkour.placeholders.current.no-data",
+      "type": "text",
+      "_twin": {
+        "id": "0fdc407d-76c0-426d-bdde-389f8635a56f",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "0",
+        "ro_RO": "0"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.header",
+      "type": "text",
+      "_twin": {
+        "id": "d608dae1-1d43-4a50-9f76-db845796d8dc",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7ajParkour made by &cajgeiss0702&7 and translated by &cNaysKutzu&7!",
+        "ro_RO": "&7ajParkour facut de &cajgeiss0702&7 si tradus de &cNaysKutzu&7!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.start",
+      "type": "text",
+      "_twin": {
+        "id": "0a3f09dd-7b91-4186-bf5a-cc30801c515c",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 start &7- Start parkour!",
+        "ro_RO": " &c/%1 start &7- incepe parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.startarea",
+      "type": "text",
+      "_twin": {
+        "id": "91df5f70-23f5-45e3-97bb-f141febacb0f",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 start \u003carea\u003e &7- Start parkour in a certain area.",
+        "ro_RO": " &c/%1 start \u003czona\u003e &7- incepe parcursul de parkour intr-o anumita zona."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.startothers",
+      "type": "text",
+      "_twin": {
+        "id": "e286972d-e620-4be0-8d27-1dee1a8be5e2",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 start \u003cplayer\u003e [area] &7- Start another players parkour in a certain area.",
+        "ro_RO": " &c/%1 start \u003cjucator\u003e [zona] &7- incepe parcursul de parkour al altui jucator intr-o anumita zona."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.top",
+      "type": "text",
+      "_twin": {
+        "id": "97ad950c-c7e7-4903-b6b3-55545d528b37",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 top &7- See the top 10 players!",
+        "ro_RO": " &c/%1 top &7- Vezi primii 10 jucatori!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.list",
+      "type": "text",
+      "_twin": {
+        "id": "76486a3a-5351-40d1-98fd-6a3570c3dc41",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 list &7- See everyone that is playing parkour, and their current scores.",
+        "ro_RO": " &c/%1 list &7- Vezi toti cei care joaca parcursul de parkour, si scorurile lor actuale."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.setup",
+      "type": "text",
+      "_twin": {
+        "id": "9a5a4526-b5ea-4b77-a2f3-5e8c959b290b",
+        "dateCreated": 1715756554524,
+        "dateUpdated": 1715756554524,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup &7- Commands for setting up the plugin. (required permssion: &cajparkour.setup&7)",
+        "ro_RO": " &c/%1 setup &7- Comenzi pentru setarea pluginului. (permisiune necesara: &cajparkour.setup&7)"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.portals",
+      "type": "text",
+      "_twin": {
+        "id": "5511e916-06bb-4cc3-b7ba-13fdec546e23",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 portals &7- Commands for setting up portals.",
+        "ro_RO": " &c/%1 portals &7- Comenzi pentru setarea portalurilor."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.help.areas",
+      "type": "text",
+      "_twin": {
+        "id": "3daade79-b624-49cc-8d74-799e6224d508",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 areas &7- List all loaded areas",
+        "ro_RO": " &c/%1 areas &7- Listeaza toate zonele incarcate"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.header",
+      "type": "text",
+      "_twin": {
+        "id": "62b88aeb-0de7-4bb5-be13-5031f45ddbfe",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7ajParkour setup commands",
+        "ro_RO": "&7ajParkour comenzi de setare"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.create",
+      "type": "text",
+      "_twin": {
+        "id": "7ef4aba1-5d28-4af6-a822-b7357f93562e",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup create &7- Create an area",
+        "ro_RO": " &c/%1 setup create &7- Creeaza o zona"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.pos1",
+      "type": "text",
+      "_twin": {
+        "id": "21d9b63b-091c-44a2-8bce-ef9d8af78c2c",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup pos1 &7- Set the first position",
+        "ro_RO": " &c/%1 setup pos1 &7- Seteaza prima pozitie"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.pos2",
+      "type": "text",
+      "_twin": {
+        "id": "4a81e584-9b87-4df4-9e05-4ef4e4e98cfc",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup pos2 &7- Set the second position",
+        "ro_RO": " &c/%1 setup pos2 &7- Seteaza a doua pozitie"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.we",
+      "type": "text",
+      "_twin": {
+        "id": "309b18f9-3e25-4d58-b923-028f8fc5242b",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup we &7- Select first and second position with worldedit",
+        "ro_RO": " &c/%1 setup we &7- Selecteaza prima si a doua pozitie cu worldedit"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.fallpos",
+      "type": "text",
+      "_twin": {
+        "id": "2ece8953-99c8-4b9b-998f-5779e62817b6",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup fallpos &7- Set fall position!",
+        "ro_RO": " &c/%1 setup fallpos &7- Seteaza pozitia de cadere!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.edit",
+      "type": "text",
+      "_twin": {
+        "id": "0306dba6-360f-404e-99f9-689bbd8feec8",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 edit&7 - Load an existing area into the editing queue.",
+        "ro_RO": " &c/%1 edit&7 - incarca o zona existenta in coada de editare."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.info",
+      "type": "text",
+      "_twin": {
+        "id": "ba00a9b4-c5b6-4b5e-b99e-03a387c7abde",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup info&7 - Show which points you have set so far!",
+        "ro_RO": " &c/%1 setup info&7 - Arata ce puncte ai setat pana acum!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.diff",
+      "type": "text",
+      "_twin": {
+        "id": "3e321ab8-c070-443b-b0c5-9f0497379fad",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup difficulty &7- Set the areas difficulty!",
+        "ro_RO": " &c/%1 setup difficulty &7- Seteaza dificultatea zonei!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.max",
+      "type": "text",
+      "_twin": {
+        "id": "ebefa426-abe8-4a78-9fa6-c9b74a8e365d",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup max &7- Set the maximum number of people allowed in the area!",
+        "ro_RO": " &c/%1 setup max &7- Seteaza numarul maxim de persoane permise in zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.setup.save",
+      "type": "text",
+      "_twin": {
+        "id": "eaf210ff-00c2-46ef-8d86-3fcb9100e064",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 setup save &7- Saves and enabled the area. (This should be done last)",
+        "ro_RO": " &c/%1 setup save &7- Salveaza si activeaza zona. (Asta ar trebui sa fie facut ultimul)"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.header",
+      "type": "text",
+      "_twin": {
+        "id": "f85fcef6-e5ed-427a-a641-bda0dd52159a",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Parkour portal commands",
+        "ro_RO": "Parkour comenzi de portal"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.list",
+      "type": "text",
+      "_twin": {
+        "id": "cfb7482a-03fd-45f8-a218-bcf72c5adf9d",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 portals list &7- Lists all portals.",
+        "ro_RO": " &c/%1 portals list &7- Listeaza toate portalurile."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.create",
+      "type": "text",
+      "_twin": {
+        "id": "da181e73-5292-45b8-8463-c509b30ec31e",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 portals create &7- Create a portal.",
+        "ro_RO": " &c/%1 portals create &7- Creeaza un portal."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.portals.remove",
+      "type": "text",
+      "_twin": {
+        "id": "75a00c0a-954a-4d60-a8e2-7dd361b4a20b",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &c/%1 portals remove - &7Remove a portal.",
+        "ro_RO": " &c/%1 portals remove - &7Elimina un portal."
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.header",
+      "type": "text",
+      "_twin": {
+        "id": "9ab782a0-d93c-4536-a603-1d012be83ea2",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Loaded parkour areas:",
+        "ro_RO": "&7Zone de parcurs incarcate:"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.format",
+      "type": "text",
+      "_twin": {
+        "id": "43a34d97-01a9-48f4-8bbd-2e75292ab760",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": " &7- &c%1&7 Difficulty: &c%2",
+        "ro_RO": " &7- &c%1&7 Dificultate: &c%2"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.listareas.none",
+      "type": "text",
+      "_twin": {
+        "id": "961bc931-5a4b-4ef7-b093-693ed2d7a8bb",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7No areas loaded!",
+        "ro_RO": "&7Nicio zona incarcata!"
+      }
+    },
+    {
+      "key": "ajpparkour.commands.not-on-whitelist",
+      "type": "text",
+      "_twin": {
+        "id": "76a6bbb8-5525-4c02-91bd-77da2cca1cfb",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You cannot use this command while on parkour!",
+        "ro_RO": "&7Nu poti folosi aceasta comanda cand esti in parcursul de parkour!"
+      }
+    },
+    {
+      "key": "ajpparkour.not-from-console",
+      "type": "text",
+      "_twin": {
+        "id": "2ec74615-bfcf-40b0-a62d-6294ddacfb27",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You cannot run this command from the console!",
+        "ro_RO": "&7Nu poti folosi aceasta comanda din consola!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.no-name",
+      "type": "text",
+      "_twin": {
+        "id": "5112bba4-0757-4f4c-95ff-d2725927aa56",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You must name your area!",
+        "ro_RO": "&7Trebuie sa iti numesti zona!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.invalid-name",
+      "type": "text",
+      "_twin": {
+        "id": "66dd52fc-dcbd-4529-9130-cb4d842dc085",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You are not allowed to name your arena like that.",
+        "ro_RO": "&7Nu poti numi arena asa."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.no-name",
+      "type": "text",
+      "_twin": {
+        "id": "b2bfa211-a63c-4b43-94c8-9e4c82f97475",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please enter the name of an area to edit!",
+        "ro_RO": "&7Te rog introdu numele unei zone de editat!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.loaded",
+      "type": "text",
+      "_twin": {
+        "id": "8293e73b-f8bb-4d92-b759-b3743f38a3f5",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Area loaded for editing! Re-set positions using &c/%1 setup",
+        "ro_RO": "&7Zona incarcata pentru editare! Reseteaza pozitiile folosind &c/%1 setup"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.edit.no-area",
+      "type": "text",
+      "_twin": {
+        "id": "26c15b99-f90a-465a-80c3-6a3c1bebca64",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7An area with that name does not exist!",
+        "ro_RO": "&7O zona cu acel nume nu exista!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.need-to-create",
+      "type": "text",
+      "_twin": {
+        "id": "c95cc6cf-358c-4e49-b571-e4526f604afb",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You must create an area before editing it!",
+        "ro_RO": "&7Trebuie sa creezi o zona inainte de a o edita!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.we.not-installed",
+      "type": "text",
+      "_twin": {
+        "id": "455f0e30-d623-40e2-ade4-02da69bca155",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You need to have WorldEdit installed to use this command! Try using the built-in pos1 and pos2 setup commands.",
+        "ro_RO": "&7Trebuie sa ai WorldEdit instalat pentru a folosi aceasta comanda! incearca sa folosesti comenzile incorporate pos1 si pos2."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.we.incomplete-selection",
+      "type": "text",
+      "_twin": {
+        "id": "bf6e0af6-9412-4177-83bf-97af01025432",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You must make a complete worldedit selection before doing this!",
+        "ro_RO": "&7Trebuie sa faci o selectie completa a WorldEdit inainte de a face asta!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.created",
+      "type": "text",
+      "_twin": {
+        "id": "5e4d651f-1782-48e0-a509-468e4a454eab",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Area created and added to the editing queue. See &c/ajParkour setup&7 or view the plugin page for steps to set it up!",
+        "ro_RO": "&7Zona creata si adaugata in coada de editare. Vezi &c/ajParkour setup&7 sau viziteaza pagina pluginului pentru pasii de setare!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.already-creating",
+      "type": "text",
+      "_twin": {
+        "id": "581d92c7-ed76-461c-a232-ecbf7162a1f0",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7An arena is currently being set up. Please either save that arena, or run this command again to override. (&cNOTE: Overriding will erase all of the data of the arena being set up before!&7)",
+        "ro_RO": "&7O arena este setata in prezent. Te rog fie salveaza acea arena, fie ruleaza aceasta comanda din nou pentru a o suprascrie. (&cNOTA: Suprascrierea va sterge toate datele arenei care este setata inainte!&7)"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.info.header",
+      "type": "text",
+      "_twin": {
+        "id": "758b5a0c-24bd-4f56-a266-85d6c69748f7",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Colors: Set Not set (optional) Not set (required)",
+        "ro_RO": "&7Culori: Setat Nesetata (optional) Nesetata (necesar)"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.pos1",
+      "type": "text",
+      "_twin": {
+        "id": "e2810bd5-d82a-45e0-b4d7-7e123d477e6f",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7First position set!",
+        "ro_RO": "&7Prima pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.pos2",
+      "type": "text",
+      "_twin": {
+        "id": "f1f5a06f-47a4-4296-a9ae-aeeae3ff870d",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Second position set!",
+        "ro_RO": "&7A doua pozitie setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.fallpos",
+      "type": "text",
+      "_twin": {
+        "id": "a5dbe631-6a9f-4a05-889d-88081a61eb6f",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Fall position set!",
+        "ro_RO": "&7Pozitia de cadere setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.we",
+      "type": "text",
+      "_twin": {
+        "id": "7353c542-622a-4755-8282-f396db53a907",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Positions set!",
+        "ro_RO": "&7Pozitii setate!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.diff",
+      "type": "text",
+      "_twin": {
+        "id": "64460c06-574f-4124-a167-6be9c680c77d",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Difficulty set!",
+        "ro_RO": "&7Dificultate setata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.set.max",
+      "type": "text",
+      "_twin": {
+        "id": "834317c8-f83e-474c-9bc9-55cf6681cf2a",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Max players set!",
+        "ro_RO": "&7Numar maxim de jucatori setat!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.max.need-args",
+      "type": "text",
+      "_twin": {
+        "id": "3b167d8d-a889-48e8-bc80-d7185baf44bd",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please enter a number!",
+        "ro_RO": "&7Te rog introdu un numar!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.diff.not-valid",
+      "type": "text",
+      "_twin": {
+        "id": "9cc239b1-6bb5-42f6-8d20-68a88fc945c4",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Invalid difficulty! Valid difficulties are &ceasy&7, &cmedium&7, &chard&7, &cexpert&7, and &cbalanced&7.",
+        "ro_RO": "&7Dificultate invalida! Dificultatile valide sunt &ceasy&7, &cmedium&7, &chard&7, &cexpert&7, si &cbalanced&7."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.diff.need-args",
+      "type": "text",
+      "_twin": {
+        "id": "4a300261-c927-4167-b447-3376be497829",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please enter a difficulty! Valid difficulties are easy, medium, hard, expert, and balanced.\nBalanced difficulty will make the parkour get harder as the player gets higher scores.",
+        "ro_RO": "&7Te rog introdu o dificultate! Dificultatile valide sunt easy, medium, hard, expert, si balanced.\nDificultatea echilibrata va face parcursul sa devina mai dificil pe masura ce jucatorul obtine scoruri mai mari."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.save.not-done",
+      "type": "text",
+      "_twin": {
+        "id": "761b7a8b-eb89-45e1-a0b9-010e57780a29",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7You have not set all of the required settings! Check &c/%1 setup info&7 to see what you have left.",
+        "ro_RO": "&7Nu ai setat toate setarile necesare! Verifica &c/%1 setup info&7 pentru a vedea ce ti-a ramas."
+      }
+    },
+    {
+      "key": "ajpparkour.setup.save.success",
+      "type": "text",
+      "_twin": {
+        "id": "6d9cf67c-848a-471c-8785-546ea4506d0a",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Arena &c%1&7 saved and loaded!",
+        "ro_RO": "&7Arena &c%1&7 salvata si incarcata!"
+      }
+    },
+    {
+      "key": "ajpparkour.setup.area.too-small",
+      "type": "text",
+      "_twin": {
+        "id": "08316d17-9c2d-43e4-9fd3-99359359543e",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7The area you just created does not meet the minimum reccomended size of &c20x20x20!&7\nYou can continue creating the area, but know you may run into issues with players running into each other, and possibly parkour going outside the area!\nYour area: &c%1x%2x%3&7 (&cXxZxY&7)",
+        "ro_RO": "&7Zona pe care tocmai ai creat-o nu indeplineste dimensiunea minima recomandata de &c20x20x20!&7\nPoti continua crearea zonei, dar stii ca ai putea intampina probleme cu jucatorii care se lovesc unul de altul, si posibil parcursul sa iasa din zona!\nZona ta: &c%1x%2x%3&7 (&cXxZxY&7)"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.header",
+      "type": "text",
+      "_twin": {
+        "id": "b4c76372-aaa2-4cf2-b254-b1e2584ab8f8",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Parkour Portals",
+        "ro_RO": "&7Portaluri de parkour"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.format.area",
+      "type": "text",
+      "_twin": {
+        "id": "f2428cd2-52f9-46cd-b33f-947378cf3ef5",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&4%1 - &c%2 - &7%3",
+        "ro_RO": "&4%1 - &c%2 - &7%3"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.list.format.no-area",
+      "type": "text",
+      "_twin": {
+        "id": "02c47091-99a0-4098-bd87-dcd40c888354",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&c%1 - &7%2",
+        "ro_RO": "&c%1 - &7%2"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.create.help",
+      "type": "text",
+      "_twin": {
+        "id": "a52582d7-a93b-4f0a-80a5-7f952579942d",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Usage: &c/%1 portals create \u003cname\u003e [area]",
+        "ro_RO": "&7Utilizare: &c/%1 portals create \u003cnume\u003e [zona]"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.create.success",
+      "type": "text",
+      "_twin": {
+        "id": "d642076c-7a2c-478d-945d-eb2e72a32e54",
+        "dateCreated": 1715756554525,
+        "dateUpdated": 1715756554525,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Created a portal named &c%1&7 at your current location! You might have to restart the server for the portal to start working.",
+        "ro_RO": "&7Creat un portal numit &c%1&7 la locatia ta curenta! S-ar putea sa trebuiasca sa repornesti serverul pentru ca portalul sa inceapa sa functioneze."
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.help",
+      "type": "text",
+      "_twin": {
+        "id": "b2b2b0c5-ac5c-44a6-ac07-853d57261f4f",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please enter the name of the portal to be removed!",
+        "ro_RO": "&7Te rog introdu numele portalului de eliminat!"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.cannot-find",
+      "type": "text",
+      "_twin": {
+        "id": "fab0c17e-1cf7-4a20-a7d1-c9bc5261d8ca",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Cannot find a portal with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "&7Nu s-a putut gasi un portal cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.success",
+      "type": "text",
+      "_twin": {
+        "id": "f2b754d1-179c-4fcc-b2e2-90eb6248e57b",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756514047,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7\u00267Removed portal &c\u0026c%1\u00267&7!",
+        "ro_RO": "&7\u00267Portalul &c\u0026c%1\u00267&7 a fost eliminata!"
+      }
+    },
+    {
+      "key": "ajpparkour.portals.remove.no-portals",
+      "type": "text",
+      "_twin": {
+        "id": "db276036-d093-43eb-9c63-e194a7bea4b6",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7No portals have been set up yet! Please create portals before removing them.",
+        "ro_RO": "&7Nu s-au setat portaluri inca! Te rog creeaza portaluri inainte de a le elimina."
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.title",
+      "type": "text",
+      "_twin": {
+        "id": "da0e7ab1-e4f2-4c3a-847e-6449cd81ff3d",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Block Selector",
+        "ro_RO": "&7Selector de Blocuri"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.random.title",
+      "type": "text",
+      "_twin": {
+        "id": "3e2f81d1-f32d-426f-a44f-a3eddfc1f725",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Random Blocks",
+        "ro_RO": "&7Blocuri Aleatoare"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.random.lore",
+      "type": "text",
+      "_twin": {
+        "id": "8eb72118-8f12-4fbd-aec7-33d3993bf9ea",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Will pick a random block.",
+        "ro_RO": "&7Va alege un bloc aleator."
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.selected.lore",
+      "type": "text",
+      "_twin": {
+        "id": "7da98b4b-daaa-4e57-98f0-0326d32c23c5",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Currently Selected",
+        "ro_RO": "&7in prezent Selectat"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.nextpage.name",
+      "type": "text",
+      "_twin": {
+        "id": "d0fc00a3-e0db-4509-b4d0-ef253fdf385b",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&cNext Page",
+        "ro_RO": "&cPagina Urmatoare"
+      }
+    },
+    {
+      "key": "ajpparkour.gui.selector.items.prevpage.name",
+      "type": "text",
+      "_twin": {
+        "id": "9374e829-d92e-4fd4-9501-a922725fb125",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&cPrevious Page",
+        "ro_RO": "&cPagina Anterioara"
+      }
+    },
+    {
+      "key": "ajpparkour.items.blockselector.name",
+      "type": "text",
+      "_twin": {
+        "id": "90247d49-87df-420c-9947-d7f18833c6bf",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&4Block Selector",
+        "ro_RO": "&4Selector de Blocuri"
+      }
+    },
+    {
+      "key": "ajpparkour.reset.usage",
+      "type": "text",
+      "_twin": {
+        "id": "32893f4a-ddb0-4f42-9e44-c26039c03ef3",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756522595,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Usage: \u0026c/%1 reset \u003cplayer\u003e",
+        "ro_RO": "&7Utilizare: \u0026c/%1 reset \u003cjucator\u003e"
+      }
+    },
+    {
+      "key": "ajpparkour.reset.success",
+      "type": "text",
+      "_twin": {
+        "id": "15f51f23-d38b-4fbf-8c48-c2d855214a3e",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756536445,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Reset score of \u0026c%1 \u00267to \u0026c0",
+        "ro_RO": "&7Resetare scorului lui \u0026c%1 \u00267la \u0026c0"
+      }
+    },
+    {
+      "key": "ajpparkour.blockselector.openedfor",
+      "type": "text",
+      "_twin": {
+        "id": "948ce018-a9e8-43d1-a488-726608e67738",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Opened block selector for &c%1",
+        "ro_RO": "&7Deschis selectorul de blocuri pentru &c%1"
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.help",
+      "type": "text",
+      "_twin": {
+        "id": "65c424b7-8fed-4f51-9203-79f4a107ee5d",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Please enter the name of the area to be removed!",
+        "ro_RO": "&7Te rog introdu numele zonei de eliminat!"
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.cannot-find",
+      "type": "text",
+      "_twin": {
+        "id": "8e7fd2dd-4a89-4bca-9aa2-f301f2e7aadb",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Cannot find an area with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "&7Nu s-a putut gasi o zona cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+      }
+    },
+    {
+      "key": "ajpparkour.areas.remove.success",
+      "type": "text",
+      "_twin": {
+        "id": "a8b2939a-2e75-4cac-91d6-2558b4636575",
+        "dateCreated": 1715756554526,
+        "dateUpdated": 1715756554526,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "&7Removed area %1!",
+        "ro_RO": "&7Zona %1 a fost eliminata!"
+      }
+    }
+  ]
+}
