@@ -15,8 +15,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You are already in parkour!",
-        "ro_RO": "&7Esti deja in parcursul de parkour!"
+        "en_GB": "\u00267You are already in parkour!",
+        "ro_RO": "\u00267Esti deja in parcursul de parkour!"
       }
     },
     {
@@ -30,8 +30,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Started parkour! Try to beat your high-score of &c%1&7!",
-        "ro_RO": "&7Ai inceput parcursul de parkour! incearca sa iti depasesti scorul maxim de &c%1&7!"
+        "en_GB": "\u00267Started parkour! Try to beat your high-score of \u0026c%1\u00267!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour! incearca sa iti depasesti scorul maxim de \u0026c%1\u00267!"
       }
     },
     {
@@ -45,8 +45,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Started parkour!",
-        "ro_RO": "&7Ai inceput parcursul de parkour!"
+        "en_GB": "\u00267Started parkour!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour!"
       }
     },
     {
@@ -60,8 +60,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7No arena or player could be found called &c%1&7!",
-        "ro_RO": "&7Nu s-a putut gasi o arena sau un jucator cu numele &c%1&7!"
+        "en_GB": "\u00267No arena or player could be found called \u0026c%1\u00267!",
+        "ro_RO": "\u00267Nu s-a putut gasi o arena sau un jucator cu numele \u0026c%1\u00267!"
       }
     },
     {
@@ -75,8 +75,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Cannot find that player!",
-        "ro_RO": "&7Nu s-a putut gasi acel jucator!"
+        "en_GB": "\u00267Cannot find that player!",
+        "ro_RO": "\u00267Nu s-a putut gasi acel jucator!"
       }
     },
     {
@@ -90,8 +90,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Cannot find that area!",
-        "ro_RO": "&7Nu s-a putut gasi acea zona!"
+        "en_GB": "\u00267Cannot find that area!",
+        "ro_RO": "\u00267Nu s-a putut gasi acea zona!"
       }
     },
     {
@@ -105,8 +105,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Started parkour for &c%1&7!",
-        "ro_RO": "&7Ai inceput parcursul de parkour pentru &c%1&7!"
+        "en_GB": "\u00267Started parkour for \u0026c%1\u00267!",
+        "ro_RO": "\u00267Ai inceput parcursul de parkour pentru \u0026c%1\u00267!"
       }
     },
     {
@@ -120,8 +120,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Started parkour for &c%1&7 on area &c%2&7!",
-        "ro_RO": "&7L-ai forat pe &c%1&7 sa faca parkour in zona &c%2&7!"
+        "en_GB": "\u00267Started parkour for \u0026c%1\u00267 on area \u0026c%2\u00267!",
+        "ro_RO": "\u00267L-ai forat pe \u0026c%1\u00267 sa faca parkour in zona \u0026c%2\u00267!"
       }
     },
     {
@@ -135,8 +135,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You do not have permission to do that!",
-        "ro_RO": "&7Nu ai permisiunea sa faci asta!"
+        "en_GB": "\u00267You do not have permission to do that!",
+        "ro_RO": "\u00267Nu ai permisiunea sa faci asta!"
       }
     },
     {
@@ -150,8 +150,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Score &c%1&7.",
-        "ro_RO": "&7Scor &c%1&7."
+        "en_GB": "\u00267Score \u0026c%1\u00267.",
+        "ro_RO": "\u00267Scor \u0026c%1\u00267."
       }
     },
     {
@@ -165,8 +165,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&4&lCongrats!&7 You beat your previous score of &c%1&7!",
-        "ro_RO": "&4&lFelicitari!&7 Ai depasit scorul tau anterior de &c%1&7!"
+        "en_GB": "\u00264\u0026lCongrats!\u00267 You beat your previous score of \u0026c%1\u00267!",
+        "ro_RO": "\u00264\u0026lFelicitari!\u00267 Ai depasit scorul tau anterior de \u0026c%1\u00267!"
       }
     },
     {
@@ -180,8 +180,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&4&lCongrats! &7You just beat your previous highscore! Keep going!",
-        "ro_RO": "&4&lFelicitari! &7Ai depasit scorul tau maxim anterior! Continua in acelasi ritm!"
+        "en_GB": "\u00264\u0026lCongrats! \u00267You just beat your previous highscore! Keep going!",
+        "ro_RO": "\u00264\u0026lFelicitari! \u00267Ai depasit scorul tau maxim anterior! Continua in acelasi ritm!"
       }
     },
     {
@@ -195,8 +195,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You cannot start parkour from this world!",
-        "ro_RO": "&7Nu poti incepe parcursul de parkour din aceasta lume!"
+        "en_GB": "\u00267You cannot start parkour from this world!",
+        "ro_RO": "\u00267Nu poti incepe parcursul de parkour din aceasta lume!"
       }
     },
     {
@@ -210,8 +210,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Nope!",
-        "ro_RO": "&7Nu!"
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
       }
     },
     {
@@ -225,8 +225,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Nope!",
-        "ro_RO": "&7Nu!"
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
       }
     },
     {
@@ -240,8 +240,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Nope!",
-        "ro_RO": "&7Nu!"
+        "en_GB": "\u00267Nope!",
+        "ro_RO": "\u00267Nu!"
       }
     },
     {
@@ -255,8 +255,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7That is not a valid number!",
-        "ro_RO": "&7Aceasta nu este o valoare numerica valida!"
+        "en_GB": "\u00267That is not a valid number!",
+        "ro_RO": "\u00267Aceasta nu este o valoare numerica valida!"
       }
     },
     {
@@ -270,8 +270,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "C&7ould not start parkour because the area is full! Try again later.",
-        "ro_RO": "N&7u s-a putut incepe parcursul de parkour deoarece zona este plina! incearca din nou mai tarziu."
+        "en_GB": "C\u00267ould not start parkour because the area is full! Try again later.",
+        "ro_RO": "N\u00267u s-a putut incepe parcursul de parkour deoarece zona este plina! incearca din nou mai tarziu."
       }
     },
     {
@@ -285,8 +285,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You must be in-game to do that!",
-        "ro_RO": "&7Trebuie sa fii in joc pentru a face asta!"
+        "en_GB": "\u00267You must be in-game to do that!",
+        "ro_RO": "\u00267Trebuie sa fii in joc pentru a face asta!"
       }
     },
     {
@@ -300,8 +300,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You must do this command from the console!",
-        "ro_RO": "&7Trebuie sa folosesti aceasta comanda din consola!"
+        "en_GB": "\u00267You must do this command from the console!",
+        "ro_RO": "\u00267Trebuie sa folosesti aceasta comanda din consola!"
       }
     },
     {
@@ -315,8 +315,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Could not find player &c%1",
-        "ro_RO": "&7Nu s-a putut gasi jucatorul &c%1"
+        "en_GB": "\u00267Could not find player \u0026c%1",
+        "ro_RO": "\u00267Nu s-a putut gasi jucatorul \u0026c%1"
       }
     },
     {
@@ -330,8 +330,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Players playing parkour:",
-        "ro_RO": "&7Jucatori care joaca parcursul de parkour:"
+        "en_GB": "\u00267Players playing parkour:",
+        "ro_RO": "\u00267Jucatori care joaca parcursul de parkour:"
       }
     },
     {
@@ -345,8 +345,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&4%1 &7- &c%2 jumps",
-        "ro_RO": "&4%1 &7- &c%2 sarituri"
+        "en_GB": "\u00264%1 \u00267- \u0026c%2 jumps",
+        "ro_RO": "\u00264%1 \u00267- \u0026c%2 sarituri"
       }
     },
     {
@@ -360,8 +360,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7None",
-        "ro_RO": "&7Niciunul"
+        "en_GB": "\u00267None",
+        "ro_RO": "\u00267Niciunul"
       }
     },
     {
@@ -375,8 +375,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Nobody has played parkour yet!",
-        "ro_RO": "&7Nimeni nu a jucat parcursul de parkour inca!"
+        "en_GB": "\u00267Nobody has played parkour yet!",
+        "ro_RO": "\u00267Nimeni nu a jucat parcursul de parkour inca!"
       }
     },
     {
@@ -390,8 +390,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7First position set!",
-        "ro_RO": "&7Prima pozitie setata!"
+        "en_GB": "\u00267First position set!",
+        "ro_RO": "\u00267Prima pozitie setata!"
       }
     },
     {
@@ -405,8 +405,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Second position set!",
-        "ro_RO": "&7A doua pozitie setata!"
+        "en_GB": "\u00267Second position set!",
+        "ro_RO": "\u00267A doua pozitie setata!"
       }
     },
     {
@@ -420,8 +420,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You can now do &c/ajParjour start &7to do parkour!",
-        "ro_RO": "&7Acum poti folosi &c/ajParjour start&7 pentru a incepe parcursul de parkour!"
+        "en_GB": "\u00267You can now do \u0026c/ajParjour start \u00267to do parkour!",
+        "ro_RO": "\u00267Acum poti folosi \u0026c/ajParjour start\u00267 pentru a incepe parcursul de parkour!"
       }
     },
     {
@@ -435,8 +435,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Usage: &c/%1 reload \u003cfile\u003e &7Files: &c%2",
-        "ro_RO": "&7Utilizare: &c/%1 reload \u003cfisier\u003e &7Fisiere: &c%2"
+        "en_GB": "\u00267Usage: \u0026c/%1 reload \u003cfile\u003e \u00267Files: \u0026c%2",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 reload \u003cfisier\u003e \u00267Fisiere: \u0026c%2"
       }
     },
     {
@@ -450,8 +450,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Fall position set!",
-        "ro_RO": "&7Pozitia de cadere setata!"
+        "en_GB": "\u00267Fall position set!",
+        "ro_RO": "\u00267Pozitia de cadere setata!"
       }
     },
     {
@@ -465,8 +465,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Fall position removed!",
-        "ro_RO": "&7Pozitia de cadere eliminata!"
+        "en_GB": "\u00267Fall position removed!",
+        "ro_RO": "\u00267Pozitia de cadere eliminata!"
       }
     },
     {
@@ -480,8 +480,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Top Scores:",
-        "ro_RO": "&7Cele mai bune scoruri:"
+        "en_GB": "\u00267Top Scores:",
+        "ro_RO": "\u00267Cele mai bune scoruri:"
       }
     },
     {
@@ -495,8 +495,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Top Scores for &c%1:",
-        "ro_RO": "&7Cele mai bune scoruri pentru &c%1:"
+        "en_GB": "\u00267Top Scores for \u0026c%1:",
+        "ro_RO": "\u00267Cele mai bune scoruri pentru \u0026c%1:"
       }
     },
     {
@@ -510,8 +510,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "{#}. &4%1 &c%2 &7jumps",
-        "ro_RO": "{#}. &4%1 &c%2 &7sarituri"
+        "en_GB": "{#}. \u00264%1 \u0026c%2 \u00267jumps",
+        "ro_RO": "{#}. \u00264%1 \u0026c%2 \u00267sarituri"
       }
     },
     {
@@ -525,8 +525,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You fell! Your score was &c%1",
-        "ro_RO": "&7Ai cazut! Scorul tau a fost &c%1"
+        "en_GB": "\u00267You fell! Your score was \u0026c%1",
+        "ro_RO": "\u00267Ai cazut! Scorul tau a fost \u0026c%1"
       }
     },
     {
@@ -540,8 +540,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Your parkour game was ended because ",
-        "ro_RO": "&7Jocul tau de parkour s-a incheiat deoarece "
+        "en_GB": "\u00267Your parkour game was ended because ",
+        "ro_RO": "\u00267Jocul tau de parkour s-a incheiat deoarece "
       }
     },
     {
@@ -555,8 +555,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You teleported",
-        "ro_RO": "&7Te-ai teleportat"
+        "en_GB": "\u00267You teleported",
+        "ro_RO": "\u00267Te-ai teleportat"
       }
     },
     {
@@ -570,8 +570,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You were AFK",
-        "ro_RO": "&7Ai fost AFK"
+        "en_GB": "\u00267You were AFK",
+        "ro_RO": "\u00267Ai fost AFK"
       }
     },
     {
@@ -585,8 +585,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7For info on how to set it up, do &c/%1 setup",
-        "ro_RO": "&7Pentru informatii despre cum sa-l setezi, foloseste &c/%1 setup"
+        "en_GB": "\u00267For info on how to set it up, do \u0026c/%1 setup",
+        "ro_RO": "\u00267Pentru informatii despre cum sa-l setezi, foloseste \u0026c/%1 setup"
       }
     },
     {
@@ -600,8 +600,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7There are too many players in parkour right now. Try again later.",
-        "ro_RO": "&7Sunt prea multi jucatori in parcursul de parkour acum. incearca din nou mai tarziu."
+        "en_GB": "\u00267There are too many players in parkour right now. Try again later.",
+        "ro_RO": "\u00267Sunt prea multi jucatori in parcursul de parkour acum. incearca din nou mai tarziu."
       }
     },
     {
@@ -615,8 +615,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please provide the source to migrate from!",
-        "ro_RO": "&7Te rog ofera sursa de la care sa migrezi!"
+        "en_GB": "\u00267Please provide the source to migrate from!",
+        "ro_RO": "\u00267Te rog ofera sursa de la care sa migrezi!"
       }
     },
     {
@@ -644,8 +644,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Something went wrong. There is probably more information in the console.",
-        "ro_RO": "&7Ceva nu a mers bine. Probabil exista mai multe informatii in consola."
+        "en_GB": "\u00267Something went wrong. There is probably more information in the console.",
+        "ro_RO": "\u00267Ceva nu a mers bine. Probabil exista mai multe informatii in consola."
       }
     },
     {
@@ -659,8 +659,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7---",
-        "ro_RO": "&7---"
+        "en_GB": "\u00267---",
+        "ro_RO": "\u00267---"
       }
     },
     {
@@ -674,8 +674,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&c%1m&7:&4%2s",
-        "ro_RO": "&c%1m&7:&4%2s"
+        "en_GB": "\u0026c%1m\u00267:\u00264%2s",
+        "ro_RO": "\u0026c%1m\u00267:\u00264%2s"
       }
     },
     {
@@ -704,8 +704,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7ajParkour made by &cajgeiss0702&7 and translated by &cNaysKutzu&7!",
-        "ro_RO": "&7ajParkour facut de &cajgeiss0702&7 si tradus de &cNaysKutzu&7!"
+        "en_GB": "\u00267ajParkour made by \u0026cajgeiss0702\u00267 and translated by \u0026cNaysKutzu\u00267!",
+        "ro_RO": "\u00267ajParkour facut de \u0026cajgeiss0702\u00267 si tradus de \u0026cNaysKutzu\u00267!"
       }
     },
     {
@@ -719,8 +719,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 start &7- Start parkour!",
-        "ro_RO": " &c/%1 start &7- incepe parcursul de parkour!"
+        "en_GB": " \u0026c/%1 start \u00267- Start parkour!",
+        "ro_RO": " \u0026c/%1 start \u00267- incepe parcursul de parkour!"
       }
     },
     {
@@ -734,8 +734,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 start \u003carea\u003e &7- Start parkour in a certain area.",
-        "ro_RO": " &c/%1 start \u003czona\u003e &7- incepe parcursul de parkour intr-o anumita zona."
+        "en_GB": " \u0026c/%1 start \u003carea\u003e \u00267- Start parkour in a certain area.",
+        "ro_RO": " \u0026c/%1 start \u003czona\u003e \u00267- incepe parcursul de parkour intr-o anumita zona."
       }
     },
     {
@@ -749,8 +749,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 start \u003cplayer\u003e [area] &7- Start another players parkour in a certain area.",
-        "ro_RO": " &c/%1 start \u003cjucator\u003e [zona] &7- incepe parcursul de parkour al altui jucator intr-o anumita zona."
+        "en_GB": " \u0026c/%1 start \u003cplayer\u003e [area] \u00267- Start another players parkour in a certain area.",
+        "ro_RO": " \u0026c/%1 start \u003cjucator\u003e [zona] \u00267- incepe parcursul de parkour al altui jucator intr-o anumita zona."
       }
     },
     {
@@ -764,8 +764,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 top &7- See the top 10 players!",
-        "ro_RO": " &c/%1 top &7- Vezi primii 10 jucatori!"
+        "en_GB": " \u0026c/%1 top \u00267- See the top 10 players!",
+        "ro_RO": " \u0026c/%1 top \u00267- Vezi primii 10 jucatori!"
       }
     },
     {
@@ -779,8 +779,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 list &7- See everyone that is playing parkour, and their current scores.",
-        "ro_RO": " &c/%1 list &7- Vezi toti cei care joaca parcursul de parkour, si scorurile lor actuale."
+        "en_GB": " \u0026c/%1 list \u00267- See everyone that is playing parkour, and their current scores.",
+        "ro_RO": " \u0026c/%1 list \u00267- Vezi toti cei care joaca parcursul de parkour, si scorurile lor actuale."
       }
     },
     {
@@ -794,8 +794,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup &7- Commands for setting up the plugin. (required permssion: &cajparkour.setup&7)",
-        "ro_RO": " &c/%1 setup &7- Comenzi pentru setarea pluginului. (permisiune necesara: &cajparkour.setup&7)"
+        "en_GB": " \u0026c/%1 setup \u00267- Commands for setting up the plugin. (required permssion: \u0026cajparkour.setup\u00267)",
+        "ro_RO": " \u0026c/%1 setup \u00267- Comenzi pentru setarea pluginului. (permisiune necesara: \u0026cajparkour.setup\u00267)"
       }
     },
     {
@@ -809,8 +809,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 portals &7- Commands for setting up portals.",
-        "ro_RO": " &c/%1 portals &7- Comenzi pentru setarea portalurilor."
+        "en_GB": " \u0026c/%1 portals \u00267- Commands for setting up portals.",
+        "ro_RO": " \u0026c/%1 portals \u00267- Comenzi pentru setarea portalurilor."
       }
     },
     {
@@ -824,8 +824,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 areas &7- List all loaded areas",
-        "ro_RO": " &c/%1 areas &7- Listeaza toate zonele incarcate"
+        "en_GB": " \u0026c/%1 areas \u00267- List all loaded areas",
+        "ro_RO": " \u0026c/%1 areas \u00267- Listeaza toate zonele incarcate"
       }
     },
     {
@@ -839,8 +839,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7ajParkour setup commands",
-        "ro_RO": "&7ajParkour comenzi de setare"
+        "en_GB": "\u00267ajParkour setup commands",
+        "ro_RO": "\u00267ajParkour comenzi de setare"
       }
     },
     {
@@ -854,8 +854,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup create &7- Create an area",
-        "ro_RO": " &c/%1 setup create &7- Creeaza o zona"
+        "en_GB": " \u0026c/%1 setup create \u00267- Create an area",
+        "ro_RO": " \u0026c/%1 setup create \u00267- Creeaza o zona"
       }
     },
     {
@@ -869,8 +869,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup pos1 &7- Set the first position",
-        "ro_RO": " &c/%1 setup pos1 &7- Seteaza prima pozitie"
+        "en_GB": " \u0026c/%1 setup pos1 \u00267- Set the first position",
+        "ro_RO": " \u0026c/%1 setup pos1 \u00267- Seteaza prima pozitie"
       }
     },
     {
@@ -884,8 +884,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup pos2 &7- Set the second position",
-        "ro_RO": " &c/%1 setup pos2 &7- Seteaza a doua pozitie"
+        "en_GB": " \u0026c/%1 setup pos2 \u00267- Set the second position",
+        "ro_RO": " \u0026c/%1 setup pos2 \u00267- Seteaza a doua pozitie"
       }
     },
     {
@@ -899,8 +899,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup we &7- Select first and second position with worldedit",
-        "ro_RO": " &c/%1 setup we &7- Selecteaza prima si a doua pozitie cu worldedit"
+        "en_GB": " \u0026c/%1 setup we \u00267- Select first and second position with worldedit",
+        "ro_RO": " \u0026c/%1 setup we \u00267- Selecteaza prima si a doua pozitie cu worldedit"
       }
     },
     {
@@ -914,8 +914,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup fallpos &7- Set fall position!",
-        "ro_RO": " &c/%1 setup fallpos &7- Seteaza pozitia de cadere!"
+        "en_GB": " \u0026c/%1 setup fallpos \u00267- Set fall position!",
+        "ro_RO": " \u0026c/%1 setup fallpos \u00267- Seteaza pozitia de cadere!"
       }
     },
     {
@@ -929,8 +929,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 edit&7 - Load an existing area into the editing queue.",
-        "ro_RO": " &c/%1 edit&7 - incarca o zona existenta in coada de editare."
+        "en_GB": " \u0026c/%1 edit\u00267 - Load an existing area into the editing queue.",
+        "ro_RO": " \u0026c/%1 edit\u00267 - incarca o zona existenta in coada de editare."
       }
     },
     {
@@ -944,8 +944,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup info&7 - Show which points you have set so far!",
-        "ro_RO": " &c/%1 setup info&7 - Arata ce puncte ai setat pana acum!"
+        "en_GB": " \u0026c/%1 setup info\u00267 - Show which points you have set so far!",
+        "ro_RO": " \u0026c/%1 setup info\u00267 - Arata ce puncte ai setat pana acum!"
       }
     },
     {
@@ -959,8 +959,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup difficulty &7- Set the areas difficulty!",
-        "ro_RO": " &c/%1 setup difficulty &7- Seteaza dificultatea zonei!"
+        "en_GB": " \u0026c/%1 setup difficulty \u00267- Set the areas difficulty!",
+        "ro_RO": " \u0026c/%1 setup difficulty \u00267- Seteaza dificultatea zonei!"
       }
     },
     {
@@ -974,8 +974,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup max &7- Set the maximum number of people allowed in the area!",
-        "ro_RO": " &c/%1 setup max &7- Seteaza numarul maxim de persoane permise in zona!"
+        "en_GB": " \u0026c/%1 setup max \u00267- Set the maximum number of people allowed in the area!",
+        "ro_RO": " \u0026c/%1 setup max \u00267- Seteaza numarul maxim de persoane permise in zona!"
       }
     },
     {
@@ -989,8 +989,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 setup save &7- Saves and enabled the area. (This should be done last)",
-        "ro_RO": " &c/%1 setup save &7- Salveaza si activeaza zona. (Asta ar trebui sa fie facut ultimul)"
+        "en_GB": " \u0026c/%1 setup save \u00267- Saves and enabled the area. (This should be done last)",
+        "ro_RO": " \u0026c/%1 setup save \u00267- Salveaza si activeaza zona. (Asta ar trebui sa fie facut ultimul)"
       }
     },
     {
@@ -1019,8 +1019,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 portals list &7- Lists all portals.",
-        "ro_RO": " &c/%1 portals list &7- Listeaza toate portalurile."
+        "en_GB": " \u0026c/%1 portals list \u00267- Lists all portals.",
+        "ro_RO": " \u0026c/%1 portals list \u00267- Listeaza toate portalurile."
       }
     },
     {
@@ -1034,8 +1034,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 portals create &7- Create a portal.",
-        "ro_RO": " &c/%1 portals create &7- Creeaza un portal."
+        "en_GB": " \u0026c/%1 portals create \u00267- Create a portal.",
+        "ro_RO": " \u0026c/%1 portals create \u00267- Creeaza un portal."
       }
     },
     {
@@ -1049,8 +1049,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &c/%1 portals remove - &7Remove a portal.",
-        "ro_RO": " &c/%1 portals remove - &7Elimina un portal."
+        "en_GB": " \u0026c/%1 portals remove - \u00267Remove a portal.",
+        "ro_RO": " \u0026c/%1 portals remove - \u00267Elimina un portal."
       }
     },
     {
@@ -1064,8 +1064,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Loaded parkour areas:",
-        "ro_RO": "&7Zone de parcurs incarcate:"
+        "en_GB": "\u00267Loaded parkour areas:",
+        "ro_RO": "\u00267Zone de parcurs incarcate:"
       }
     },
     {
@@ -1079,8 +1079,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": " &7- &c%1&7 Difficulty: &c%2",
-        "ro_RO": " &7- &c%1&7 Dificultate: &c%2"
+        "en_GB": " \u00267- \u0026c%1\u00267 Difficulty: \u0026c%2",
+        "ro_RO": " \u00267- \u0026c%1\u00267 Dificultate: \u0026c%2"
       }
     },
     {
@@ -1094,8 +1094,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7No areas loaded!",
-        "ro_RO": "&7Nicio zona incarcata!"
+        "en_GB": "\u00267No areas loaded!",
+        "ro_RO": "\u00267Nicio zona incarcata!"
       }
     },
     {
@@ -1109,8 +1109,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You cannot use this command while on parkour!",
-        "ro_RO": "&7Nu poti folosi aceasta comanda cand esti in parcursul de parkour!"
+        "en_GB": "\u00267You cannot use this command while on parkour!",
+        "ro_RO": "\u00267Nu poti folosi aceasta comanda cand esti in parcursul de parkour!"
       }
     },
     {
@@ -1124,8 +1124,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You cannot run this command from the console!",
-        "ro_RO": "&7Nu poti folosi aceasta comanda din consola!"
+        "en_GB": "\u00267You cannot run this command from the console!",
+        "ro_RO": "\u00267Nu poti folosi aceasta comanda din consola!"
       }
     },
     {
@@ -1139,8 +1139,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You must name your area!",
-        "ro_RO": "&7Trebuie sa iti numesti zona!"
+        "en_GB": "\u00267You must name your area!",
+        "ro_RO": "\u00267Trebuie sa iti numesti zona!"
       }
     },
     {
@@ -1154,8 +1154,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You are not allowed to name your arena like that.",
-        "ro_RO": "&7Nu poti numi arena asa."
+        "en_GB": "\u00267You are not allowed to name your arena like that.",
+        "ro_RO": "\u00267Nu poti numi arena asa."
       }
     },
     {
@@ -1169,8 +1169,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please enter the name of an area to edit!",
-        "ro_RO": "&7Te rog introdu numele unei zone de editat!"
+        "en_GB": "\u00267Please enter the name of an area to edit!",
+        "ro_RO": "\u00267Te rog introdu numele unei zone de editat!"
       }
     },
     {
@@ -1184,8 +1184,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Area loaded for editing! Re-set positions using &c/%1 setup",
-        "ro_RO": "&7Zona incarcata pentru editare! Reseteaza pozitiile folosind &c/%1 setup"
+        "en_GB": "\u00267Area loaded for editing! Re-set positions using \u0026c/%1 setup",
+        "ro_RO": "\u00267Zona incarcata pentru editare! Reseteaza pozitiile folosind \u0026c/%1 setup"
       }
     },
     {
@@ -1199,8 +1199,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7An area with that name does not exist!",
-        "ro_RO": "&7O zona cu acel nume nu exista!"
+        "en_GB": "\u00267An area with that name does not exist!",
+        "ro_RO": "\u00267O zona cu acel nume nu exista!"
       }
     },
     {
@@ -1214,8 +1214,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You must create an area before editing it!",
-        "ro_RO": "&7Trebuie sa creezi o zona inainte de a o edita!"
+        "en_GB": "\u00267You must create an area before editing it!",
+        "ro_RO": "\u00267Trebuie sa creezi o zona inainte de a o edita!"
       }
     },
     {
@@ -1229,8 +1229,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You need to have WorldEdit installed to use this command! Try using the built-in pos1 and pos2 setup commands.",
-        "ro_RO": "&7Trebuie sa ai WorldEdit instalat pentru a folosi aceasta comanda! incearca sa folosesti comenzile incorporate pos1 si pos2."
+        "en_GB": "\u00267You need to have WorldEdit installed to use this command! Try using the built-in pos1 and pos2 setup commands.",
+        "ro_RO": "\u00267Trebuie sa ai WorldEdit instalat pentru a folosi aceasta comanda! incearca sa folosesti comenzile incorporate pos1 si pos2."
       }
     },
     {
@@ -1244,8 +1244,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You must make a complete worldedit selection before doing this!",
-        "ro_RO": "&7Trebuie sa faci o selectie completa a WorldEdit inainte de a face asta!"
+        "en_GB": "\u00267You must make a complete worldedit selection before doing this!",
+        "ro_RO": "\u00267Trebuie sa faci o selectie completa a WorldEdit inainte de a face asta!"
       }
     },
     {
@@ -1259,8 +1259,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Area created and added to the editing queue. See &c/ajParkour setup&7 or view the plugin page for steps to set it up!",
-        "ro_RO": "&7Zona creata si adaugata in coada de editare. Vezi &c/ajParkour setup&7 sau viziteaza pagina pluginului pentru pasii de setare!"
+        "en_GB": "\u00267Area created and added to the editing queue. See \u0026c/ajParkour setup\u00267 or view the plugin page for steps to set it up!",
+        "ro_RO": "\u00267Zona creata si adaugata in coada de editare. Vezi \u0026c/ajParkour setup\u00267 sau viziteaza pagina pluginului pentru pasii de setare!"
       }
     },
     {
@@ -1274,8 +1274,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7An arena is currently being set up. Please either save that arena, or run this command again to override. (&cNOTE: Overriding will erase all of the data of the arena being set up before!&7)",
-        "ro_RO": "&7O arena este setata in prezent. Te rog fie salveaza acea arena, fie ruleaza aceasta comanda din nou pentru a o suprascrie. (&cNOTA: Suprascrierea va sterge toate datele arenei care este setata inainte!&7)"
+        "en_GB": "\u00267An arena is currently being set up. Please either save that arena, or run this command again to override. (\u0026cNOTE: Overriding will erase all of the data of the arena being set up before!\u00267)",
+        "ro_RO": "\u00267O arena este setata in prezent. Te rog fie salveaza acea arena, fie ruleaza aceasta comanda din nou pentru a o suprascrie. (\u0026cNOTA: Suprascrierea va sterge toate datele arenei care este setata inainte!\u00267)"
       }
     },
     {
@@ -1289,8 +1289,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Colors: Set Not set (optional) Not set (required)",
-        "ro_RO": "&7Culori: Setat Nesetata (optional) Nesetata (necesar)"
+        "en_GB": "\u00267Colors: Set Not set (optional) Not set (required)",
+        "ro_RO": "\u00267Culori: Setat Nesetata (optional) Nesetata (necesar)"
       }
     },
     {
@@ -1304,8 +1304,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7First position set!",
-        "ro_RO": "&7Prima pozitie setata!"
+        "en_GB": "\u00267First position set!",
+        "ro_RO": "\u00267Prima pozitie setata!"
       }
     },
     {
@@ -1319,8 +1319,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Second position set!",
-        "ro_RO": "&7A doua pozitie setata!"
+        "en_GB": "\u00267Second position set!",
+        "ro_RO": "\u00267A doua pozitie setata!"
       }
     },
     {
@@ -1334,8 +1334,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Fall position set!",
-        "ro_RO": "&7Pozitia de cadere setata!"
+        "en_GB": "\u00267Fall position set!",
+        "ro_RO": "\u00267Pozitia de cadere setata!"
       }
     },
     {
@@ -1349,8 +1349,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Positions set!",
-        "ro_RO": "&7Pozitii setate!"
+        "en_GB": "\u00267Positions set!",
+        "ro_RO": "\u00267Pozitii setate!"
       }
     },
     {
@@ -1364,8 +1364,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Difficulty set!",
-        "ro_RO": "&7Dificultate setata!"
+        "en_GB": "\u00267Difficulty set!",
+        "ro_RO": "\u00267Dificultate setata!"
       }
     },
     {
@@ -1379,8 +1379,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Max players set!",
-        "ro_RO": "&7Numar maxim de jucatori setat!"
+        "en_GB": "\u00267Max players set!",
+        "ro_RO": "\u00267Numar maxim de jucatori setat!"
       }
     },
     {
@@ -1394,8 +1394,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please enter a number!",
-        "ro_RO": "&7Te rog introdu un numar!"
+        "en_GB": "\u00267Please enter a number!",
+        "ro_RO": "\u00267Te rog introdu un numar!"
       }
     },
     {
@@ -1409,8 +1409,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Invalid difficulty! Valid difficulties are &ceasy&7, &cmedium&7, &chard&7, &cexpert&7, and &cbalanced&7.",
-        "ro_RO": "&7Dificultate invalida! Dificultatile valide sunt &ceasy&7, &cmedium&7, &chard&7, &cexpert&7, si &cbalanced&7."
+        "en_GB": "\u00267Invalid difficulty! Valid difficulties are \u0026ceasy\u00267, \u0026cmedium\u00267, \u0026chard\u00267, \u0026cexpert\u00267, and \u0026cbalanced\u00267.",
+        "ro_RO": "\u00267Dificultate invalida! Dificultatile valide sunt \u0026ceasy\u00267, \u0026cmedium\u00267, \u0026chard\u00267, \u0026cexpert\u00267, si \u0026cbalanced\u00267."
       }
     },
     {
@@ -1424,8 +1424,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please enter a difficulty! Valid difficulties are easy, medium, hard, expert, and balanced.\nBalanced difficulty will make the parkour get harder as the player gets higher scores.",
-        "ro_RO": "&7Te rog introdu o dificultate! Dificultatile valide sunt easy, medium, hard, expert, si balanced.\nDificultatea echilibrata va face parcursul sa devina mai dificil pe masura ce jucatorul obtine scoruri mai mari."
+        "en_GB": "\u00267Please enter a difficulty! Valid difficulties are easy, medium, hard, expert, and balanced.\nBalanced difficulty will make the parkour get harder as the player gets higher scores.",
+        "ro_RO": "\u00267Te rog introdu o dificultate! Dificultatile valide sunt easy, medium, hard, expert, si balanced.\nDificultatea echilibrata va face parcursul sa devina mai dificil pe masura ce jucatorul obtine scoruri mai mari."
       }
     },
     {
@@ -1439,8 +1439,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7You have not set all of the required settings! Check &c/%1 setup info&7 to see what you have left.",
-        "ro_RO": "&7Nu ai setat toate setarile necesare! Verifica &c/%1 setup info&7 pentru a vedea ce ti-a ramas."
+        "en_GB": "\u00267You have not set all of the required settings! Check \u0026c/%1 setup info\u00267 to see what you have left.",
+        "ro_RO": "\u00267Nu ai setat toate setarile necesare! Verifica \u0026c/%1 setup info\u00267 pentru a vedea ce ti-a ramas."
       }
     },
     {
@@ -1454,8 +1454,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Arena &c%1&7 saved and loaded!",
-        "ro_RO": "&7Arena &c%1&7 salvata si incarcata!"
+        "en_GB": "\u00267Arena \u0026c%1\u00267 saved and loaded!",
+        "ro_RO": "\u00267Arena \u0026c%1\u00267 salvata si incarcata!"
       }
     },
     {
@@ -1469,8 +1469,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7The area you just created does not meet the minimum reccomended size of &c20x20x20!&7\nYou can continue creating the area, but know you may run into issues with players running into each other, and possibly parkour going outside the area!\nYour area: &c%1x%2x%3&7 (&cXxZxY&7)",
-        "ro_RO": "&7Zona pe care tocmai ai creat-o nu indeplineste dimensiunea minima recomandata de &c20x20x20!&7\nPoti continua crearea zonei, dar stii ca ai putea intampina probleme cu jucatorii care se lovesc unul de altul, si posibil parcursul sa iasa din zona!\nZona ta: &c%1x%2x%3&7 (&cXxZxY&7)"
+        "en_GB": "\u00267The area you just created does not meet the minimum reccomended size of \u0026c20x20x20!\u00267\nYou can continue creating the area, but know you may run into issues with players running into each other, and possibly parkour going outside the area!\nYour area: \u0026c%1x%2x%3\u00267 (\u0026cXxZxY\u00267)",
+        "ro_RO": "\u00267Zona pe care tocmai ai creat-o nu indeplineste dimensiunea minima recomandata de \u0026c20x20x20!\u00267\nPoti continua crearea zonei, dar stii ca ai putea intampina probleme cu jucatorii care se lovesc unul de altul, si posibil parcursul sa iasa din zona!\nZona ta: \u0026c%1x%2x%3\u00267 (\u0026cXxZxY\u00267)"
       }
     },
     {
@@ -1484,8 +1484,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Parkour Portals",
-        "ro_RO": "&7Portaluri de parkour"
+        "en_GB": "\u00267Parkour Portals",
+        "ro_RO": "\u00267Portaluri de parkour"
       }
     },
     {
@@ -1499,8 +1499,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&4%1 - &c%2 - &7%3",
-        "ro_RO": "&4%1 - &c%2 - &7%3"
+        "en_GB": "\u00264%1 - \u0026c%2 - \u00267%3",
+        "ro_RO": "\u00264%1 - \u0026c%2 - \u00267%3"
       }
     },
     {
@@ -1514,8 +1514,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&c%1 - &7%2",
-        "ro_RO": "&c%1 - &7%2"
+        "en_GB": "\u0026c%1 - \u00267%2",
+        "ro_RO": "\u0026c%1 - \u00267%2"
       }
     },
     {
@@ -1529,8 +1529,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Usage: &c/%1 portals create \u003cname\u003e [area]",
-        "ro_RO": "&7Utilizare: &c/%1 portals create \u003cnume\u003e [zona]"
+        "en_GB": "\u00267Usage: \u0026c/%1 portals create \u003cname\u003e [area]",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 portals create \u003cnume\u003e [zona]"
       }
     },
     {
@@ -1544,8 +1544,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Created a portal named &c%1&7 at your current location! You might have to restart the server for the portal to start working.",
-        "ro_RO": "&7Creat un portal numit &c%1&7 la locatia ta curenta! S-ar putea sa trebuiasca sa repornesti serverul pentru ca portalul sa inceapa sa functioneze."
+        "en_GB": "\u00267Created a portal named \u0026c%1\u00267 at your current location! You might have to restart the server for the portal to start working.",
+        "ro_RO": "\u00267Creat un portal numit \u0026c%1\u00267 la locatia ta curenta! S-ar putea sa trebuiasca sa repornesti serverul pentru ca portalul sa inceapa sa functioneze."
       }
     },
     {
@@ -1559,8 +1559,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please enter the name of the portal to be removed!",
-        "ro_RO": "&7Te rog introdu numele portalului de eliminat!"
+        "en_GB": "\u00267Please enter the name of the portal to be removed!",
+        "ro_RO": "\u00267Te rog introdu numele portalului de eliminat!"
       }
     },
     {
@@ -1574,8 +1574,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Cannot find a portal with that name! Make sure you spelled it correctly, and that you put the same caps too.",
-        "ro_RO": "&7Nu s-a putut gasi un portal cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+        "en_GB": "\u00267Cannot find a portal with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "\u00267Nu s-a putut gasi un portal cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
       }
     },
     {
@@ -1589,8 +1589,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7\u00267Removed portal &c\u0026c%1\u00267&7!",
-        "ro_RO": "&7\u00267Portalul &c\u0026c%1\u00267&7 a fost eliminata!"
+        "en_GB": "\u00267\u00267Removed portal \u0026c\u0026c%1\u00267\u00267!",
+        "ro_RO": "\u00267\u00267Portalul \u0026c\u0026c%1\u00267\u00267 a fost eliminata!"
       }
     },
     {
@@ -1604,8 +1604,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7No portals have been set up yet! Please create portals before removing them.",
-        "ro_RO": "&7Nu s-au setat portaluri inca! Te rog creeaza portaluri inainte de a le elimina."
+        "en_GB": "\u00267No portals have been set up yet! Please create portals before removing them.",
+        "ro_RO": "\u00267Nu s-au setat portaluri inca! Te rog creeaza portaluri inainte de a le elimina."
       }
     },
     {
@@ -1619,8 +1619,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Block Selector",
-        "ro_RO": "&7Selector de Blocuri"
+        "en_GB": "\u00267Block Selector",
+        "ro_RO": "\u00267Selector de Blocuri"
       }
     },
     {
@@ -1634,8 +1634,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Random Blocks",
-        "ro_RO": "&7Blocuri Aleatoare"
+        "en_GB": "\u00267Random Blocks",
+        "ro_RO": "\u00267Blocuri Aleatoare"
       }
     },
     {
@@ -1649,8 +1649,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Will pick a random block.",
-        "ro_RO": "&7Va alege un bloc aleator."
+        "en_GB": "\u00267Will pick a random block.",
+        "ro_RO": "\u00267Va alege un bloc aleator."
       }
     },
     {
@@ -1664,8 +1664,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Currently Selected",
-        "ro_RO": "&7in prezent Selectat"
+        "en_GB": "\u00267Currently Selected",
+        "ro_RO": "\u00267in prezent Selectat"
       }
     },
     {
@@ -1679,8 +1679,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&cNext Page",
-        "ro_RO": "&cPagina Urmatoare"
+        "en_GB": "\u0026cNext Page",
+        "ro_RO": "\u0026cPagina Urmatoare"
       }
     },
     {
@@ -1694,8 +1694,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&cPrevious Page",
-        "ro_RO": "&cPagina Anterioara"
+        "en_GB": "\u0026cPrevious Page",
+        "ro_RO": "\u0026cPagina Anterioara"
       }
     },
     {
@@ -1709,8 +1709,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&4Block Selector",
-        "ro_RO": "&4Selector de Blocuri"
+        "en_GB": "\u00264Block Selector",
+        "ro_RO": "\u00264Selector de Blocuri"
       }
     },
     {
@@ -1724,8 +1724,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Usage: \u0026c/%1 reset \u003cplayer\u003e",
-        "ro_RO": "&7Utilizare: \u0026c/%1 reset \u003cjucator\u003e"
+        "en_GB": "\u00267Usage: \u0026c/%1 reset \u003cplayer\u003e",
+        "ro_RO": "\u00267Utilizare: \u0026c/%1 reset \u003cjucator\u003e"
       }
     },
     {
@@ -1739,8 +1739,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Reset score of \u0026c%1 \u00267to \u0026c0",
-        "ro_RO": "&7Resetare scorului lui \u0026c%1 \u00267la \u0026c0"
+        "en_GB": "\u00267Reset score of \u0026c%1 \u00267to \u0026c0",
+        "ro_RO": "\u00267Resetare scorului lui \u0026c%1 \u00267la \u0026c0"
       }
     },
     {
@@ -1754,8 +1754,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Opened block selector for &c%1",
-        "ro_RO": "&7Deschis selectorul de blocuri pentru &c%1"
+        "en_GB": "\u00267Opened block selector for \u0026c%1",
+        "ro_RO": "\u00267Deschis selectorul de blocuri pentru \u0026c%1"
       }
     },
     {
@@ -1769,8 +1769,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Please enter the name of the area to be removed!",
-        "ro_RO": "&7Te rog introdu numele zonei de eliminat!"
+        "en_GB": "\u00267Please enter the name of the area to be removed!",
+        "ro_RO": "\u00267Te rog introdu numele zonei de eliminat!"
       }
     },
     {
@@ -1784,8 +1784,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Cannot find an area with that name! Make sure you spelled it correctly, and that you put the same caps too.",
-        "ro_RO": "&7Nu s-a putut gasi o zona cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
+        "en_GB": "\u00267Cannot find an area with that name! Make sure you spelled it correctly, and that you put the same caps too.",
+        "ro_RO": "\u00267Nu s-a putut gasi o zona cu acel nume! Asigura-te ca l-ai scris corect, si ca ai pus aceleasi litere mari si mici."
       }
     },
     {
@@ -1799,8 +1799,8 @@
         "tags": []
       },
       "languages": {
-        "en_GB": "&7Removed area %1!",
-        "ro_RO": "&7Zona %1 a fost eliminata!"
+        "en_GB": "\u00267Removed area %1!",
+        "ro_RO": "\u00267Zona %1 a fost eliminata!"
       }
     }
   ]

@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "boxpvp_welcomeholo_ln1",
+      "type": "text",
+      "_twin": {
+        "id": "2b0985fb-8652-4d15-88fa-ce7782abdf9f",
+        "dateCreated": 1716112585495,
+        "dateUpdated": 1716112982341,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00268| \u0026fWelcome on \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP\u0026f ",
+        "ro_RO": "\u00268| \u0026fBine ai venit \u0026fpe \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP\u0026f "
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln2",
+      "type": "text",
+      "_twin": {
+        "id": "0dd18d8f-1064-40c1-adaf-e5a1fe248eca",
+        "dateCreated": 1716112987568,
+        "dateUpdated": 1716113091244,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fWe\u0027re \u00266happy \u0026fto see you \u00266playing \u0026fon",
+        "ro_RO": "\u0026fNe \u00266bucuram \u0026fca te \u00266joci \u0026fpe"
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln3",
+      "type": "text",
+      "_twin": {
+        "id": "438151d2-9866-4d33-8ef4-fb6603560cad",
+        "dateCreated": 1716113095165,
+        "dateUpdated": 1716113134591,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026f our \u00266section.",
+        "ro_RO": "\u00266sectiunea\u0026f noastra."
+      }
+    },
+    {
+      "key": "boxpvp_welcomeholo_ln4",
+      "type": "text",
+      "_twin": {
+        "id": "07afeb2c-cb79-4d46-9b51-cf1da0e78132",
+        "dateCreated": 1716113139167,
+        "dateUpdated": 1716113259365,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fWe \u00266wish \u0026fyou a good time on our \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP",
+        "ro_RO": "\u0026fSi \u00266speram \u0026fsa te \u00266distrezi \u0026fpe \u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lB\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026lo\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lx\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lP\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lV\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lP"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln1",
+      "type": "text",
+      "_twin": {
+        "id": "2318aa3d-bca6-4c93-bdd5-b62a6428a769",
+        "dateCreated": 1716113913723,
+        "dateUpdated": 1716113958680,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lS\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u00268\u0026lt\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026la\u0026x\u0026C\u00269\u00269\u0026B\u00261\u0026D\u0026lr\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lt\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00263\u0026le\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lr \u0026x\u0026C\u00266\u00269\u0026B\u00262\u00269\u0026lM\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026li\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026E\u0026ln\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026le",
+        "ro_RO": "\u0026x\u0026C\u0026B\u00269\u0026A\u00261\u00265\u0026lM\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u00268\u0026li\u0026x\u0026C\u0026A\u00269\u0026A\u00261\u0026B\u0026ln\u0026x\u0026C\u00269\u00269\u0026B\u00261\u0026D\u0026la \u0026x\u0026C\u00268\u00269\u0026B\u00262\u00260\u0026lI\u0026x\u0026C\u00268\u00269\u0026B\u00262\u00263\u0026ln\u0026x\u0026C\u00267\u00269\u0026B\u00262\u00266\u0026lc\u0026x\u0026C\u00266\u00269\u0026B\u00262\u00269\u0026le\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026B\u0026lp\u0026x\u0026C\u00265\u00269\u0026C\u00262\u0026E\u0026lu\u0026x\u0026C\u00264\u00269\u0026C\u00263\u00261\u0026lt"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln2",
+      "type": "text",
+      "_twin": {
+        "id": "8de08f72-4ef9-49f1-ae2f-c128b40e88fb",
+        "dateCreated": 1716113977656,
+        "dateUpdated": 1716114812997,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "The mine will reset in \u00266%realmines_secondsleft_StarterMine% \u0026fsec.",
+        "ro_RO": "Se va reseta in \u00266%realmines_secondsleft_StarterMine% \u0026fsec."
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln3",
+      "type": "text",
+      "_twin": {
+        "id": "b5998852-cf50-4c78-b41c-28c7d501097c",
+        "dateCreated": 1716114065472,
+        "dateUpdated": 1716114094923,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "This mine is for \u00266starters",
+        "ro_RO": "Aceasta mina este pentru \u00266starters"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln4",
+      "type": "text",
+      "_twin": {
+        "id": "aa5e0f6d-9f7d-4330-a5a1-426e89a3ab5f",
+        "dateCreated": 1716114097759,
+        "dateUpdated": 1716114156521,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "With the \u00266slime \u0026ftaken from this \u00266mine",
+        "ro_RO": "Cu \u00266slime-ul \u0026fluat din aceasta \u00266mina"
+      }
+    },
+    {
+      "key": "boxpvp_startermineholo_ln5",
+      "type": "text",
+      "_twin": {
+        "id": "67451e06-d396-4816-962a-59bab2f70065",
+        "dateCreated": 1716114166264,
+        "dateUpdated": 1716114209238,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "You can buy \u00266tokens \u0026ffrom the shopkeeper.",
+        "ro_RO": "Poti cumpara de la shopkeeper \u00266token-uri"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln1",
+      "type": "text",
+      "_twin": {
+        "id": "582d59ed-cc8f-42c0-9a19-14777f0d4003",
+        "dateCreated": 1716115873789,
+        "dateUpdated": 1716115913499,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "This \u00266shopkeeper \u0026fsells \u00266items",
+        "ro_RO": "Acest \u00266shopkeeper \u0026fvinde \u00266iteme"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln2",
+      "type": "text",
+      "_twin": {
+        "id": "8f4dca26-33d2-4d49-8e0f-cf8cfc11cb6b",
+        "dateCreated": 1716115916506,
+        "dateUpdated": 1716115950451,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "That can help you in \u00266pvp",
+        "ro_RO": "Care te pot ajuta la \u00266pvp"
+      }
+    },
+    {
+      "key": "boxpvp_shopkeeperholo_ln3",
+      "type": "text",
+      "_twin": {
+        "id": "404d4c4f-7505-414c-9417-fa0c93c1fa0e",
+        "dateCreated": 1716115953397,
+        "dateUpdated": 1716115997887,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fyou can buy the \u00266items \u0026fusing \u00266tokens",
+        "ro_RO": "\u00266Itemele \u0026fle poti cumpara cu \u00266tokens"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln1",
+      "type": "text",
+      "_twin": {
+        "id": "72537451-570f-4189-b79b-dfdcb8c5d131",
+        "dateCreated": 1716116089104,
+        "dateUpdated": 1716116154933,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267ᴏᴏᴏ \u0026bᴊᴜᴍᴘ \u00267ᴀɴᴅ \u0026cꜰɪɢʜᴛ! \u00267ᴏᴏᴏ",
+        "ro_RO": "\u00267ᴏᴏᴏ \u0026bsᴀʀɪ \u00267sɪ \u0026cʟᴜᴘᴛᴀ-ᴛᴇ! \u00267ᴏᴏᴏ"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln2",
+      "type": "text",
+      "_twin": {
+        "id": "9e4953ea-d113-458f-938d-2da2cda4fbdd",
+        "dateCreated": 1716116169352,
+        "dateUpdated": 1716116224695,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fʙᴇꜰᴏʀᴇ ʏᴏᴜ ᴊᴜᴍᴘ, \u0026cᴅᴏɴ\u0027ᴛ ꜰᴏʀɢᴇᴛ\u00267! ",
+        "ro_RO": "\u0026fɪɴᴀɪɴᴛᴇ sᴀ sᴀʀɪ \u0026cɴᴜ ᴜɪᴛᴀ\u00267!"
+      }
+    },
+    {
+      "key": "boxpvp_jumpholo_ln3",
+      "type": "text",
+      "_twin": {
+        "id": "a47c5328-95e0-4443-b010-dca9cc65a5dd",
+        "dateCreated": 1716116233295,
+        "dateUpdated": 1716116317567,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fᴋᴇᴇᴘ ɪɴᴠᴇɴᴛᴏʀʏ ɪꜱ \u0026cᴏꜰꜰ\u00267!",
+        "ro_RO": "\u0026fᴋᴇᴇᴘ ɪɴᴠᴇɴᴛᴏʀʏ ᴇsᴛᴇ \u0026cᴅᴇᴢᴀᴄᴛɪᴠᴀᴛ\u00267!"
+      }
+    },
+    {
+      "key": "boxpvp_thefirstmine",
+      "type": "text",
+      "_twin": {
+        "id": "05ef7bca-6baf-47e8-bc2f-2742471fc097",
+        "dateCreated": 1716116923068,
+        "dateUpdated": 1716118804114,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267You got to the first mine! Start mining, to",
+        "ro_RO": "\u00267Ai ajuns la prima mina! Incepe sa minezi, pentru"
+      }
+    },
+    {
+      "key": "boxpvp_willresetin",
+      "type": "text",
+      "_twin": {
+        "id": "1d3cfbca-1a4d-4e3f-b76c-765da8ba3996",
+        "dateCreated": 1716118176431,
+        "dateUpdated": 1716118229486,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "ᴡɪʟʟ ʀᴇꜱᴇᴛ ɪɴ",
+        "ro_RO": "sᴇ ᴠᴀ ʀᴇsᴇᴛᴀ ɪɴ"
+      }
+    },
+    {
+      "key": "boxpvp_remainingblocks",
+      "type": "text",
+      "_twin": {
+        "id": "b31e8586-bb21-49a2-a9e5-1904c3d486bd",
+        "dateCreated": 1716118307246,
+        "dateUpdated": 1716118317285,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "ʀᴇᴍᴀɪɴɪɴɢ ʙʟᴏᴄᴋꜱ",
+        "ro_RO": "ʙʟᴏᴄᴜʀɪ ʀᴀᴍᴀsᴇ"
+      }
+    },
+    {
+      "key": "boxpvp_for",
+      "type": "text",
+      "_twin": {
+        "id": "ecd5119a-f204-4ac1-a157-26cacd462260",
+        "dateCreated": 1716118342266,
+        "dateUpdated": 1716118353280,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "for",
+        "ro_RO": "pentru"
+      }
+    },
+    {
+      "key": "boxpvp_mineholoitems",
+      "type": "text",
+      "_twin": {
+        "id": "c2c8e89a-c169-43fe-8bbb-bf58959d19f2",
+        "dateCreated": 1716118365628,
+        "dateUpdated": 1716118515607,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "ᴀʀᴍᴏʀꜱ, ꜱᴡᴏʀᴅꜱ, ᴘɪᴄᴋᴀxᴇꜱ, ᴄᴏɴꜱᴜᴍᴀʙʟᴇꜱ\u00267.",
+        "ro_RO": "ᴀʀᴍᴜʀɪ, sᴀʙɪɪ, ᴘɪᴄᴋᴀxᴇ-ᴜʀɪ, ᴄᴏɴsᴜᴍᴀʙɪʟᴇ\u00267."
+      }
+    },
+    {
+      "key": "boxpvp_mineholograms_ln2",
+      "type": "text",
+      "_twin": {
+        "id": "3431f6d8-eb44-4a24-863b-2ff89335bc91",
+        "dateCreated": 1716118630209,
+        "dateUpdated": 1716118702339,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Get blocks, which you can trade with",
+        "ro_RO": "\u00267A primi blockuri, pe care le poti da la schimb"
+      }
+    },
+    {
+      "key": "boxpvp_mineholograms_ln1",
+      "type": "text",
+      "_twin": {
+        "id": "5a39a146-d41f-4d09-b0a3-610eca0baa48",
+        "dateCreated": 1716118735862,
+        "dateUpdated": 1716118790870,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Start mining, to",
+        "ro_RO": "\u00267Incepe sa minezi, pentru"
+      }
+    },
+    {
+      "key": "boxpvp_realmines_minereset",
+      "type": "text",
+      "_twin": {
+        "id": "aaa3ee34-2e70-4339-9f7f-ee5fd3db63cf",
+        "dateCreated": 1716125530482,
+        "dateUpdated": 1716125631402,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267ᴛʜᴇ ᴍɪɴᴇ \u00266%mine% \u00267ʜᴀꜱ ᴊᴜꜱᴛ ʀᴇꜱᴇᴛ",
+        "ro_RO": "\u00267ᴍɪɴᴀ \u00266%mine% \u00267ᴛᴏᴄᴍᴀɪ ᴀ ғᴏsᴛ ʀᴇsᴇᴛᴀᴛᴀ"
+      }
+    },
+    {
+      "key": "boxpvp_rightclick",
+      "type": "text",
+      "_twin": {
+        "id": "2ad15385-621f-4c14-9f2b-6b116282298f",
+        "dateCreated": 1716135740838,
+        "dateUpdated": 1716136001453,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Right Click",
+        "ro_RO": "Click Dreapta"
+      }
+    }
+  ]
+}

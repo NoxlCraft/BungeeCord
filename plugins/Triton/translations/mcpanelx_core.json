@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "mcpanelx_console_complete",
+      "type": "text",
+      "_twin": {
+        "id": "3a8c2155-a924-40e6-baf5-2a67da690bfc",
+        "dateCreated": 1716654181023,
+        "dateUpdated": 1716654212270,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "The command has been executed in the server console!!",
+        "ro_RO": "Comanda a fost executata in consola server-ului!"
+      }
+    },
+    {
+      "key": "mcpanelx_core_AntiUserSteal",
+      "type": "text",
+      "_twin": {
+        "id": "7d680e6c-47e9-4b34-9d52-8abfaa557a75",
+        "dateCreated": 1716654238096,
+        "dateUpdated": 1716654287785,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "Why are you trying to steal a user account?",
+        "ro_RO": "De ce încerci sa furi un cont?"
+      }
+    },
+    {
+      "key": "mcpanelx_KickMessage",
+      "type": "text",
+      "_twin": {
+        "id": "62bee68a-6d88-40c3-80d4-711a2785dfd4",
+        "dateCreated": 1716654298225,
+        "dateUpdated": 1716654314162,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "You were kicked from the server: ",
+        "ro_RO": "Ai fost dat afara de pe server: "
+      }
+    },
+    {
+      "key": "mcpanelx_alert",
+      "type": "text",
+      "_twin": {
+        "id": "4b79d31f-447a-4196-a09d-4b7e389be84e",
+        "dateCreated": 1716654324864,
+        "dateUpdated": 1716654341461,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "Alert",
+        "ro_RO": "Anunt"
+      }
+    },
+    {
+      "key": "mcpanelx_blocked-command-message-admin",
+      "type": "text",
+      "_twin": {
+        "id": "8e03bb74-8f7b-4cf7-876d-8c2b42c9292e",
+        "dateCreated": 1716654447536,
+        "dateUpdated": 1716654496810,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "\u00267The player \u0026c%1 \u00267tried to execute a blocked command.",
+        "ro_RO": "\u00267Jucatorul \u0026c%1 \u00267foloeste comenzi de tip haxdex."
+      }
+    }
+  ]
+}

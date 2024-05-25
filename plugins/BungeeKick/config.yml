@@ -1,5 +1,0 @@
-ServerName: 'lobby'
-# This is where the player is kicked to. This is usually the lobby/hub server
-KickMessage: '&c&lNoxl&f&lCraft &7» Ai fost dat afara de pe server:&r '
-# Message to be sent to the player who has been kicked. This message is followed by the kick reasonShowKickMessage: True
-# Set this to True if you want the kicked player to be able to see the kick reason.

@@ -93,6 +93,20 @@
         "en_GB": "We are so sorry, but our server is restarting",
         "ro_RO": "Ne pare rau dar server-ul nostru se reporneste!"
       }
+    },
+    {
+      "key": "core_command_only_for_players",
+      "type": "text",
+      "_twin": {
+        "id": "f0d456fb-5344-4c8b-9b10-029dd9418b02",
+        "dateCreated": 1716654074072,
+        "dateUpdated": 1716654101112,
+        "archived": false
+      },
+      "languages": {
+        "en_GB": "This command is only for ingame players!",
+        "ro_RO": "Aceasta comanda este doar pentru jucatorii!"
+      }
     }
   ]
 }

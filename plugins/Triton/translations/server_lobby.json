@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "server_lobby_dh_ajp_top10_line_1",
+      "type": "text",
+      "_twin": {
+        "id": "263e1a8c-6225-4b36-8cc4-119ef80185f5",
+        "dateCreated": 1715758573037,
+        "dateUpdated": 1715760745180,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "TOP \u0026c\u0026l10 \u0026fPARKOUR!",
+        "ro_RO": "TOP \u0026c\u0026l10 \u0026fPARKOUR!"
+      }
+    },
+    {
+      "key": "server_lobby_dh_ajp_top10_line_3",
+      "type": "text",
+      "_twin": {
+        "id": "4405d384-e045-49a0-9b88-93c40766be79",
+        "dateCreated": 1715758661896,
+        "dateUpdated": 1715760773897,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fTry and beat the best of the best!",
+        "ro_RO": "\u0026fIncerca sa fu cel mai bun pe server!"
+      }
+    },
+    {
+      "key": "server_lobby_dh_ajp_top10_line_2",
+      "type": "text",
+      "_twin": {
+        "id": "4d447b53-cd8b-42a1-8dbf-6eb79dc80993",
+        "dateCreated": 1715758703173,
+        "dateUpdated": 1715758738298,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026fYour score: \u0026c%1",
+        "ro_RO": "\u0026fScor-ul tau: \u0026c%1"
+      }
+    },
+    {
+      "key": "server_lobby_dh_parkour_line_1",
+      "type": "text",
+      "_twin": {
+        "id": "06c3696e-df89-4e5a-8eef-66109bca8ebe",
+        "dateCreated": 1715759140878,
+        "dateUpdated": 1715759197651,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00264\u0026lParkour \u00267(\u0026c%1\u00267)",
+        "ro_RO": "\u00264\u0026lParkour \u00267(\u0026c%1\u00267)"
+      }
+    },
+    {
+      "key": "server_lobby_dh_parkour_line_2",
+      "type": "text",
+      "_twin": {
+        "id": "f9154992-b8c4-49c2-bfff-86f00ae5490c",
+        "dateCreated": 1715759213350,
+        "dateUpdated": 1715760720858,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026f(( CLICK TO PLAY))",
+        "ro_RO": "\u0026f(( CLICK PENTRU A JUCA  ))"
+      }
+    },
+    {
+      "key": "server_lobby_dh_busola_line_1",
+      "type": "text",
+      "_twin": {
+        "id": "155dc90c-678a-46b3-80e6-37d2ef51edda",
+        "dateCreated": 1715759771792,
+        "dateUpdated": 1715759812030,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00267Server Selector",
+        "ro_RO": "\u00267Selector de sever"
+      }
+    },
+    {
+      "key": "server_lobby_dh_lang_line_1",
+      "type": "text",
+      "_twin": {
+        "id": "b07aa4a0-8852-46c0-afa0-8de0e2aeaf0c",
+        "dateCreated": 1715760533881,
+        "dateUpdated": 1715760562268,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u00264\u0026lLanguage \u00267(\u0026cen_GB\u00267)",
+        "ro_RO": "\u00264\u0026lLimba \u00267(\u0026cro_RO\u00267)"
+      }
+    },
+    {
+      "key": "server_lobby_dh_lang_line_2",
+      "type": "text",
+      "_twin": {
+        "id": "ac419135-0f25-41b6-9a5c-837b1cc76ad2",
+        "dateCreated": 1715760579566,
+        "dateUpdated": 1715760676145,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "\u0026f(( CLICK TO CHANGE ))",
+        "ro_RO": "\u0026f(( CLICK PENTRU A SCHIMBA ))"
+      }
+    }
+  ]
+}

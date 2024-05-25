@@ -183,6 +183,96 @@
         "en_GB": "\u00267",
         "ro_RO": "\u00267"
       }
+    },
+    {
+      "key": "global_playermoney",
+      "type": "text",
+      "_twin": {
+        "id": "c058060f-717a-4bf4-8d39-81ea5d3b0125",
+        "dateCreated": 1716111497492,
+        "dateUpdated": 1716111541987,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Money",
+        "ro_RO": "Bani"
+      }
+    },
+    {
+      "key": "global_playerminedblocks",
+      "type": "text",
+      "_twin": {
+        "id": "a5d8dbcd-0cfa-49d2-ab14-53b38b002612",
+        "dateCreated": 1716111545859,
+        "dateUpdated": 1716111568176,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Mined Blocks",
+        "ro_RO": "Blocuri Minate"
+      }
+    },
+    {
+      "key": "global_playerkills",
+      "type": "text",
+      "_twin": {
+        "id": "e4d8d614-314d-4ffa-8984-56a993ab9208",
+        "dateCreated": 1716111616272,
+        "dateUpdated": 1716111629929,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Kills",
+        "ro_RO": "Ucideri"
+      }
+    },
+    {
+      "key": "global_playerdeaths",
+      "type": "text",
+      "_twin": {
+        "id": "0a1bf283-b58f-45f2-b2fa-566ad5d0ef32",
+        "dateCreated": 1716111632072,
+        "dateUpdated": 1716111646209,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Deaths",
+        "ro_RO": "Decese"
+      }
+    },
+    {
+      "key": "global_playerteam",
+      "type": "text",
+      "_twin": {
+        "id": "2af39fa3-0258-4f9b-b621-a51ed0a7be4f",
+        "dateCreated": 1716111648260,
+        "dateUpdated": 1716111662930,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Team",
+        "ro_RO": "Echipa"
+      }
+    },
+    {
+      "key": "global_playerplaytime",
+      "type": "text",
+      "_twin": {
+        "id": "22c9bf8b-e447-4d68-9479-90957bef1384",
+        "dateCreated": 1716111666825,
+        "dateUpdated": 1716111684550,
+        "archived": false,
+        "tags": []
+      },
+      "languages": {
+        "en_GB": "Playtime",
+        "ro_RO": "Timp Jucat"
+      }
     }
   ]
 }
